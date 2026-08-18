@@ -1,0 +1,293 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─── Design tokens ─── */
+:root {
+  --ff-primary: #3370FF;
+  --ff-primary-hover: #2860E0;
+  --ff-bg: #F2F3F5;
+  --ff-surface: #FFFFFF;
+  --ff-ink: #1F2329;
+  --ff-ink-secondary: #646A73;
+  --ff-line: #DEE0E3;
+  --ff-sidebar: #0F1115;
+  --ff-radius: 8px;
+  --ff-ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --ff-duration: 180ms;
+  --ff-titlebar: 36px;
+  color-scheme: light;
+}
+
+html.dark {
+  --ff-bg: #0E1116;
+  --ff-surface: #171A21;
+  --ff-ink: #E8EAED;
+  --ff-ink-secondary: #9AA0A6;
+  --ff-line: #2A2F38;
+  --ff-sidebar: #0A0C10;
+  color-scheme: dark;
+}
+
+/* ─── Base ─── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  /* 减少字体抖动，提升滚动流畅度 */
+  text-rendering: optimizeLegibility;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: 'PingFang SC', 'Microsoft YaHei UI', 'Microsoft YaHei', Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--ff-bg);
+  color: var(--ff-ink);
+  overflow: hidden;
+  /* 触控板/滚轮更顺滑 */
+  overscroll-behavior: none;
+}
+
+/* 滚动容器默认优化：GPU 合成 + 惯性 */
+.scroll-smooth-y {
+  overflow-y: auto;
+  overflow-x: hidden;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+  will-change: scroll-position;
+  contain: layout style paint;
+}
+
+.scroll-y {
+  overflow-y: auto;
+  overflow-x: hidden;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+  contain: layout style paint;
+}
+
+/* 列表项渲染隔离，长列表更流畅 */
+.list-item-contain {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 64px;
+  contain: layout style;
+}
+
+/* ─── Scrollbar ─── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(31, 35, 41, 0.14);
+  border-radius: 999px;
+  transition: background 0.15s ease;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(31, 35, 41, 0.28);
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+html.dark ::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.12);
+}
+html.dark ::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.22);
+}
+
+/* 滚动条默认隐藏，悬停容器时显示（更干净） */
+.scrollbar-auto {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+.scrollbar-auto:hover {
+  scrollbar-color: rgba(31, 35, 41, 0.2) transparent;
+}
+.scrollbar-auto::-webkit-scrollbar-thumb {
+  background: transparent;
+}
+.scrollbar-auto:hover::-webkit-scrollbar-thumb {
+  background: rgba(31, 35, 41, 0.16);
+}
+html.dark .scrollbar-auto:hover {
+  scrollbar-color: rgba(255, 255, 255, 0.18) transparent;
+}
+html.dark .scrollbar-auto:hover::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.14);
+}
+
+/* ─── Components ─── */
+@layer components {
+  .ff-card {
+    @apply bg-white dark:bg-gray-900 rounded-lg border border-line dark:border-gray-700/80 shadow-soft;
+  }
+
+  .ff-btn {
+    @apply inline-flex items-center justify-center gap-1.5 h-8 px-3.5 rounded-md text-sm font-medium
+           transition-all duration-150 ease-smooth select-none
+           disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none;
+  }
+
+  .ff-btn-primary {
+    @apply ff-btn bg-primary text-white shadow-sm
+           hover:bg-primary-hover active:bg-primary-active active:scale-[0.98];
+  }
+
+  .ff-btn-secondary {
+    @apply ff-btn bg-surface-tertiary dark:bg-gray-800 text-ink dark:text-gray-100
+           hover:bg-line-soft dark:hover:bg-gray-700 active:scale-[0.98];
+  }
+
+  .ff-btn-ghost {
+    @apply ff-btn bg-transparent text-ink-secondary dark:text-gray-300
+           hover:bg-black/[0.04] dark:hover:bg-white/[0.06] active:scale-[0.98];
+  }
+
+  .ff-btn-danger {
+    @apply ff-btn bg-red-500 text-white hover:bg-red-600 active:bg-red-700 active:scale-[0.98];
+  }
+
+  .ff-icon-btn {
+    @apply w-8 h-8 rounded-md inline-flex items-center justify-center
+           text-ink-secondary dark:text-gray-300
+           hover:bg-black/[0.05] dark:hover:bg-white/[0.08]
+           active:scale-95 transition-all duration-150 ease-smooth;
+  }
+
+  .ff-input {
+    @apply w-full h-9 px-3 text-sm rounded-md outline-none
+           bg-surface-tertiary dark:bg-gray-800
+           text-ink dark:text-gray-100 placeholder:text-ink-tertiary
+           border border-transparent
+           hover:bg-line-soft dark:hover:bg-gray-700
+           focus:bg-white dark:focus:bg-gray-900
+           focus:border-primary/50 focus:ring-2 focus:ring-primary/20
+           transition-all duration-150 ease-smooth
+           disabled:opacity-60 disabled:cursor-not-allowed;
+  }
+
+  .ff-input-outline {
+    @apply w-full h-10 px-3 text-sm rounded-md outline-none
+           bg-white dark:bg-gray-900
+           text-ink dark:text-gray-100 placeholder:text-ink-tertiary
+           border border-line dark:border-gray-600
+           hover:border-line-strong dark:hover:border-gray-500
+           focus:border-primary focus:ring-2 focus:ring-primary/20
+           transition-all duration-150 ease-smooth
+           disabled:bg-surface-secondary disabled:cursor-not-allowed;
+  }
+
+  .ff-badge {
+    @apply inline-flex items-center justify-center min-w-[18px] h-[18px] px-1
+           rounded-full bg-red-500 text-white text-[10px] font-semibold leading-none;
+  }
+
+  .ff-skeleton {
+    @apply rounded-md bg-gradient-to-r from-gray-100 via-gray-50 to-gray-100
+           dark:from-gray-800 dark:via-gray-700 dark:to-gray-800
+           bg-[length:200%_100%] animate-shimmer;
+  }
+
+  .ff-panel {
+    @apply bg-white dark:bg-gray-900 border border-line dark:border-gray-700/80 rounded-lg;
+  }
+
+  .ff-divider {
+    @apply h-px bg-line dark:bg-gray-700/80;
+  }
+
+  /* 导航 / 菜单入场 */
+  .ff-pop {
+    @apply animate-scale-in origin-top-right;
+  }
+}
+
+/* ─── Electron ─── */
+.electron-drag {
+  -webkit-app-region: drag;
+  app-region: drag;
+}
+
+.electron-no-drag {
+  -webkit-app-region: no-drag;
+  app-region: no-drag;
+}
+
+/* 有自定义标题栏时，给根布局留出高度 */
+html.is-electron body {
+  /* 标题栏在 Vue 内渲染时不需要额外 body padding */
+}
+
+/* ─── Focus visible ─── */
+:focus-visible {
+  outline: 2px solid rgba(51, 112, 255, 0.45);
+  outline-offset: 2px;
+}
+
+button:focus:not(:focus-visible),
+a:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* ─── Selection ─── */
+::selection {
+  background: rgba(51, 112, 255, 0.22);
+  color: inherit;
+}
+
+/* ─── Reduced motion ─── */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ─── Vue transition helpers ─── */
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity var(--ff-duration) var(--ff-ease);
+}
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.slide-up-enter-active,
+.slide-up-leave-active {
+  transition: opacity 200ms var(--ff-ease), transform 200ms var(--ff-ease);
+}
+.slide-up-enter-from,
+.slide-up-leave-to {
+  opacity: 0;
+  transform: translateY(6px);
+}
+
+.menu-enter-active,
+.menu-leave-active {
+  transition: opacity 120ms ease, transform 120ms var(--ff-ease);
+}
+.menu-enter-from,
+.menu-leave-to {
+  opacity: 0;
+  transform: scale(0.96) translateY(-4px);
+}

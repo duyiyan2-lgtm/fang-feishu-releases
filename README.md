@@ -20,17 +20,23 @@ SHA-256 校验见 [`SHA256SUMS.txt`](SHA256SUMS.txt)。
 
 ## 仓库目录
 
+- `01-完整项目源码/`：完整项目工作区（Web/PC 源码、文档、历史发布分片）
+- `02-LiveKit-Web-PC最新修复源码/`：2026-08-12 LiveKit / Web / PC 修复工作区
 - `03-最新安装包和部署包/`：Android / Web / PC / Backend 最新交付文件
 - `04-项目资料/`：项目汇报资料与 PPT
 - `05-HR面试展示图片/`：面试展示图
 - `06-HR作品集展示页-可直接发送/`：可直接发送的作品集页面
 - `README-项目索引.md`：本地归档原始索引（含源码 Git 状态）
 
-## 源码位置
+## 源码说明
 
-完整项目源码和 LiveKit 修复源码体积约 2.8 GB，并包含超过 GitHub 单文件 100 MB 限制的构建产物，因此**未上传到本仓库**。
+`01`、`02` 的源码和可入库发布物已上传。以下内容因超过 GitHub 单文件 100MB 限制、或可用命令恢复，未放入本仓库：
 
-源码仍在 Gitee：
+- `.git/` 历史包（01 的 pack 约 247MB）
+- `node_modules/`（含 172MB 的 `electron.exe`，可在对应目录执行 `npm install`）
+- `clients/web-desktop/release/win-unpacked/`（未打包运行目录，含超过 100MB 的 exe）
+
+完整 Git 历史仍在 Gitee：
 
 - 完整项目：https://gitee.com/du-yiyan/fang-feishu-app-class2-group7
 - LiveKit 修复工作区：https://gitee.com/grade24-fullstack-class2/fang-feishu-app-class2-group7（分支 `fix/web-livekit-realtime-20260811`）

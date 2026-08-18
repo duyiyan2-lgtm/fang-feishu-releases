@@ -1,0 +1,192 @@
+{
+  "format": "fang-feishu-apk-chunks-v1",
+  "sourceFileCount": 26,
+  "sourceBytes": 1519146415,
+  "storedUniqueBytes": 240388442,
+  "deduplicationRatio": 0.158239,
+  "maxBlobBytes": 16777216,
+  "packages": [
+    {
+      "fileName": "fang-feishu-android-fixed-20260712.apk",
+      "size": 59547662,
+      "sha256": "0C62D12A3738D4B9793D6DCA9B0C5618AA3ECE1133E26DA15E49C3D7BCC771C9",
+      "manifest": "manifests/fang-feishu-android-fixed-20260712.apk.json",
+      "partCount": 467
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.1-rtc-fix.apk",
+      "size": 59053067,
+      "sha256": "43EF2D4DBA247CD735473971A11CD8A0976F2ADBC82A679175B7003B01E16A5D",
+      "manifest": "manifests/fang-feishu-android-v1.0.1-rtc-fix.apk.json",
+      "partCount": 467
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.10-single-session.apk",
+      "size": 59184143,
+      "sha256": "538F900F2CA713B995D46A3835A7D7CFEC03256E2455C9BCE6156CB943929761",
+      "manifest": "manifests/fang-feishu-android-v1.0.10-single-session.apk.json",
+      "partCount": 467
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.11-multi-rtc-meeting-end.apk",
+      "size": 59184139,
+      "sha256": "F0C6C7CAB36AD70A0D92148FF10CDAE3E1F46A243F69E6BC211105793C279601",
+      "manifest": "manifests/fang-feishu-android-v1.0.11-multi-rtc-meeting-end.apk.json",
+      "partCount": 467
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.12-bugfixes.apk",
+      "size": 59216911,
+      "sha256": "9449755DDF239CFA814A8C91C54D023A98DFC66EEA6496474F4A34B9F90323AD",
+      "manifest": "manifests/fang-feishu-android-v1.0.12-bugfixes.apk.json",
+      "partCount": 467
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.13-cloud-tabs.apk",
+      "size": 59216911,
+      "sha256": "382F6E5130D3530DF7F4585CF903EFBC5D7FD372E5F81D5D92E65F2D3873B037",
+      "manifest": "manifests/fang-feishu-android-v1.0.13-cloud-tabs.apk.json",
+      "partCount": 467
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.14-0714-bugfixes.apk",
+      "size": 59269102,
+      "sha256": "31B72DCC7E08CD8ACB295B3E5D0F4EDCACB19D4E44D3EEAD1B7393B9DDFF75D3",
+      "manifest": "manifests/fang-feishu-android-v1.0.14-0714-bugfixes.apk.json",
+      "partCount": 468
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.15-group-video-meeting.apk",
+      "size": 59283187,
+      "sha256": "0DFDFCD84C32E909A68784E87BEB5F36D59D33A49C3F9B557B50C9B13722971E",
+      "manifest": "manifests/fang-feishu-android-v1.0.15-group-video-meeting.apk.json",
+      "partCount": 468
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.16-pc-mobile-meeting.apk",
+      "size": 59283187,
+      "sha256": "BFE900551685151D1FCB6AE6A78671857050FFBB44F8D1FE0E38D919FC48DC8F",
+      "manifest": "manifests/fang-feishu-android-v1.0.16-pc-mobile-meeting.apk.json",
+      "partCount": 468
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.17-logout-default-account-fix.apk",
+      "size": 59283187,
+      "sha256": "9DF0BD423BCA590492B7D39BE4A9D8BB660D2F2EA09120258CCE1F078166174A",
+      "manifest": "manifests/fang-feishu-android-v1.0.17-logout-default-account-fix.apk.json",
+      "partCount": 468
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.18-realtime-message-fix.apk",
+      "size": 60167982,
+      "sha256": "F4B2C66CBB75674944866975371B9542DA81B022ABBBD3B3A6E6CC3480556AB6",
+      "manifest": "manifests/fang-feishu-android-v1.0.18-realtime-message-fix.apk.json",
+      "partCount": 469
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.19-timezone-fix.apk",
+      "size": 60167982,
+      "sha256": "90C376A6D979A1AF041AA8E9C6E5E7C4A6D2AFCF29DD813CE69A35D9F07E53E7",
+      "manifest": "manifests/fang-feishu-android-v1.0.19-timezone-fix.apk.json",
+      "partCount": 469
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.2-dynamic-background.apk",
+      "size": 59053067,
+      "sha256": "E48AC507A9B79AC1768C294F0F2B2067998C56C3B10E33C7D63AF7B58E9E401E",
+      "manifest": "manifests/fang-feishu-android-v1.0.2-dynamic-background.apk.json",
+      "partCount": 467
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.20-document-time-and-meeting-status-fix.apk",
+      "size": 60184366,
+      "sha256": "3BD61D4C7D3556B5750C7C348B2750DBC7A5D9AB6F900105B829C222700C6FCF",
+      "manifest": "manifests/fang-feishu-android-v1.0.20-document-time-and-meeting-status-fix.apk.json",
+      "partCount": 469
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.21-video-meeting-crash-fix.apk",
+      "size": 60184366,
+      "sha256": "8FBCDAFE0D1ACF555FEA51ED082DD6DD9214FE97254947C0AC6FCC08731F94A2",
+      "manifest": "manifests/fang-feishu-android-v1.0.21-video-meeting-crash-fix.apk.json",
+      "partCount": 469
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.22-meeting-header-layout-fix.apk",
+      "size": 60184366,
+      "sha256": "5584E2DE05A69DDCCE04FA7476E3D8BD1E3ACD34E47E1FD3A4D546D48CEED22D",
+      "manifest": "manifests/fang-feishu-android-v1.0.22-meeting-header-layout-fix.apk.json",
+      "partCount": 469
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.24-meeting-identity-avatar-fix.apk",
+      "size": 53009177,
+      "sha256": "E4CA27C565DDFD86A3E9F9152541F0325702254407A47A3E334F8542FBD915EA",
+      "manifest": "manifests/fang-feishu-android-v1.0.24-meeting-identity-avatar-fix.apk.json",
+      "partCount": 466
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.25-camera-off-avatar-fix.apk",
+      "size": 53009177,
+      "sha256": "235DC7881C3C3127321EBFE9DBD01B74065E56E9CB78F03B489F0FAB9737957C",
+      "manifest": "manifests/fang-feishu-android-v1.0.25-camera-off-avatar-fix.apk.json",
+      "partCount": 466
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.26-meeting-topbar-fix.apk",
+      "size": 53009177,
+      "sha256": "BAB0C48E53374472BEF68ACBB1965EF986D560A7EA697B53A63A3AD5DFEE8E19",
+      "manifest": "manifests/fang-feishu-android-v1.0.26-meeting-topbar-fix.apk.json",
+      "partCount": 466
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.27-chinese-registration-fix.apk",
+      "size": 53009177,
+      "sha256": "037D281DA783EB8864077BDA707868CEBF156F609A9A4E5A23F0EDB51EF480FB",
+      "manifest": "manifests/fang-feishu-android-v1.0.27-chinese-registration-fix.apk.json",
+      "partCount": 466
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.3-navigation-ui.apk",
+      "size": 59069451,
+      "sha256": "9EB71AFCB6E0330C0C8866B2B10CE7B81EBE19FAC082FE4D33EC1B4A34938A3F",
+      "manifest": "manifests/fang-feishu-android-v1.0.3-navigation-ui.apk.json",
+      "partCount": 467
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.4-topbar-fix.apk",
+      "size": 59069451,
+      "sha256": "DA16AE8D2DE6246D9133A218014720337B7103944B88A34C901938F40046B1D5",
+      "manifest": "manifests/fang-feishu-android-v1.0.4-topbar-fix.apk.json",
+      "partCount": 467
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.5-approvals.apk",
+      "size": 59085835,
+      "sha256": "E396FC9D7B946C74DACD4F2B2C0BE39198D47D533D5CA575CBE6A09042650C4A",
+      "manifest": "manifests/fang-feishu-android-v1.0.5-approvals.apk.json",
+      "partCount": 467
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.6-rtc-context-fix.apk",
+      "size": 59085835,
+      "sha256": "5E05D3DCC9C15D51F269560948F567371846B913FB83C26E1130DC1F96CB1812",
+      "manifest": "manifests/fang-feishu-android-v1.0.6-rtc-context-fix.apk.json",
+      "partCount": 467
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.8-profile-friends-meeting.apk",
+      "size": 59167755,
+      "sha256": "411AB6D02FBB7C4FC7BFF53533F8853A9FCF28A06942C9217F55FE72F8D99022",
+      "manifest": "manifests/fang-feishu-android-v1.0.8-profile-friends-meeting.apk.json",
+      "partCount": 467
+    },
+    {
+      "fileName": "fang-feishu-android-v1.0.9-meeting-invite-layout.apk",
+      "size": 59167755,
+      "sha256": "9AC283A0143A8035D89417E578718FBDDE76F89736313718C615E8E1E8E8A010",
+      "manifest": "manifests/fang-feishu-android-v1.0.9-meeting-invite-layout.apk.json",
+      "partCount": 467
+    }
+  ]
+}

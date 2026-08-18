@@ -1,0 +1,68 @@
+services:
+  api:
+    build:
+      context: ../..
+      dockerfile: backend/Dockerfile
+    container_name: fang-feishu-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:8080
+      ConnectionStrings__Default: Host=postgres;Port=5432;Database=fang_feishu;Username=fang_feishu;Password=fang_feishu_pwd
+      Jwt__Issuer: FangFeishu
+      Jwt__Audience: FangFeishuClients
+      Jwt__Secret: fang-feishu-dev-secret-key-change-me
+      Jwt__ExpireMinutes: 720
+      Storage__Provider: Minio
+      Storage__Minio__Endpoint: minio:9000
+      Storage__Minio__AccessKey: minioadmin
+      Storage__Minio__SecretKey: minioadmin
+      Storage__Minio__BucketName: fang-feishu
+      Storage__Minio__UseSsl: "false"
+      Cors__Origins__0: http://localhost:5173
+      Cors__Origins__1: http://127.0.0.1:5173
+      Cors__Origins__2: http://localhost:3000
+      Cors__Origins__3: http://127.0.0.1:3000
+      Database__AutoCreate: "true"
+    ports:
+      - "5080:8080"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      minio:
+        condition: service_started
+    restart: unless-stopped
+
+  postgres:
+    image: postgres:16
+    container_name: fang-feishu-postgres
+    environment:
+      POSTGRES_DB: fang_feishu
+      POSTGRES_USER: fang_feishu
+      POSTGRES_PASSWORD: fang_feishu_pwd
+    ports:
+      - "55432:5432"
+    volumes:
+      - fang_feishu_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U fang_feishu -d fang_feishu"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  minio:
+    image: minio/minio:latest
+    container_name: fang-feishu-minio
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: minioadmin
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    volumes:
+      - fang_feishu_minio:/data
+    restart: unless-stopped
+
+volumes:
+  fang_feishu_pgdata:
+  fang_feishu_minio:

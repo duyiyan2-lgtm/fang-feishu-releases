@@ -1,0 +1,45 @@
+{
+  "format": "fang-feishu-file-chunks-v1",
+  "fileName": "FangFeishu-PC-Setup-v0.4.0.exe",
+  "size": 85309884,
+  "sha256": "DA0675A972E3CB5CE70CE97B9176E86B60DC5E5026CA6F67BDEBBC72153BE375",
+  "chunkSize": 16777216,
+  "parts": [
+    {
+      "index": 1,
+      "path": "chunks/001-a396ceb0c9a464157969f3d841e80c97e212b69c940953dc618482f2ff2f5746.part",
+      "size": 16777216,
+      "sha256": "A396CEB0C9A464157969F3D841E80C97E212B69C940953DC618482F2FF2F5746"
+    },
+    {
+      "index": 2,
+      "path": "chunks/002-3da8378064fe64455af8d7e9179f282b93eba9c57d6fd1bf8460eb1e1b595a73.part",
+      "size": 16777216,
+      "sha256": "3DA8378064FE64455AF8D7E9179F282B93EBA9C57D6FD1BF8460EB1E1B595A73"
+    },
+    {
+      "index": 3,
+      "path": "chunks/003-35fdc6e670ab3bae330877d9f0600372e0415cafde2a7d592738a1e5e08167b8.part",
+      "size": 16777216,
+      "sha256": "35FDC6E670AB3BAE330877D9F0600372E0415CAFDE2A7D592738A1E5E08167B8"
+    },
+    {
+      "index": 4,
+      "path": "chunks/004-cdb10e56a504d838849f9497866b451a1ac9356e89b8fa907872045c168962a1.part",
+      "size": 16777216,
+      "sha256": "CDB10E56A504D838849F9497866B451A1AC9356E89B8FA907872045C168962A1"
+    },
+    {
+      "index": 5,
+      "path": "chunks/005-7de4676dc8c9125548009fa99bb69bcceb441cef44fc847ac15b865c3095754d.part",
+      "size": 16777216,
+      "sha256": "7DE4676DC8C9125548009FA99BB69BCCEB441CEF44FC847AC15B865C3095754D"
+    },
+    {
+      "index": 6,
+      "path": "chunks/006-f57dd4323984d0f7edd27d35bf1f49d113cdc97cb1c66f9d608e385f7f7dc46e.part",
+      "size": 1423804,
+      "sha256": "F57DD4323984D0F7EDD27D35BF1F49D113CDC97CB1C66F9D608E385F7F7DC46E"
+    }
+  ]
+}

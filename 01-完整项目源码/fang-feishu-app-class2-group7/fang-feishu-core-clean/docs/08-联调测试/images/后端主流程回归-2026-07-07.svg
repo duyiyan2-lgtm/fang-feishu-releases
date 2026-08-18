@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760" role="img" aria-labelledby="title desc">
+  <title id="title">后端主流程回归结果</title>
+  <desc id="desc">2026-07-07 后端服务器主流程接口回归结果，10 项通过，logout 返回 404。</desc>
+  <rect width="1280" height="760" rx="24" fill="#111827"/>
+  <rect x="36" y="36" width="1208" height="688" rx="14" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+  <text x="64" y="86" fill="#f8fafc" font-size="30" font-family="Microsoft YaHei, Arial, sans-serif">后端主流程回归 - 2026-07-07</text>
+  <text x="64" y="126" fill="#cbd5e1" font-size="20" font-family="Consolas, 'Courier New', monospace">Base URL: http://120.76.54.147</text>
+  <rect x="64" y="160" width="260" height="54" rx="8" fill="#064e3b"/>
+  <text x="88" y="194" fill="#d1fae5" font-size="22" font-family="Microsoft YaHei, Arial, sans-serif">通过 10 项</text>
+  <rect x="348" y="160" width="260" height="54" rx="8" fill="#7f1d1d"/>
+  <text x="372" y="194" fill="#fee2e2" font-size="22" font-family="Microsoft YaHei, Arial, sans-serif">未通过 1 项</text>
+  <rect x="64" y="244" width="1152" height="54" fill="#1e293b"/>
+  <text x="84" y="278" fill="#e2e8f0" font-size="20" font-family="Microsoft YaHei, Arial, sans-serif">接口</text>
+  <text x="760" y="278" fill="#e2e8f0" font-size="20" font-family="Microsoft YaHei, Arial, sans-serif">状态码</text>
+  <text x="920" y="278" fill="#e2e8f0" font-size="20" font-family="Microsoft YaHei, Arial, sans-serif">结果</text>
+  <text x="84" y="330" fill="#d1fae5" font-size="18" font-family="Consolas, 'Courier New', monospace">GET /health</text>
+  <text x="760" y="330" fill="#d1fae5" font-size="18" font-family="Consolas, 'Courier New', monospace">200</text>
+  <text x="920" y="330" fill="#22c55e" font-size="18" font-family="Microsoft YaHei, Arial, sans-serif">PASS</text>
+  <text x="84" y="374" fill="#d1fae5" font-size="18" font-family="Consolas, 'Courier New', monospace">POST /api/v1/auth/login</text>
+  <text x="760" y="374" fill="#d1fae5" font-size="18" font-family="Consolas, 'Courier New', monospace">200</text>
+  <text x="920" y="374" fill="#22c55e" font-size="18" font-family="Microsoft YaHei, Arial, sans-serif">PASS</text>
+  <text x="84" y="418" fill="#d1fae5" font-size="18" font-family="Consolas, 'Courier New', monospace">GET /api/v1/auth/me</text>
+  <text x="760" y="418" fill="#d1fae5" font-size="18" font-family="Consolas, 'Courier New', monospace">200</text>
+  <text x="920" y="418" fill="#22c55e" font-size="18" font-family="Microsoft YaHei, Arial, sans-serif">PASS</text>
+  <text x="84" y="462" fill="#d1fae5" font-size="18" font-family="Consolas, 'Courier New', monospace">GET /api/v1/contacts / im / notifications / calendar</text>
+  <text x="760" y="462" fill="#d1fae5" font-size="18" font-family="Consolas, 'Courier New', monospace">200</text>
+  <text x="920" y="462" fill="#22c55e" font-size="18" font-family="Microsoft YaHei, Arial, sans-serif">PASS</text>
+  <text x="84" y="506" fill="#d1fae5" font-size="18" font-family="Consolas, 'Courier New', monospace">GET /api/v1/approvals / files / operation-logs</text>
+  <text x="760" y="506" fill="#d1fae5" font-size="18" font-family="Consolas, 'Courier New', monospace">200</text>
+  <text x="920" y="506" fill="#22c55e" font-size="18" font-family="Microsoft YaHei, Arial, sans-serif">PASS</text>
+  <text x="84" y="570" fill="#fecaca" font-size="18" font-family="Consolas, 'Courier New', monospace">POST /api/v1/auth/logout</text>
+  <text x="760" y="570" fill="#fecaca" font-size="18" font-family="Consolas, 'Courier New', monospace">404</text>
+  <text x="920" y="570" fill="#ef4444" font-size="18" font-family="Microsoft YaHei, Arial, sans-serif">FAIL</text>
+  <rect x="64" y="626" width="1152" height="56" rx="8" fill="#312e81"/>
+  <text x="88" y="661" fill="#e0e7ff" font-size="20" font-family="Microsoft YaHei, Arial, sans-serif">结论：本地后端已实现 logout，服务器仍需部署最新版本后再次回归。</text>
+</svg>

@@ -1,0 +1,415 @@
+# ============================================
+# 仿飞书应用项目 - Git 忽略文件配置
+# 适用：Vue 3 + Tailwind 前端 + .NET 10 + pgsql 后端
+# 维护：项目组
+# ============================================
+
+# =============================================
+# 1. Node.js / 前端工程（pc-web / pc-client / mobile-h5 / mobile-app）
+# =============================================
+node_modules/
+dist/
+build/
+!clients/web-desktop/build/
+!clients/web-desktop/build/generate-icon.cjs
+!clients/web-desktop/build/icon.png
+.output/
+.cache/
+.parcel-cache/
+.vite/
+.turbo/
+.next/
+.nuxt/
+.svelte-kit/
+coverage/
+.nyc_output/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.pnpm-store/
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# 前端打包产物
+*.tsbuildinfo
+*.local
+.vite-cache/
+
+# =============================================
+# 2. .NET 10 / 后端工程
+# =============================================
+bin/
+obj/
+out/
+publish/
+wwwroot/
+*.dll
+*.exe
+*.pdb
+*.user
+*.suo
+*.userprefs
+*.swp
+*.tmp
+*.cache
+.vs/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Ll]og/
+[Ll]ogs/
+TestResults/
+*.coverage
+*.coveragexml
+coverage.*.xml
+*.nupkg
+*.snupkg
+project.assets.json
+project.nuget.cache
+project.fragment.csproj.nuget.dgspec.json
+project.fragment.csproj.nuget.props
+packages/
+*.lock.json
+!.nuget/packages
+
+# EF Core 相关
+*.mdf
+*.ldf
+*.ndf
+
+# 发布的可执行文件
+*.deps.json
+*.runtimeconfig.json
+*.runtimeconfig.dev.json
+
+# =============================================
+# 3. Uni-app / Taro（移动端 + 微信小程序）
+# =============================================
+unpackage/
+.tmp/
+.terser_temp/
+.mini-*/project.config.json
+
+# 微信开发者工具 / 微信小程序
+miniprogram/
+miniprogram_npm/
+project.private.config.json
+project.config.json
+.wxae/
+.swan/
+
+# Uni-app 编译产物（mp-weixin 输出目录）
+unpackage/dist/dev/mp-weixin/
+unpackage/dist/build/mp-weixin/
+unpackage/dist/dev/
+unpackage/dist/build/
+
+# 各小程序平台产物
+unpackage/dist/dev/mp-alipay/
+unpackage/dist/dev/mp-baidu/
+unpackage/dist/dev/mp-toutiao/
+unpackage/dist/dev/mp-xhs/
+unpackage/dist/dev/mp-kuaishou/
+unpackage/dist/dev/mp-qq/
+unpackage/dist/dev/mp-jd/
+
+# Taro 编译产物
+.taro/
+
+# 小程序 IDE 缓存
+.idea/workspace.xml
+.vscode/launch.json
+
+
+# =============================================
+# 4. Tauri（PC 客户端）
+# =============================================
+src-tauri/target/
+src-tauri/gen/schemas/
+src-tauri/Cargo.lock
+
+# =============================================
+# 5. Electron（PC 客户端）
+# =============================================
+dist_electron/
+release/
+*.app
+*.exe
+*.dmg
+*.deb
+*.snap
+*.AppImage
+*.blockmap
+electron-builder-cache/
+
+# =============================================
+# 6. 环境变量 / 密钥 / 敏感配置（绝对不能提交）
+# =============================================
+.env
+.env.local
+.env.*.local
+.env.development
+.env.development.local
+.env.production
+.env.production.local
+.env.test
+.env.test.local
+appsettings.Development.json
+appsettings.Development.*.json
+appsettings.Local.json
+appsettings.Production.json
+appsettings.Staging.json
+appsettings.*.Local.json
+secrets.json
+*.pem
+*.key
+*.crt
+*.pfx
+*.p12
+keystore/
+keystore.*.jks
+*.jks
+
+# =============================================
+# 7. 数据库相关
+# =============================================
+*.sql.backup
+*.dump
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+pgsql_data/
+pgdata/
+postgres-data/
+redis-data/
+mongo-data/
+minio-data/
+
+# =============================================
+# 8. 日志文件
+# =============================================
+logs/
+*.log
+log/
+serilog-*.json
+nlog-*.txt
+*.log.*
+*.pid
+*.seed
+*.pid.lock
+
+# =============================================
+# 9. IDE / 编辑器
+# =============================================
+# VS Code（保留 extensions.json 和 settings.json.example）
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/.gitignore
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.userprefs
+*.vsp
+*.vspx
+*.sap
+*.sapcache
+*.sln.metaproj
+*.csproj.user
+*.csproj.vspscc
+*.vssscc
+
+# JetBrains Rider / IntelliJ / WebStorm
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Cursor
+.cursor/
+
+# Trae
+.trae/
+
+# Aider
+.aider*
+.aider.chat.history.md
+.aider.input.history
+
+# 通用
+*.swp
+*.swo
+*~
+
+# =============================================
+# 10. 操作系统
+# =============================================
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+$RECYCLE.BIN/
+*.lnk
+System Volume Information/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+
+# Linux
+*~
+.fuse_hidden*
+.Trash-*
+.nfs*
+
+# =============================================
+# 11. Office 临时文件
+# =============================================
+~$*.md
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.xls
+~$*.pptx
+~$*.ppt
+~$*.pdf
+
+# =============================================
+# 12. 测试 / 覆盖率 / 报告
+# =============================================
+coverage/
+.nyc_output/
+*.lcov
+TestResults/
+playwright-report/
+playwright/.cache/
+allure-results/
+allure-report/
+cypress/videos/
+cypress/screenshots/
+junit.xml
+report.*.xml
+
+# =============================================
+# 13. Docker / 部署
+# =============================================
+# Android / Gradle 本地构建产物
+.gradle/
+**/.gradle/
+.kotlin/
+**/.kotlin/
+local.properties
+**/local.properties
+.externalNativeBuild/
+**/.externalNativeBuild/
+.cxx/
+**/.cxx/
+captures/
+*.apk
+*.aab
+*.apks
+*.idsig
+
+# 本项目合并、打包和临时输出目录
+outputs/
+work/
+*.zip
+
+# 已校验的项目交付物（仅允许 releases 下明确维护的发布文件）
+!releases/android/packages/
+!releases/android/packages/**
+!releases/web/v0.4.0/dist/
+!releases/web/v0.4.0/dist/**
+!releases/backend/2026-07-18/fang-feishu-backend-ops-20260718-final.zip
+
+.docker/
+docker-compose.override.yml
+docker-compose.*.override.yml
+.deploy/
+deploy-keys/
+
+# =============================================
+# 14. 上传 / 临时文件
+# =============================================
+uploads/
+tmp/
+temp/
+.cache/
+.tmp/
+*.tmp
+*.bak
+*.orig
+*.rej
+*.eslintcache
+.stylelintcache
+.history/
+
+# =============================================
+# 15. 文档系统自动生成（保留手写的）
+# =============================================
+# 注意：手写的 .md 不应该被忽略，仅忽略以下自动生成的文件
+.next/
+.nuxt/
+.cache/
+vuepress/.cache/
+docs/.vitepress/cache/
+docs/.vuepress/.cache/
+
+# =============================================
+# 16. 依赖锁定（按需取消注释）
+# =============================================
+# 如果使用 pnpm，可以跟踪 pnpm-lock.yaml
+# 如果使用 npm，可以跟踪 package-lock.json
+# 如果使用 yarn，可以跟踪 yarn.lock
+# *.lock
+!pnpm-lock.yaml
+!package-lock.json
+!yarn.lock
+!Cargo.lock
+
+# =============================================
+# 17. 项目自身特殊文件
+# =============================================
+# 成员通讯录（隐私）
+.team-contact.md
+# 个人笔记
+notes/
+scratch/
+drafts/
+
+# 源码和手写文档默认会被 Git 跟踪，无需使用目录级反向规则。
+# 避免 `!backend/**` 等规则误把 bin/obj、密钥或构建产物重新纳入提交。

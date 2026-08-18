@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="仿飞书协同办公">
+  <defs>
+    <linearGradient id="g" x1="8" y1="6" x2="58" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4b7cff"/>
+      <stop offset="1" stop-color="#2859dc"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#g)"/>
+  <rect x="14" y="14" width="15" height="15" rx="4" fill="white"/>
+  <rect x="35" y="14" width="15" height="15" rx="4" fill="white" opacity=".94"/>
+  <rect x="14" y="35" width="15" height="15" rx="4" fill="white" opacity=".94"/>
+  <rect x="35" y="35" width="15" height="15" rx="4" fill="#62e1bb"/>
+</svg>

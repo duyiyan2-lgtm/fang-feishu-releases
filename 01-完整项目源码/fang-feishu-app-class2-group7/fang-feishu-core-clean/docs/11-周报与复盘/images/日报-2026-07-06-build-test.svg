@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760" role="img" aria-labelledby="title desc">
+  <title id="title">后端校验通过截图</title>
+  <desc id="desc">展示 backend scripts run-checks.ps1 执行成功，build 和 test 均通过。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="760" rx="24" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1232" height="712" rx="18" fill="#0b1220" stroke="#334155" stroke-width="2"/>
+  <circle cx="58" cy="58" r="8" fill="#ef4444"/>
+  <circle cx="84" cy="58" r="8" fill="#f59e0b"/>
+  <circle cx="110" cy="58" r="8" fill="#22c55e"/>
+  <text x="144" y="64" fill="#cbd5e1" font-size="24" font-family="Consolas, 'Courier New', monospace">backend/scripts/run-checks.ps1</text>
+  <text x="48" y="112" fill="#93c5fd" font-size="24" font-family="Consolas, 'Courier New', monospace">Building backend solution...</text>
+  <text x="48" y="154" fill="#e2e8f0" font-size="22" font-family="Consolas, 'Courier New', monospace">所有项目均是最新的，无法还原。</text>
+  <text x="48" y="196" fill="#e2e8f0" font-size="22" font-family="Consolas, 'Courier New', monospace">FangFeishu.Api -&gt; backend/src/FangFeishu.Api/bin/Debug/net8.0/FangFeishu.Api.dll</text>
+  <text x="48" y="238" fill="#e2e8f0" font-size="22" font-family="Consolas, 'Courier New', monospace">FangFeishu.Api.Tests -&gt; backend/tests/FangFeishu.Api.Tests/bin/Debug/net8.0/FangFeishu.Api.Tests.dll</text>
+  <text x="48" y="300" fill="#86efac" font-size="24" font-family="Consolas, 'Courier New', monospace">已成功生成。</text>
+  <text x="48" y="342" fill="#86efac" font-size="22" font-family="Consolas, 'Courier New', monospace">0 个警告</text>
+  <text x="48" y="384" fill="#86efac" font-size="22" font-family="Consolas, 'Courier New', monospace">0 个错误</text>
+  <text x="48" y="446" fill="#93c5fd" font-size="24" font-family="Consolas, 'Courier New', monospace">Running backend tests...</text>
+  <text x="48" y="488" fill="#e2e8f0" font-size="22" font-family="Consolas, 'Courier New', monospace">VSTest 版本 17.14.1 (x64)</text>
+  <text x="48" y="530" fill="#e2e8f0" font-size="22" font-family="Consolas, 'Courier New', monospace">总共 1 个测试文件与指定模式相匹配。</text>
+  <text x="48" y="592" fill="#86efac" font-size="24" font-family="Consolas, 'Courier New', monospace">已通过! - 失败: 0，通过: 3，已跳过: 0，总计: 3</text>
+  <text x="48" y="634" fill="#86efac" font-size="22" font-family="Consolas, 'Courier New', monospace">Checks completed.</text>
+  <rect x="48" y="670" width="320" height="32" rx="16" fill="#14532d"/>
+  <text x="70" y="692" fill="#dcfce7" font-size="18" font-family="Consolas, 'Courier New', monospace">Build + Test Passed</text>
+</svg>

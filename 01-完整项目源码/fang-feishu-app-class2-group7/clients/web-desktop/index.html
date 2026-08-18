@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/icon.png" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#3370FF" />
+    <meta name="description" content="仿飞书工作台 — 企业协作：消息、文档、会议、审批、云盘" />
+    <!-- 减少字体闪烁，提升首屏观感 -->
+    <meta name="color-scheme" content="light dark" />
+    <title>仿飞书工作台</title>
+    <style>
+      /* 首屏骨架：避免白屏闪一下 */
+      html, body, #app { height: 100%; margin: 0; }
+      body {
+        background: #F2F3F5;
+        font-family: "PingFang SC", "Microsoft YaHei UI", "Microsoft YaHei", system-ui, sans-serif;
+      }
+      @media (prefers-color-scheme: dark) {
+        body { background: #0E1116; }
+      }
+      #app:empty::before {
+        content: '';
+        position: fixed;
+        inset: 0;
+        background:
+          linear-gradient(90deg, transparent, rgba(51,112,255,0.06), transparent);
+        background-size: 200% 100%;
+        animation: boot 1.2s linear infinite;
+      }
+      @keyframes boot {
+        0% { background-position: 200% 0; }
+        100% { background-position: -200% 0; }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

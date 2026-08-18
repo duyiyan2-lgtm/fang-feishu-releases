@@ -1,0 +1,64 @@
+version: '3.8'
+
+# ====================================
+# 飞书风格协作平台 - Docker Compose
+# 服务：
+#   web  - 前端（nginx 静态站点）
+# 用法：
+#   docker compose up -d --build  构建并后台启动
+#   docker compose logs -f web     查看日志
+#   docker compose down            停止并清理
+# ====================================
+
+services:
+  # ===== 前端 =====
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: feishu-workspace/web:latest
+    container_name: feishu-web
+    restart: unless-stopped
+    ports:
+      - "8080:80"          # 宿主机 8080 → 容器 80
+    networks:
+      - feishu-net
+    healthcheck:
+      test: ["CMD", "wget", "-q", "--spider", "http://localhost/health"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+
+  # ========================================
+  # 后端 API 占位（需要实际后端时启用）
+  # ========================================
+  # api:
+  #   image: your-registry/feishu-api:latest
+  #   container_name: feishu-api
+  #   restart: unless-stopped
+  #   ports:
+  #     - "3000:3000"
+  #   environment:
+  #     - NODE_ENV=production
+  #     - JWT_SECRET=please-change-me
+  #     - MONGO_URL=mongodb://mongo:27017/feishu
+  #   depends_on:
+  #     - mongo
+  #   networks:
+  #     - feishu-net
+  #
+  # mongo:
+  #   image: mongo:7
+  #   container_name: feishu-mongo
+  #   restart: unless-stopped
+  #   volumes:
+  #     - mongo_data:/data/db
+  #   networks:
+  #     - feishu-net
+
+networks:
+  feishu-net:
+    driver: bridge
+
+# volumes:
+#   mongo_data:

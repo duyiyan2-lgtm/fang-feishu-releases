@@ -1,0 +1,68 @@
+services:
+  api:
+    build:
+      context: ../..
+      dockerfile: backend/Dockerfile
+    container_name: fang-feishu-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+      ASPNETCORE_URLS: http://+:8080
+      ConnectionStrings__Default: Host=postgres;Port=5432;Database=${POSTGRES_DB};Username=${POSTGRES_USER};Password=${POSTGRES_PASSWORD}
+      Jwt__Issuer: ${JWT_ISSUER}
+      Jwt__Audience: ${JWT_AUDIENCE}
+      Jwt__Secret: ${JWT_SECRET}
+      Jwt__ExpireMinutes: ${JWT_EXPIRE_MINUTES}
+      Agora__AppId: ${AGORA_APP_ID}
+      Agora__AppCertificate: ${AGORA_APP_CERTIFICATE}
+      Agora__TokenExpireSeconds: ${AGORA_TOKEN_EXPIRE_SECONDS:-3600}
+      Storage__Provider: Minio
+      Storage__Minio__Endpoint: minio:9000
+      Storage__Minio__AccessKey: ${MINIO_ROOT_USER}
+      Storage__Minio__SecretKey: ${MINIO_ROOT_PASSWORD}
+      Storage__Minio__BucketName: ${MINIO_BUCKET_NAME}
+      Storage__Minio__UseSsl: "false"
+      Cors__Origins__0: ${CORS_ORIGIN_0}
+      Cors__Origins__1: ${CORS_ORIGIN_1}
+      Database__AutoCreate: "true"
+    ports:
+      - "127.0.0.1:${API_PORT}:8080"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      minio:
+        condition: service_started
+    restart: unless-stopped
+
+  postgres:
+    image: postgres:16
+    container_name: fang-feishu-postgres
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - fang_feishu_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+    restart: unless-stopped
+
+  minio:
+    image: minio/minio:latest
+    container_name: fang-feishu-minio
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
+    ports:
+      - "127.0.0.1:${MINIO_API_PORT}:9000"
+      - "127.0.0.1:${MINIO_CONSOLE_PORT}:9001"
+    volumes:
+      - fang_feishu_minio:/data
+    restart: unless-stopped
+
+volumes:
+  fang_feishu_pgdata:
+  fang_feishu_minio:

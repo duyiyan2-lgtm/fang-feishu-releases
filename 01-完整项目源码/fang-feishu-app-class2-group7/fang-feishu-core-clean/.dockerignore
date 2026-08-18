@@ -1,0 +1,13 @@
+.git
+.gitee
+**/.vs
+**/.vscode
+**/bin
+**/obj
+**/TestResults
+**/storage
+**/node_modules
+**/*.user
+**/*.suo
+outputs
+work
