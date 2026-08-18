@@ -1,0 +1,2784 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/rg2hhc",
+    "id": "rg2hhc",
+    "slide": 10,
+    "layoutId": "c868fb6d-cb98-49db-ab90-1361df3b41fa",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "d3368dbe-2a50-47e2-8acb-b5632eb4003b",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "c868fb6d-cb98-49db-ab90-1361df3b41fa",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "d3368dbe-2a50-47e2-8acb-b5632eb4003b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "d3368dbe-2a50-47e2-8acb-b5632eb4003b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/upcjudwn",
+      "id": "1",
+      "name": "text-168",
+      "bbox": [
+        42,
+        34,
+        1196,
+        62
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0"
+      },
+      "geometry": "rect",
+      "text": "安全策略贯穿登录、权限与审计",
+      "textPreview": "安全策略贯穿登录、权限与审计",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "Microsoft YaHei",
+        "color": "#101318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "安全策略贯穿登录、权限与审计"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "安全策略贯穿登录、权限与审计",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 48,
+            "typeface": "Microsoft YaHei",
+            "color": "#101318",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "安全策略贯穿登录、权限与审计",
+              "anchor": 1,
+              "fontSize": 48,
+              "typeface": "Microsoft YaHei",
+              "color": "#101318",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "none",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hc325sfe",
+      "id": "2",
+      "name": "text-169",
+      "bbox": [
+        42,
+        684,
+        900,
+        18
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1"
+      },
+      "geometry": "rect",
+      "text": "依据：项目最终代码与 2026-07-19 实际验证",
+      "textPreview": "依据：项目最终代码与 2026-07-19 实际验证",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "依据：项目最终代码与 2026-07-19 实际验证"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "依据：项目最终代码与 2026-07-19 实际验证",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 13,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "依据：项目最终代码与 2026-07-19 实际验证",
+              "anchor": 1,
+              "fontSize": 13,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gru1wnet",
+      "id": "3",
+      "name": "text-170",
+      "bbox": [
+        1185,
+        682,
+        54,
+        20
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2"
+      },
+      "geometry": "rect",
+      "text": "10",
+      "textPreview": "10",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "10"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "10",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 14,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "right",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "10",
+              "anchor": 1,
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "right",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3elk72xk",
+      "id": "4",
+      "name": "text-171",
+      "bbox": [
+        42,
+        150,
+        60,
+        30
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3"
+      },
+      "geometry": "rect",
+      "text": "01",
+      "textPreview": "01",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#3370FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01",
+              "anchor": 1,
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/idcjyxwz",
+      "id": "5",
+      "name": "text-172",
+      "bbox": [
+        42,
+        194,
+        240,
+        40
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.4"
+      },
+      "geometry": "rect",
+      "text": "JWT 鉴权",
+      "textPreview": "JWT 鉴权",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#101318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "JWT 鉴权"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "JWT 鉴权",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 30,
+            "typeface": "Microsoft YaHei",
+            "color": "#101318",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "JWT 鉴权",
+              "anchor": 1,
+              "fontSize": 30,
+              "typeface": "Microsoft YaHei",
+              "color": "#101318",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gn29sva",
+      "id": "6",
+      "name": "text-173",
+      "bbox": [
+        42,
+        260,
+        250,
+        136
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.5"
+      },
+      "geometry": "rect",
+      "text": "校验 issuer、audience、有效期、签名和 jti；退出登录可撤销当前令牌。",
+      "textPreview": "校验 issuer、audience、有效期、签名和 jti；退出登录可撤销当前令牌。",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 23,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.99,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "校验"
+          },
+          {
+            "index": 2,
+            "text": "issuer、audience、有"
+          },
+          {
+            "index": 3,
+            "text": "效期、签名和"
+          },
+          {
+            "index": 4,
+            "text": "jti；退出登录可撤销当前"
+          },
+          {
+            "index": 5,
+            "text": "令牌。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "校验 issuer、audience、有效期、签名和 jti；退出登录可撤销当前令牌。",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 23,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "校验 issuer、audience、有效期、签名和 jti；退出登录可撤销当前令牌。",
+              "anchor": 1,
+              "fontSize": 23,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4fe10ne5",
+      "id": "7",
+      "name": "rule-174",
+      "bbox": [
+        318,
+        146,
+        1,
+        0.01
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.6"
+      },
+      "geometry": "straightConnector1",
+      "lineColor": "#C8CDD5",
+      "lineWidth": 1
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zi10vyx0",
+      "id": "8",
+      "name": "text-175",
+      "bbox": [
+        346,
+        150,
+        60,
+        30
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.7"
+      },
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#3370FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "anchor": 1,
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhsjmtwf",
+      "id": "9",
+      "name": "text-176",
+      "bbox": [
+        346,
+        194,
+        240,
+        40
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.8"
+      },
+      "geometry": "rect",
+      "text": "多端会话",
+      "textPreview": "多端会话",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#101318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "多端会话"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "多端会话",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 30,
+            "typeface": "Microsoft YaHei",
+            "color": "#101318",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "多端会话",
+              "anchor": 1,
+              "fontSize": 30,
+              "typeface": "Microsoft YaHei",
+              "color": "#101318",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/83ydc76d",
+      "id": "10",
+      "name": "text-177",
+      "bbox": [
+        346,
+        260,
+        250,
+        150
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.9"
+      },
+      "geometry": "rect",
+      "text": "client_type + session_version：同类型终端重新登录会让旧会话失效，不同类型终端可共存。",
+      "textPreview": "client_type + session_version：同类型终端重新登录会让旧会话失效，不同类型终端可共存。",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 23,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "client_type +"
+          },
+          {
+            "index": 2,
+            "text": "session_version：同类"
+          },
+          {
+            "index": 3,
+            "text": "型终端重新登录会让旧"
+          },
+          {
+            "index": 4,
+            "text": "会话失效，不同类型终"
+          },
+          {
+            "index": 5,
+            "text": "端可共存。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "client_type + session_version：同类型终端重新登录会让旧会话失效，不同类型终端可共存。",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 23,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "client_type + session_version：同类型终端重新登录会让旧会话失效，不同类型终端可共存。",
+              "anchor": 1,
+              "fontSize": 23,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t47elcni",
+      "id": "11",
+      "name": "rule-178",
+      "bbox": [
+        622,
+        146,
+        1,
+        0.01
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.10"
+      },
+      "geometry": "straightConnector1",
+      "lineColor": "#C8CDD5",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/61gvaxo7",
+      "id": "12",
+      "name": "text-179",
+      "bbox": [
+        650,
+        150,
+        60,
+        30
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.11"
+      },
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#3370FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "anchor": 1,
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/72pwj25s",
+      "id": "13",
+      "name": "text-180",
+      "bbox": [
+        650,
+        194,
+        240,
+        40
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.12"
+      },
+      "geometry": "rect",
+      "text": "角色权限",
+      "textPreview": "角色权限",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#101318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "角色权限"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "角色权限",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 30,
+            "typeface": "Microsoft YaHei",
+            "color": "#101318",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "角色权限",
+              "anchor": 1,
+              "fontSize": 30,
+              "typeface": "Microsoft YaHei",
+              "color": "#101318",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g7idgr69",
+      "id": "14",
+      "name": "text-181",
+      "bbox": [
+        650,
+        260,
+        250,
+        150
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.13"
+      },
+      "geometry": "rect",
+      "text": "角色与 permissions[] 持久化；管理接口按身份授权，业务操作继续校验资源成员关系。",
+      "textPreview": "角色与 permissions[] 持久化；管理接口按身份授权，业务操作继续校验资源成员关系。",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 23,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "角色与 permissions[]"
+          },
+          {
+            "index": 2,
+            "text": "持久化；管理接口按身"
+          },
+          {
+            "index": 3,
+            "text": "份授权，业务操作继续"
+          },
+          {
+            "index": 4,
+            "text": "校验资源成员关系。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "角色与 permissions[] 持久化；管理接口按身份授权，业务操作继续校验资源成员关系。",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 23,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "角色与 permissions[] 持久化；管理接口按身份授权，业务操作继续校验资源成员关系。",
+              "anchor": 1,
+              "fontSize": 23,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h8repwnu",
+      "id": "15",
+      "name": "rule-182",
+      "bbox": [
+        926,
+        146,
+        1,
+        0.01
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.14"
+      },
+      "geometry": "straightConnector1",
+      "lineColor": "#C8CDD5",
+      "lineWidth": 1
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u5gveho3",
+      "id": "16",
+      "name": "text-183",
+      "bbox": [
+        954,
+        150,
+        60,
+        30
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.15"
+      },
+      "geometry": "rect",
+      "text": "04",
+      "textPreview": "04",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#3370FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04",
+              "anchor": 1,
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v6pwnm5o",
+      "id": "17",
+      "name": "text-184",
+      "bbox": [
+        954,
+        194,
+        240,
+        40
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.16"
+      },
+      "geometry": "rect",
+      "text": "审计追踪",
+      "textPreview": "审计追踪",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#101318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "审计追踪"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "审计追踪",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 30,
+            "typeface": "Microsoft YaHei",
+            "color": "#101318",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "审计追踪",
+              "anchor": 1,
+              "fontSize": 30,
+              "typeface": "Microsoft YaHei",
+              "color": "#101318",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wbed4n65",
+      "id": "18",
+      "name": "text-185",
+      "bbox": [
+        954,
+        260,
+        250,
+        150
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.17"
+      },
+      "geometry": "rect",
+      "text": "操作日志记录关键管理动作；异常响应返回业务码与 traceId，便于定位线上问题。",
+      "textPreview": "操作日志记录关键管理动作；异常响应返回业务码与 traceId，便于定位线上问题。",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 23,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "操作日志记录关键管理"
+          },
+          {
+            "index": 2,
+            "text": "动作；异常响应返回业"
+          },
+          {
+            "index": 3,
+            "text": "务码与"
+          },
+          {
+            "index": 4,
+            "text": "traceId，便于定位线上"
+          },
+          {
+            "index": 5,
+            "text": "问题。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "操作日志记录关键管理动作；异常响应返回业务码与 traceId，便于定位线上问题。",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 23,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "操作日志记录关键管理动作；异常响应返回业务码与 traceId，便于定位线上问题。",
+              "anchor": 1,
+              "fontSize": 23,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xcnudsna",
+      "id": "19",
+      "name": "rect-186",
+      "bbox": [
+        42,
+        500,
+        1196,
+        118
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.18"
+      },
+      "geometry": "rect",
+      "fillColor": "#F1F3F5",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsfa1ofe",
+      "id": "20",
+      "name": "text-187",
+      "bbox": [
+        66,
+        538,
+        1148,
+        48
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.19"
+      },
+      "geometry": "rect",
+      "text": "安全不是只看“有没有登录页”，而是把身份、会话、权限、资源归属和追踪统一进后端请求链。",
+      "textPreview": "安全不是只看“有没有登录页”，而是把身份、会话、权限、资源归属和追踪统一进后端请求链。",
+      "resolvedFontSize": 26.74,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#101318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.99,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "安全不是只看“有没有登录页”，而是把身份、会话、权限、资源归属和追踪统一进后端请求链。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "安全不是只看“有没有登录页”，而是把身份、会话、权限、资源归属和追踪统一进后端请求链。",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 27,
+            "typeface": "Microsoft YaHei",
+            "color": "#101318",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "安全不是只看“有没有登录页”，而是把身份、会话、权限、资源归属和追踪统一进后端请求链。",
+              "anchor": 1,
+              "fontSize": 27,
+              "typeface": "Microsoft YaHei",
+              "color": "#101318",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "baseUnit": 1,
+      "root": {
+        "path": "0",
+        "kind": "layers",
+        "name": "security-four-pillars",
+        "requestedSize": {
+          "width": {
+            "mode": "fill",
+            "value": 1
+          },
+          "height": {
+            "mode": "fill",
+            "value": 1
+          }
+        },
+        "intrinsicSize": {
+          "width": 1239,
+          "height": 702
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "text",
+            "name": "text-168",
+            "position": {
+              "left": 42,
+              "top": 34
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1196
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 62
+              }
+            },
+            "intrinsicSize": {
+              "width": 1196,
+              "height": 62
+            },
+            "frame": {
+              "left": 42,
+              "top": 34,
+              "width": 1196,
+              "height": 62
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 34,
+              "width": 1196,
+              "height": 62
+            },
+            "children": [],
+            "text": "安全策略贯穿登录、权限与审计",
+            "transform": "none",
+            "element": {
+              "aid": "sh/upcjudwn",
+              "id": "1",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.1",
+            "kind": "text",
+            "name": "text-169",
+            "position": {
+              "left": 42,
+              "top": 684
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 900
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 18
+              }
+            },
+            "intrinsicSize": {
+              "width": 900,
+              "height": 18
+            },
+            "frame": {
+              "left": 42,
+              "top": 684,
+              "width": 900,
+              "height": 18
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 684,
+              "width": 900,
+              "height": 18
+            },
+            "children": [],
+            "text": "依据：项目最终代码与 2026-07-19 实际验证",
+            "transform": "none",
+            "element": {
+              "aid": "sh/hc325sfe",
+              "id": "2",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.2",
+            "kind": "text",
+            "name": "text-170",
+            "position": {
+              "left": 1185,
+              "top": 682
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 54
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 20
+              }
+            },
+            "intrinsicSize": {
+              "width": 54,
+              "height": 20
+            },
+            "frame": {
+              "left": 1185,
+              "top": 682,
+              "width": 54,
+              "height": 20
+            },
+            "snappedFrame": {
+              "left": 1185,
+              "top": 682,
+              "width": 54,
+              "height": 20
+            },
+            "children": [],
+            "text": "10",
+            "transform": "none",
+            "element": {
+              "aid": "sh/gru1wnet",
+              "id": "3",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.3",
+            "kind": "text",
+            "name": "text-171",
+            "position": {
+              "left": 42,
+              "top": 150
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 60
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 30
+              }
+            },
+            "intrinsicSize": {
+              "width": 60,
+              "height": 30
+            },
+            "frame": {
+              "left": 42,
+              "top": 150,
+              "width": 60,
+              "height": 30
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 150,
+              "width": 60,
+              "height": 30
+            },
+            "children": [],
+            "text": "01",
+            "transform": "none",
+            "element": {
+              "aid": "sh/3elk72xk",
+              "id": "4",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.4",
+            "kind": "text",
+            "name": "text-172",
+            "position": {
+              "left": 42,
+              "top": 194
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 240
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 40
+              }
+            },
+            "intrinsicSize": {
+              "width": 240,
+              "height": 40
+            },
+            "frame": {
+              "left": 42,
+              "top": 194,
+              "width": 240,
+              "height": 40
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 194,
+              "width": 240,
+              "height": 40
+            },
+            "children": [],
+            "text": "JWT 鉴权",
+            "transform": "none",
+            "element": {
+              "aid": "sh/idcjyxwz",
+              "id": "5",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.5",
+            "kind": "text",
+            "name": "text-173",
+            "position": {
+              "left": 42,
+              "top": 260
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 250
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 136
+              }
+            },
+            "intrinsicSize": {
+              "width": 250,
+              "height": 136
+            },
+            "frame": {
+              "left": 42,
+              "top": 260,
+              "width": 250,
+              "height": 136
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 260,
+              "width": 250,
+              "height": 136
+            },
+            "children": [],
+            "text": "校验 issuer、audience、有效期、签名和 jti；退出登录可撤销当前令牌。",
+            "transform": "none",
+            "element": {
+              "aid": "sh/5gn29sva",
+              "id": "6",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.6",
+            "kind": "shape",
+            "name": "rule-174",
+            "position": {
+              "left": 318,
+              "top": 146
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 0.01
+              }
+            },
+            "intrinsicSize": {
+              "width": 1,
+              "height": 0.01
+            },
+            "frame": {
+              "left": 318,
+              "top": 146,
+              "width": 1,
+              "height": 0.01
+            },
+            "snappedFrame": {
+              "left": 318,
+              "top": 146,
+              "width": 1,
+              "height": 0.01
+            },
+            "children": [],
+            "geometry": "straightConnector1",
+            "element": {
+              "aid": "sh/4fe10ne5",
+              "id": "7",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.7",
+            "kind": "text",
+            "name": "text-175",
+            "position": {
+              "left": 346,
+              "top": 150
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 60
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 30
+              }
+            },
+            "intrinsicSize": {
+              "width": 60,
+              "height": 30
+            },
+            "frame": {
+              "left": 346,
+              "top": 150,
+              "width": 60,
+              "height": 30
+            },
+            "snappedFrame": {
+              "left": 346,
+              "top": 150,
+              "width": 60,
+              "height": 30
+            },
+            "children": [],
+            "text": "02",
+            "transform": "none",
+            "element": {
+              "aid": "sh/zi10vyx0",
+              "id": "8",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.8",
+            "kind": "text",
+            "name": "text-176",
+            "position": {
+              "left": 346,
+              "top": 194
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 240
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 40
+              }
+            },
+            "intrinsicSize": {
+              "width": 240,
+              "height": 40
+            },
+            "frame": {
+              "left": 346,
+              "top": 194,
+              "width": 240,
+              "height": 40
+            },
+            "snappedFrame": {
+              "left": 346,
+              "top": 194,
+              "width": 240,
+              "height": 40
+            },
+            "children": [],
+            "text": "多端会话",
+            "transform": "none",
+            "element": {
+              "aid": "sh/yhsjmtwf",
+              "id": "9",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.9",
+            "kind": "text",
+            "name": "text-177",
+            "position": {
+              "left": 346,
+              "top": 260
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 250
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 150
+              }
+            },
+            "intrinsicSize": {
+              "width": 250,
+              "height": 150
+            },
+            "frame": {
+              "left": 346,
+              "top": 260,
+              "width": 250,
+              "height": 150
+            },
+            "snappedFrame": {
+              "left": 346,
+              "top": 260,
+              "width": 250,
+              "height": 150
+            },
+            "children": [],
+            "text": "client_type + session_version：同类型终端重新登录会让旧会话失效，不同类型终端可共存。",
+            "transform": "none",
+            "element": {
+              "aid": "sh/83ydc76d",
+              "id": "10",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.10",
+            "kind": "shape",
+            "name": "rule-178",
+            "position": {
+              "left": 622,
+              "top": 146
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 0.01
+              }
+            },
+            "intrinsicSize": {
+              "width": 1,
+              "height": 0.01
+            },
+            "frame": {
+              "left": 622,
+              "top": 146,
+              "width": 1,
+              "height": 0.01
+            },
+            "snappedFrame": {
+              "left": 622,
+              "top": 146,
+              "width": 1,
+              "height": 0.01
+            },
+            "children": [],
+            "geometry": "straightConnector1",
+            "element": {
+              "aid": "sh/t47elcni",
+              "id": "11",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.11",
+            "kind": "text",
+            "name": "text-179",
+            "position": {
+              "left": 650,
+              "top": 150
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 60
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 30
+              }
+            },
+            "intrinsicSize": {
+              "width": 60,
+              "height": 30
+            },
+            "frame": {
+              "left": 650,
+              "top": 150,
+              "width": 60,
+              "height": 30
+            },
+            "snappedFrame": {
+              "left": 650,
+              "top": 150,
+              "width": 60,
+              "height": 30
+            },
+            "children": [],
+            "text": "03",
+            "transform": "none",
+            "element": {
+              "aid": "sh/61gvaxo7",
+              "id": "12",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.12",
+            "kind": "text",
+            "name": "text-180",
+            "position": {
+              "left": 650,
+              "top": 194
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 240
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 40
+              }
+            },
+            "intrinsicSize": {
+              "width": 240,
+              "height": 40
+            },
+            "frame": {
+              "left": 650,
+              "top": 194,
+              "width": 240,
+              "height": 40
+            },
+            "snappedFrame": {
+              "left": 650,
+              "top": 194,
+              "width": 240,
+              "height": 40
+            },
+            "children": [],
+            "text": "角色权限",
+            "transform": "none",
+            "element": {
+              "aid": "sh/72pwj25s",
+              "id": "13",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.13",
+            "kind": "text",
+            "name": "text-181",
+            "position": {
+              "left": 650,
+              "top": 260
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 250
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 150
+              }
+            },
+            "intrinsicSize": {
+              "width": 250,
+              "height": 150
+            },
+            "frame": {
+              "left": 650,
+              "top": 260,
+              "width": 250,
+              "height": 150
+            },
+            "snappedFrame": {
+              "left": 650,
+              "top": 260,
+              "width": 250,
+              "height": 150
+            },
+            "children": [],
+            "text": "角色与 permissions[] 持久化；管理接口按身份授权，业务操作继续校验资源成员关系。",
+            "transform": "none",
+            "element": {
+              "aid": "sh/g7idgr69",
+              "id": "14",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.14",
+            "kind": "shape",
+            "name": "rule-182",
+            "position": {
+              "left": 926,
+              "top": 146
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 0.01
+              }
+            },
+            "intrinsicSize": {
+              "width": 1,
+              "height": 0.01
+            },
+            "frame": {
+              "left": 926,
+              "top": 146,
+              "width": 1,
+              "height": 0.01
+            },
+            "snappedFrame": {
+              "left": 926,
+              "top": 146,
+              "width": 1,
+              "height": 0.01
+            },
+            "children": [],
+            "geometry": "straightConnector1",
+            "element": {
+              "aid": "sh/h8repwnu",
+              "id": "15",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.15",
+            "kind": "text",
+            "name": "text-183",
+            "position": {
+              "left": 954,
+              "top": 150
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 60
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 30
+              }
+            },
+            "intrinsicSize": {
+              "width": 60,
+              "height": 30
+            },
+            "frame": {
+              "left": 954,
+              "top": 150,
+              "width": 60,
+              "height": 30
+            },
+            "snappedFrame": {
+              "left": 954,
+              "top": 150,
+              "width": 60,
+              "height": 30
+            },
+            "children": [],
+            "text": "04",
+            "transform": "none",
+            "element": {
+              "aid": "sh/u5gveho3",
+              "id": "16",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.16",
+            "kind": "text",
+            "name": "text-184",
+            "position": {
+              "left": 954,
+              "top": 194
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 240
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 40
+              }
+            },
+            "intrinsicSize": {
+              "width": 240,
+              "height": 40
+            },
+            "frame": {
+              "left": 954,
+              "top": 194,
+              "width": 240,
+              "height": 40
+            },
+            "snappedFrame": {
+              "left": 954,
+              "top": 194,
+              "width": 240,
+              "height": 40
+            },
+            "children": [],
+            "text": "审计追踪",
+            "transform": "none",
+            "element": {
+              "aid": "sh/v6pwnm5o",
+              "id": "17",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.17",
+            "kind": "text",
+            "name": "text-185",
+            "position": {
+              "left": 954,
+              "top": 260
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 250
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 150
+              }
+            },
+            "intrinsicSize": {
+              "width": 250,
+              "height": 150
+            },
+            "frame": {
+              "left": 954,
+              "top": 260,
+              "width": 250,
+              "height": 150
+            },
+            "snappedFrame": {
+              "left": 954,
+              "top": 260,
+              "width": 250,
+              "height": 150
+            },
+            "children": [],
+            "text": "操作日志记录关键管理动作；异常响应返回业务码与 traceId，便于定位线上问题。",
+            "transform": "none",
+            "element": {
+              "aid": "sh/wbed4n65",
+              "id": "18",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.18",
+            "kind": "shape",
+            "name": "rect-186",
+            "position": {
+              "left": 42,
+              "top": 500
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1196
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 118
+              }
+            },
+            "intrinsicSize": {
+              "width": 1196,
+              "height": 118
+            },
+            "frame": {
+              "left": 42,
+              "top": 500,
+              "width": 1196,
+              "height": 118
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 500,
+              "width": 1196,
+              "height": 118
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/xcnudsna",
+              "id": "19",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.19",
+            "kind": "text",
+            "name": "text-187",
+            "position": {
+              "left": 66,
+              "top": 538
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1148
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 48
+              }
+            },
+            "intrinsicSize": {
+              "width": 1148,
+              "height": 48
+            },
+            "frame": {
+              "left": 66,
+              "top": 538,
+              "width": 1148,
+              "height": 48
+            },
+            "snappedFrame": {
+              "left": 66,
+              "top": 538,
+              "width": 1148,
+              "height": 48
+            },
+            "children": [],
+            "text": "安全不是只看“有没有登录页”，而是把身份、会话、权限、资源归属和追踪统一进后端请求链。",
+            "transform": "none",
+            "element": {
+              "aid": "sh/dsfa1ofe",
+              "id": "20",
+              "kind": "shape"
+            }
+          }
+        ],
+        "padding": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "alignItems": "stretch",
+        "justifyItems": "stretch",
+        "contentFrame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 42,
+              "top": 34,
+              "width": 1196,
+              "height": 62
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 42,
+              "top": 684,
+              "width": 900,
+              "height": 18
+            }
+          },
+          {
+            "path": "0.2",
+            "frame": {
+              "left": 1185,
+              "top": 682,
+              "width": 54,
+              "height": 20
+            }
+          },
+          {
+            "path": "0.3",
+            "frame": {
+              "left": 42,
+              "top": 150,
+              "width": 60,
+              "height": 30
+            }
+          },
+          {
+            "path": "0.4",
+            "frame": {
+              "left": 42,
+              "top": 194,
+              "width": 240,
+              "height": 40
+            }
+          },
+          {
+            "path": "0.5",
+            "frame": {
+              "left": 42,
+              "top": 260,
+              "width": 250,
+              "height": 136
+            }
+          },
+          {
+            "path": "0.6",
+            "frame": {
+              "left": 318,
+              "top": 146,
+              "width": 1,
+              "height": 0.01
+            }
+          },
+          {
+            "path": "0.7",
+            "frame": {
+              "left": 346,
+              "top": 150,
+              "width": 60,
+              "height": 30
+            }
+          },
+          {
+            "path": "0.8",
+            "frame": {
+              "left": 346,
+              "top": 194,
+              "width": 240,
+              "height": 40
+            }
+          },
+          {
+            "path": "0.9",
+            "frame": {
+              "left": 346,
+              "top": 260,
+              "width": 250,
+              "height": 150
+            }
+          },
+          {
+            "path": "0.10",
+            "frame": {
+              "left": 622,
+              "top": 146,
+              "width": 1,
+              "height": 0.01
+            }
+          },
+          {
+            "path": "0.11",
+            "frame": {
+              "left": 650,
+              "top": 150,
+              "width": 60,
+              "height": 30
+            }
+          },
+          {
+            "path": "0.12",
+            "frame": {
+              "left": 650,
+              "top": 194,
+              "width": 240,
+              "height": 40
+            }
+          },
+          {
+            "path": "0.13",
+            "frame": {
+              "left": 650,
+              "top": 260,
+              "width": 250,
+              "height": 150
+            }
+          },
+          {
+            "path": "0.14",
+            "frame": {
+              "left": 926,
+              "top": 146,
+              "width": 1,
+              "height": 0.01
+            }
+          },
+          {
+            "path": "0.15",
+            "frame": {
+              "left": 954,
+              "top": 150,
+              "width": 60,
+              "height": 30
+            }
+          },
+          {
+            "path": "0.16",
+            "frame": {
+              "left": 954,
+              "top": 194,
+              "width": 240,
+              "height": 40
+            }
+          },
+          {
+            "path": "0.17",
+            "frame": {
+              "left": 954,
+              "top": 260,
+              "width": 250,
+              "height": 150
+            }
+          },
+          {
+            "path": "0.18",
+            "frame": {
+              "left": 42,
+              "top": 500,
+              "width": 1196,
+              "height": 118
+            }
+          },
+          {
+            "path": "0.19",
+            "frame": {
+              "left": 66,
+              "top": 538,
+              "width": 1148,
+              "height": 48
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

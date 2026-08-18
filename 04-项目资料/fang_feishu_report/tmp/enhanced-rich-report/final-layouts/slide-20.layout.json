@@ -1,0 +1,857 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/zyxsni5k",
+    "id": "zyxsni5k",
+    "slide": 20,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rid4nuhs",
+      "id": "12",
+      "name": "text-304",
+      "bbox": [
+        42,
+        34,
+        1196,
+        62
+      ],
+      "geometry": "rect",
+      "text": "答辩问题：安全、一致性与测试",
+      "textPreview": "答辩问题：安全、一致性与测试",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "答辩问题：安全、一致性与测试"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "答辩问题：安全、一致性与测试",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Microsoft YaHei",
+            "color": "#101318",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "答辩问题：安全、一致性与测试",
+              "fontSize": 48,
+              "typeface": "Microsoft YaHei",
+              "color": "#101318",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpwjmh8n",
+      "id": "2",
+      "name": "text-305",
+      "bbox": [
+        42,
+        684,
+        900,
+        18
+      ],
+      "geometry": "rect",
+      "text": "附录：回答先讲机制，再给代码或测试证据",
+      "textPreview": "附录：回答先讲机制，再给代码或测试证据",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "附录：回答先讲机制，再给代码或测试证据"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "附录：回答先讲机制，再给代码或测试证据",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "附录：回答先讲机制，再给代码或测试证据",
+              "fontSize": 13,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rq50vmp8",
+      "id": "3",
+      "name": "text-306",
+      "bbox": [
+        1185,
+        682,
+        54,
+        20
+      ],
+      "geometry": "rect",
+      "text": "20",
+      "textPreview": "20",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "20"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "20",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "20",
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "right"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4nu1krqh",
+      "id": "4",
+      "name": "text-307",
+      "bbox": [
+        42,
+        130,
+        540,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Q5 JWT 泄露或退出后怎么办？",
+      "textPreview": "Q5 JWT 泄露或退出后怎么办？",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Q5 JWT 泄露或退出后怎么办？"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Q5 JWT 泄露或退出后怎么办？",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Q5 JWT 泄露或退出后怎么办？",
+              "fontSize": 25,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/po3itc72",
+      "id": "5",
+      "name": "text-308",
+      "bbox": [
+        42,
+        180,
+        540,
+        96
+      ],
+      "geometry": "rect",
+      "text": "Token 带 jti，后端维护撤销表；每次认证还校验客户端会话版本。退出可撤销当前令牌，同类型客户端重新登录可让旧会话失效。",
+      "textPreview": "Token 带 jti，后端维护撤销表；每次认证还校验客户端会话版本。退出可撤销当前令牌，同类型客户端重新登录可让旧会话失效。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Token 带"
+          },
+          {
+            "index": 2,
+            "text": "jti，后端维护撤销表；每次认证还校验客户端会话版本。退出"
+          },
+          {
+            "index": 3,
+            "text": "可撤销当前令牌，同类型客户端重新登录可让旧会话失效。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Token 带 jti，后端维护撤销表；每次认证还校验客户端会话版本。退出可撤销当前令牌，同类型客户端重新登录可让旧会话失效。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Token 带 jti，后端维护撤销表；每次认证还校验客户端会话版本。退出可撤销当前令牌，同类型客户端重新登录可让旧会话失效。",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lczih8r",
+      "id": "6",
+      "name": "text-309",
+      "bbox": [
+        678,
+        130,
+        540,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Q6 推送失败会不会丢数据？",
+      "textPreview": "Q6 推送失败会不会丢数据？",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Q6 推送失败会不会丢数据？"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Q6 推送失败会不会丢数据？",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Q6 推送失败会不会丢数据？",
+              "fontSize": 25,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ml0rmpw",
+      "id": "7",
+      "name": "text-310",
+      "bbox": [
+        678,
+        180,
+        540,
+        96
+      ],
+      "geometry": "rect",
+      "text": "业务数据先提交数据库，再发送 SignalR。推送失败只记录警告，不把成功写入误报成失败；客户端重连后可通过列表接口恢复。",
+      "textPreview": "业务数据先提交数据库，再发送 SignalR。推送失败只记录警告，不把成功写入误报成失败；客户端重连后可通过列表接口恢复。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "业务数据先提交数据库，再发送"
+          },
+          {
+            "index": 2,
+            "text": "SignalR。推送失败只记录警告，不把成功写入误报成失败；"
+          },
+          {
+            "index": 3,
+            "text": "客户端重连后可通过列表接口恢复。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "业务数据先提交数据库，再发送 SignalR。推送失败只记录警告，不把成功写入误报成失败；客户端重连后可通过列表接口恢复。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "业务数据先提交数据库，再发送 SignalR。推送失败只记录警告，不把成功写入误报成失败；客户端重连后可通过列表接口恢复。",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gjuhg7ql",
+      "id": "8",
+      "name": "text-311",
+      "bbox": [
+        42,
+        386,
+        540,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Q7 如何证明项目不是只能演示？",
+      "textPreview": "Q7 如何证明项目不是只能演示？",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Q7 如何证明项目不是只能演示？"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Q7 如何证明项目不是只能演示？",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Q7 如何证明项目不是只能演示？",
+              "fontSize": 25,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hk3ipcr6",
+      "id": "9",
+      "name": "text-312",
+      "bbox": [
+        42,
+        436,
+        540,
+        96
+      ],
+      "geometry": "rect",
+      "text": "本次实际执行后端 41/41 测试、Web 生产构建、Android assembleDebug 和微信小程序构建，核心交付目标通过；Android 单元测试类加载问题也被如实记录为质量边界。",
+      "textPreview": "本次实际执行后端 41/41 测试、Web 生产构建、Android assembleDebug 和微信小程序构建，核心交付目标通过；Android 单元测试类加载问题也被如实记录为质量边界。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "本次实际执行后端 41/41 测试、Web 生产构建、Android"
+          },
+          {
+            "index": 2,
+            "text": "assembleDebug"
+          },
+          {
+            "index": 3,
+            "text": "和微信小程序构建，核心交付目标通过；Android"
+          },
+          {
+            "index": 4,
+            "text": "单元测试类加载问题也被如实记录为质量边界。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "本次实际执行后端 41/41 测试、Web 生产构建、Android assembleDebug 和微信小程序构建，核心交付目标通过；Android 单元测试类加载问题也被如实记录为质量边界。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "本次实际执行后端 41/41 测试、Web 生产构建、Android assembleDebug 和微信小程序构建，核心交付目标通过；Android 单元测试类加载问题也被如实记录为质量边界。",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dkfmp4zy",
+      "id": "10",
+      "name": "text-313",
+      "bbox": [
+        678,
+        386,
+        540,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Q8 文件存储为什么做两套？",
+      "textPreview": "Q8 文件存储为什么做两套？",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Q8 文件存储为什么做两套？"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Q8 文件存储为什么做两套？",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Q8 文件存储为什么做两套？",
+              "fontSize": 25,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cj65wzyd",
+      "id": "11",
+      "name": "text-314",
+      "bbox": [
+        678,
+        436,
+        540,
+        96
+      ],
+      "geometry": "rect",
+      "text": "本地存储用于开发演示，MinIO 用于对象存储；二者共用 IFileStorageService，可按配置切换，业务接口无需改动。",
+      "textPreview": "本地存储用于开发演示，MinIO 用于对象存储；二者共用 IFileStorageService，可按配置切换，业务接口无需改动。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "本地存储用于开发演示，MinIO 用于对象存储；二者共用"
+          },
+          {
+            "index": 2,
+            "text": "IFileStorageService，可按配置切换，业务接口无需改动。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "本地存储用于开发演示，MinIO 用于对象存储；二者共用 IFileStorageService，可按配置切换，业务接口无需改动。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "本地存储用于开发演示，MinIO 用于对象存储；二者共用 IFileStorageService，可按配置切换，业务接口无需改动。",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

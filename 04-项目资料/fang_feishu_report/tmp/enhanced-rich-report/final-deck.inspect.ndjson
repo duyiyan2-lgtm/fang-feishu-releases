@@ -1,0 +1,408 @@
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"FANG FEISHU · PROJECT REPORT","textShapes":6}
+{"kind":"shape","id":"sh/wn6dc7eh","slide":1,"name":"rect-1","bbox":[646,38,592,644]}
+{"kind":"textbox","id":"sh/547294r6","slide":1,"name":"text-2","text":"FANG FEISHU · PROJECT REPORT","textPreview":"FANG FEISHU · PROJECT REPORT","textChars":28,"textLines":1,"bbox":[42,46,500,28]}
+{"kind":"textbox","id":"sh/k3yl0zql","slide":1,"name":"text-3","text":"仿飞书协同\n办公平台","textPreview":"仿飞书协同 | 办公平台","textChars":10,"textLines":2,"bbox":[42,156,548,190]}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"name":"text-4","text":"多端一体化协作工作台","textPreview":"多端一体化协作工作台","textChars":10,"textLines":1,"bbox":[42,386,520,46]}
+{"kind":"shape","id":"sh/wzy1szid","slide":1,"name":"rule-5","bbox":[42,470,184,0.01]}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"name":"text-6","text":"第7组项目汇报","textPreview":"第7组项目汇报","textChars":7,"textLines":1,"bbox":[42,506,300,34]}
+{"kind":"textbox","id":"sh/sryl4zqx","slide":1,"name":"text-7","text":"Web · Desktop · Android · WeChat Mini Program","textPreview":"Web · Desktop · Android · WeChat Mini Program","textChars":45,"textLines":1,"bbox":[42,554,520,26]}
+{"kind":"textbox","id":"sh/fu94fe98","slide":1,"name":"text-8","text":"2026.07","textPreview":"2026.07","textChars":7,"textLines":1,"bbox":[42,646,180,24]}
+{"kind":"image","id":"im/ad8zeh03","slide":1,"name":"图片 17","geometry":"roundRect","bbox":[660,52,564,616]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"各位老师好，我们是第7组。我们汇报的是仿飞书协同办公平台。这个项目的重点不是只复刻几个页面，而是把多端入口、统一数据、实时协作和工程交付串成一套可运行系统。下面先看最终交付结果。"}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"10 天 MVP 最终形成多端交付闭环","textShapes":20}
+{"kind":"textbox","id":"sh/gbmxszmt","slide":2,"name":"text-9","text":"10 天 MVP 最终形成多端交付闭环","textPreview":"10 天 MVP 最终形成多端交付闭环","textChars":19,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"name":"text-10","text":"依据：项目最终代码与 2026-07-19 实际验证","textPreview":"依据：项目最终代码与 2026-07-19 实际验证","textChars":26,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/ozy1ofad","slide":2,"name":"text-11","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"name":"text-12","text":"最初目标","textPreview":"最初目标","textChars":4,"textLines":1,"bbox":[42,132,180,34]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"text-13","text":"做出可演示的仿飞书核心流程","textPreview":"做出可演示的仿飞书核心流程","textChars":13,"textLines":1,"bbox":[42,174,520,46]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"name":"text-14","text":"最终结果","textPreview":"最终结果","textChars":4,"textLines":1,"bbox":[678,132,180,34]}
+{"kind":"textbox","id":"sh/w3i1sfa9","slide":2,"name":"text-15","text":"形成共享后端的四端协作系统","textPreview":"形成共享后端的四端协作系统","textChars":13,"textLines":1,"bbox":[678,174,520,46]}
+{"kind":"shape","id":"sh/ypgny9sj","slide":2,"name":"rule-16","bbox":[42,260,1196,0.01]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"text-17","text":"WEB","textPreview":"WEB","textChars":3,"textLines":1,"bbox":[42,310,250,30]}
+{"kind":"textbox","id":"sh/ove9o7yd","slide":2,"name":"text-18","text":"24","textPreview":"24","textChars":2,"textLines":1,"bbox":[42,350,250,72]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"text-19","text":"路由声明\n核心业务主端","textPreview":"路由声明 | 核心业务主端","textChars":11,"textLines":2,"bbox":[42,438,250,70]}
+{"kind":"shape","id":"sh/mtgn29sf","slide":2,"name":"rule-20","bbox":[320,304,1,0.01]}
+{"kind":"textbox","id":"sh/nu58f2hs","slide":2,"name":"text-21","text":"DESKTOP","textPreview":"DESKTOP","textChars":7,"textLines":1,"bbox":[342,310,250,30]}
+{"kind":"textbox","id":"sh/wjy9sry9","slide":2,"name":"text-22","text":"0.4.0","textPreview":"0.4.0","textChars":5,"textLines":1,"bbox":[342,350,250,72]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"text-23","text":"Electron 复用 Web\n可打包桌面应用","textPreview":"Electron 复用 Web | 可打包桌面应用","textChars":23,"textLines":2,"bbox":[342,438,250,70]}
+{"kind":"shape","id":"sh/uxwf6xgz","slide":2,"name":"rule-24","bbox":[620,304,1,0.01]}
+{"kind":"textbox","id":"sh/bip8jmho","slide":2,"name":"text-25","text":"ANDROID","textPreview":"ANDROID","textChars":7,"textLines":1,"bbox":[642,310,250,30]}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"name":"text-26","text":"NATIVE","textPreview":"NATIVE","textChars":6,"textLines":1,"bbox":[642,350,250,72]}
+{"kind":"textbox","id":"sh/do3q9szq","slide":2,"name":"text-27","text":"Kotlin + Compose\nDebug APK 构建通过","textPreview":"Kotlin + Compose | Debug APK 构建通过","textChars":31,"textLines":2,"bbox":[642,438,250,70]}
+{"kind":"shape","id":"sh/2lgfahgb","slide":2,"name":"rule-28","bbox":[920,304,1,0.01]}
+{"kind":"textbox","id":"sh/s72xofmh","slide":2,"name":"text-29","text":"MINI PROGRAM","textPreview":"MINI PROGRAM","textChars":12,"textLines":1,"bbox":[942,310,296,30]}
+{"kind":"textbox","id":"sh/76twva5c","slide":2,"name":"text-30","text":"PASS","textPreview":"PASS","textChars":4,"textLines":1,"bbox":[942,350,270,72]}
+{"kind":"textbox","id":"sh/65kfmpor","slide":2,"name":"text-31","text":"微信小程序\n生产构建通过","textPreview":"微信小程序 | 生产构建通过","textChars":12,"textLines":2,"bbox":[942,438,270,70]}
+{"kind":"textbox","id":"sh/hcvy14ne","slide":2,"name":"text-32","text":"结论：交付重点已从“页面数量”转向“多端共用数据与工程闭环”。","textPreview":"结论：交付重点已从“页面数量”转向“多端共用数据与工程闭环”。","textChars":31,"textLines":1,"bbox":[42,584,1130,38]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"项目用10天形成MVP。Web有24个核心业务路由，Electron桌面端可以打包，Android原生Debug APK构建通过，小程序生产构建通过。这里想强调，交付重点已经从页面数量转向多端共享数据和完整工程闭环。"}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"一个账号、一套 API 连接四类客户端","textShapes":14}
+{"kind":"textbox","id":"sh/k3m1g7yp","slide":3,"name":"text-33","text":"一个账号、一套 API 连接四类客户端","textPreview":"一个账号、一套 API 连接四类客户端","textChars":19,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"name":"text-34","text":"依据：项目最终代码与 2026-07-19 实际验证","textPreview":"依据：项目最终代码与 2026-07-19 实际验证","textChars":26,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/d0jax03i","slide":3,"name":"text-35","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"shape","id":"sh/kvupg3ed","slide":3,"name":"rule-36","bbox":[250,204,292,0.01]}
+{"kind":"shape","id":"sh/fyhovuxo","slide":3,"name":"rule-37","bbox":[250,294,292,0.01]}
+{"kind":"shape","id":"sh/ex872pg3","slide":3,"name":"rule-38","bbox":[250,384,292,0.01]}
+{"kind":"shape","id":"sh/fuhcnq50","slide":3,"name":"rule-39","bbox":[250,474,292,0.01]}
+{"kind":"shape","id":"sh/et8vel4f","slide":3,"name":"rule-40","bbox":[758,294,184,0.01]}
+{"kind":"shape","id":"sh/1wzup0nq","slide":3,"name":"rule-41","bbox":[758,384,184,0.01]}
+{"kind":"shape","id":"sh/0vqdgvml","slide":3,"name":"rule-42","bbox":[758,474,184,0.01]}
+{"kind":"shape","id":"sh/m1c3mlsn","slide":3,"name":"rect-43","bbox":[42,164,208,76]}
+{"kind":"shape","id":"sh/943mhgre","slide":3,"name":"rect-44","bbox":[42,254,208,76]}
+{"kind":"shape","id":"sh/83ulovat","slide":3,"name":"rect-45","bbox":[42,344,208,76]}
+{"kind":"shape","id":"sh/v6l4jq94","slide":3,"name":"rect-46","bbox":[42,434,208,76]}
+{"kind":"textbox","id":"sh/a5c3ql8z","slide":3,"name":"text-47","text":"Web","textPreview":"Web","textChars":3,"textLines":1,"bbox":[62,182,160,32]}
+{"kind":"textbox","id":"sh/x8nml0ra","slide":3,"name":"text-48","text":"Electron 桌面端","textPreview":"Electron 桌面端","textChars":12,"textLines":1,"bbox":[62,272,170,32]}
+{"kind":"textbox","id":"sh/w7ulsvqp","slide":3,"name":"text-49","text":"原生 Android","textPreview":"原生 Android","textChars":10,"textLines":1,"bbox":[62,362,170,32]}
+{"kind":"textbox","id":"sh/ja54na9g","slide":3,"name":"text-50","text":"微信小程序","textPreview":"微信小程序","textChars":5,"textLines":1,"bbox":[62,452,170,32]}
+{"kind":"shape","id":"sh/i9w3u58v","slide":3,"name":"rect-51","bbox":[542,224,216,310]}
+{"kind":"textbox","id":"sh/e10f2twf","slide":3,"name":"text-52","text":"Nginx","textPreview":"Nginx","textChars":5,"textLines":1,"bbox":[576,260,148,36]}
+{"kind":"shape","id":"sh/wz214nyp","slide":3,"name":"rule-53","bbox":[578,316,144,0.01]}
+{"kind":"textbox","id":"sh/03ix43e5","slide":3,"name":"text-54","text":"ASP.NET Core\nREST API","textPreview":"ASP.NET Core | REST API","textChars":21,"textLines":2,"bbox":[570,346,160,84]}
+{"kind":"textbox","id":"sh/14ryd8fq","slide":3,"name":"text-55","text":"JWT · Swagger\nSignalR Hub","textPreview":"JWT · Swagger | SignalR Hub","textChars":25,"textLines":2,"bbox":[570,462,160,54]}
+{"kind":"shape","id":"sh/6d0fytg3","slide":3,"name":"rect-56","bbox":[942,254,296,76]}
+{"kind":"shape","id":"sh/re9g7yxo","slide":3,"name":"rect-57","bbox":[942,344,296,76]}
+{"kind":"shape","id":"sh/sfix03y9","slide":3,"name":"rect-58","bbox":[942,434,296,76]}
+{"kind":"textbox","id":"sh/tgry9ofu","slide":3,"name":"text-59","text":"PostgreSQL · 业务数据","textPreview":"PostgreSQL · 业务数据","textChars":17,"textLines":1,"bbox":[966,272,240,32]}
+{"kind":"textbox","id":"sh/a9kfadwn","slide":3,"name":"text-60","text":"MinIO / Local · 文件","textPreview":"MinIO / Local · 文件","textChars":18,"textLines":1,"bbox":[966,362,240,32]}
+{"kind":"textbox","id":"sh/batgjixs","slide":3,"name":"text-61","text":"SignalR / Agora · 实时","textPreview":"SignalR / Agora · 实时","textChars":20,"textLines":1,"bbox":[966,452,240,32]}
+{"kind":"textbox","id":"sh/l4fi9cza","slide":3,"name":"text-62","text":"client_type 区分终端会话；所有终端共享同一用户、组织与业务数据模型。","textPreview":"client_type 区分终端会话；所有终端共享同一用户、组织与业务数据模型。","textChars":40,"textLines":1,"bbox":[42,590,1160,40]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"总体架构可以概括为一个账号、一套API、四类客户端。Web、桌面端、Android和小程序只是不同交互入口，账号、组织、消息和业务数据都由ASP.NET Core统一处理。client_type只区分终端会话，不会复制一份业务数据。"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"四条主线覆盖完整协作场景","textShapes":16}
+{"kind":"textbox","id":"sh/oz29krqh","slide":4,"name":"text-63","text":"四条主线覆盖完整协作场景","textPreview":"四条主线覆盖完整协作场景","textChars":12,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"name":"text-64","text":"依据：项目最终代码与 2026-07-19 实际验证","textPreview":"依据：项目最终代码与 2026-07-19 实际验证","textChars":26,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/0ba143al","slide":4,"name":"text-65","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"shape","id":"sh/18nu50nu","slide":4,"name":"rule-66","bbox":[318,154,1,0.01]}
+{"kind":"shape","id":"sh/0netcvm9","slide":4,"name":"rule-67","bbox":[622,154,1,0.01]}
+{"kind":"shape","id":"sh/rilczq5s","slide":4,"name":"rule-68","bbox":[926,154,1,0.01]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"text-69","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[42,156,70,36]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"name":"text-70","text":"沟通协作","textPreview":"沟通协作","textChars":4,"textLines":1,"bbox":[42,206,230,42]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"name":"text-71","text":"• 单聊 / 群聊 / @成员\n• 撤回、已读、搜索\n• 好友与通知中心\n• 视频会议与会中聊天","textPreview":"• 单聊 / 群聊 / @成员 | • 撤回、已读、搜索 | • 好友与通知中心 | • 视频会议与会中聊天","textChars":48,"textLines":4,"bbox":[42,280,244,220]}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"name":"text-72","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[346,156,70,36]}
+{"kind":"textbox","id":"sh/5cva1cfq","slide":4,"name":"text-73","text":"内容协作","textPreview":"内容协作","textChars":4,"textLines":1,"bbox":[346,206,230,42]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"name":"text-74","text":"• 富文本云文档\n• 评论、版本、协作者\n• 云盘、文件夹、回收站\n• 知识库空间与节点","textPreview":"• 富文本云文档 | • 评论、版本、协作者 | • 云盘、文件夹、回收站 | • 知识库空间与节点","textChars":44,"textLines":4,"bbox":[346,280,244,220]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"name":"text-75","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[650,156,70,36]}
+{"kind":"textbox","id":"sh/w72947yt","slide":4,"name":"text-76","text":"流程协作","textPreview":"流程协作","textChars":4,"textLines":1,"bbox":[650,206,230,42]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"name":"text-77","text":"• 月 / 周 / 日历\n• 忙闲与参会回执\n• 审批模板与实例\n• 任务状态闭环","textPreview":"• 月 / 周 / 日历 | • 忙闲与参会回执 | • 审批模板与实例 | • 任务状态闭环","textChars":41,"textLines":4,"bbox":[650,280,244,220]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"name":"text-78","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[954,156,70,36]}
+{"kind":"textbox","id":"sh/v6tsv2xo","slide":4,"name":"text-79","text":"组织治理","textPreview":"组织治理","textChars":4,"textLines":1,"bbox":[954,206,230,42]}
+{"kind":"textbox","id":"sh/g36tgryd","slide":4,"name":"text-80","text":"• 通讯录与部门树\n• 用户、角色与权限\n• 数据字典\n• 操作日志与个人资料","textPreview":"• 通讯录与部门树 | • 用户、角色与权限 | • 数据字典 | • 操作日志与个人资料","textChars":39,"textLines":4,"bbox":[954,280,244,220]}
+{"kind":"shape","id":"sh/h4fa9wfy","slide":4,"name":"rect-81","bbox":[42,560,1196,70]}
+{"kind":"textbox","id":"sh/p0batw72","slide":4,"name":"text-82","text":"核心价值：用户不必在多套系统间切换，沟通、内容与流程可以在同一工作台连续完成。","textPreview":"核心价值：用户不必在多套系统间切换，沟通、内容与流程可以在同一工作台连续完成。","textChars":39,"textLines":1,"bbox":[66,580,1148,34]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"业务上我们归纳为四条主线：沟通、内容、流程和组织治理。老师可以把它理解成从聊天开始，继续完成文档协作、日程审批和权限管理，用户不需要在多套系统之间切换。下一页先看最核心的即时通信。"}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"即时通信已经跑通核心群聊场景","textShapes":8}
+{"kind":"textbox","id":"sh/v2twb6dw","slide":5,"name":"text-83","text":"即时通信已经跑通核心群聊场景","textPreview":"即时通信已经跑通核心群聊场景","textChars":14,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"name":"text-84","text":"截图：真实后端测试账号；依据：IM 前后端代码","textPreview":"截图：真实后端测试账号；依据：IM 前后端代码","textChars":23,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/cf2tcr61","slide":5,"name":"text-85","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"shape","id":"sh/z2tcnm5s","slide":5,"name":"rect-86","bbox":[42,126,826,510]}
+{"kind":"textbox","id":"sh/yhkbe1o7","slide":5,"name":"text-87","text":"真实数据","textPreview":"真实数据","textChars":4,"textLines":1,"bbox":[914,142,260,32]}
+{"kind":"textbox","id":"sh/l4bupwny","slide":5,"name":"text-88","text":"会话列表、群成员和历史消息来自真实后端，不是静态原型。","textPreview":"会话列表、群成员和历史消息来自真实后端，不是静态原型。","textChars":27,"textLines":1,"bbox":[914,184,290,84]}
+{"kind":"shape","id":"sh/gjmhgzqt","slide":5,"name":"rule-89","bbox":[914,294,290,0.01]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"text-90","text":"核心交互","textPreview":"核心交互","textChars":4,"textLines":1,"bbox":[914,320,260,30]}
+{"kind":"textbox","id":"sh/m5kbi1oj","slide":5,"name":"text-91","text":"• 单聊与群聊\n• @成员、撤回、未读\n• 群公告与成员管理\n• 消息搜索与已读回执","textPreview":"• 单聊与群聊 | • @成员、撤回、未读 | • 群公告与成员管理 | • 消息搜索与已读回执","textChars":42,"textLines":4,"bbox":[914,366,290,168]}
+{"kind":"shape","id":"sh/w32dkbuh","slide":5,"name":"rect-92","bbox":[914,560,290,76]}
+{"kind":"textbox","id":"sh/x4vedgvm","slide":5,"name":"text-93","text":"SignalR 接收事件\nREST API 持久化","textPreview":"SignalR 接收事件 | REST API 持久化","textChars":25,"textLines":2,"bbox":[934,574,250,50]}
+{"kind":"image","id":"im/ozalc3al","slide":5,"name":"图片 23","geometry":"roundRect","bbox":[66.2,138,777.6,486]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"这张图是真实后端账号登录后的群聊页面。会话列表、成员和历史消息来自后端；SignalR负责把新消息和状态变化实时推到客户端，REST接口负责持久化和历史查询。演示时可以发送一条消息，再说明刷新后数据仍然存在。"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"内容协作覆盖创建、治理与回收","textShapes":7}
+{"kind":"textbox","id":"sh/v2tcn650","slide":6,"name":"text-94","text":"内容协作覆盖创建、治理与回收","textPreview":"内容协作覆盖创建、治理与回收","textChars":14,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"name":"text-95","text":"截图：真实后端数据；依据：Documents / Files / Wiki 接口","textPreview":"截图：真实后端数据；依据：Documents / Files / Wiki 接口","textChars":40,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/zi98nu94","slide":6,"name":"text-96","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"shape","id":"sh/87ipkzal","slide":6,"name":"rect-97","bbox":[42,130,568,354]}
+{"kind":"shape","id":"sh/98rqt4r6","slide":6,"name":"rect-98","bbox":[628,130,610,354]}
+{"kind":"textbox","id":"sh/ml07i9sv","slide":6,"name":"text-99","text":"云文档","textPreview":"云文档","textChars":3,"textLines":1,"bbox":[42,512,180,32]}
+{"kind":"textbox","id":"sh/7m98ru9g","slide":6,"name":"text-100","text":"创建与编辑、评论、版本历史、协作者、可见性、版本恢复与软删除。","textPreview":"创建与编辑、评论、版本历史、协作者、可见性、版本恢复与软删除。","textChars":31,"textLines":1,"bbox":[42,554,554,70]}
+{"kind":"textbox","id":"sh/oryp8fah","slide":6,"name":"text-101","text":"云盘与知识库","textPreview":"云盘与知识库","textChars":6,"textLines":1,"bbox":[628,512,220,32]}
+{"kind":"textbox","id":"sh/pc76hkr2","slide":6,"name":"text-102","text":"文件夹、上传下载、预览、移动、分享、回收站；知识库支持空间、节点、成员和搜索。","textPreview":"文件夹、上传下载、预览、移动、分享、回收站；知识库支持空间、节点、成员和搜索。","textChars":39,"textLines":1,"bbox":[628,554,594,70]}
+{"kind":"image","id":"im/t03ulobq","slide":6,"name":"图片 20","geometry":"roundRect","bbox":[58.8,140,534.4,334]}
+{"kind":"image","id":"im/y9sbm9c3","slide":6,"name":"图片 21","geometry":"roundRect","bbox":[665.8,140,534.4,334]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"内容协作不只包含新建文档，还覆盖评论、版本、协作者、文件移动、分享和回收站。两张图分别展示文档与云盘页面。这里的价值是把内容的创建、治理和回收放在同一个账号体系里。"}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"业务已延伸到知识沉淀与组织治理","textShapes":7}
+{"kind":"textbox","id":"sh/xcz2l03q","slide":7,"name":"text-94","text":"业务已延伸到知识沉淀与组织治理","textPreview":"业务已延伸到知识沉淀与组织治理","textChars":15,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/cb2tkvap","slide":7,"name":"text-95","text":"截图：真实后端数据；依据：Wiki / Users / Roles / Audit 接口","textPreview":"截图：真实后端数据；依据：Wiki / Users / Roles / Audit 接口","textChars":44,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/dcbud0ra","slide":7,"name":"text-96","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"shape","id":"sh/ydkbm5sv","slide":7,"name":"rect-97","bbox":[42,130,568,354]}
+{"kind":"shape","id":"sh/zedcfa9g","slide":7,"name":"rect-98","bbox":[628,130,610,354]}
+{"kind":"textbox","id":"sh/kzmdova1","slide":7,"name":"text-99","text":"知识库","textPreview":"知识库","textChars":3,"textLines":1,"bbox":[42,512,180,32]}
+{"kind":"textbox","id":"sh/l0vuh0rm","slide":7,"name":"text-100","text":"空间与节点组织零散文档，支持成员、搜索与后续持续沉淀。","textPreview":"空间与节点组织零散文档，支持成员、搜索与后续持续沉淀。","textChars":27,"textLines":1,"bbox":[42,554,554,70]}
+{"kind":"textbox","id":"sh/eh0ba1sr","slide":7,"name":"text-101","text":"组织治理","textPreview":"组织治理","textChars":4,"textLines":1,"bbox":[628,512,220,32]}
+{"kind":"textbox","id":"sh/fi9c369c","slide":7,"name":"text-102","text":"用户、部门、角色、数据字典和操作日志集中管理，权限边界可追踪。","textPreview":"用户、部门、角色、数据字典和操作日志集中管理，权限边界可追踪。","textChars":31,"textLines":1,"bbox":[628,554,594,70]}
+{"kind":"image","id":"im/byxwryh8","slide":7,"name":"","geometry":"roundRect","alt":"Web知识库真实运行截图","bbox":[58.8,140,534.4,334]}
+{"kind":"image","id":"im/k36xo3i5","slide":7,"name":"","geometry":"roundRect","alt":"Web用户管理真实运行截图","bbox":[665.8,140,534.4,334]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"这一页补充两个容易被忽略的能力。左侧知识库把零散文档按空间和节点组织起来；右侧管理后台统一维护用户、部门、角色和操作日志。因此平台既能支持日常协作，也具备组织治理的基础。"}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"端侧技术按场景分工，共享同一套 API","textShapes":12}
+{"kind":"textbox","id":"sh/kfixwbe1","slide":8,"name":"text-103","text":"端侧技术按场景分工，共享同一套 API","textPreview":"端侧技术按场景分工，共享同一套 API","textChars":19,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/18byd4zy","slide":8,"name":"text-104","text":"依据：项目最终代码与 2026-07-19 实际验证","textPreview":"依据：项目最终代码与 2026-07-19 实际验证","textChars":26,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/g72x4zyd","slide":8,"name":"text-105","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"shape","id":"sh/ri9g7uhw","slide":8,"name":"rect-106","bbox":[42,138,546,472]}
+{"kind":"shape","id":"sh/6h0fypgb","slide":8,"name":"rect-107","bbox":[692,138,546,472]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"name":"text-108","text":"Web + Desktop","textPreview":"Web + Desktop","textChars":13,"textLines":1,"bbox":[70,166,300,40]}
+{"kind":"textbox","id":"sh/sjix0zy1","slide":8,"name":"text-109","text":"Vue 3 + Electron","textPreview":"Vue 3 + Electron","textChars":16,"textLines":1,"bbox":[70,228,360,46]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"text-110","text":"• Web 是完整业务主端\n• Electron 直接复用构建产物\n• 统一路由、状态与 UI\n• 减少桌面端重复开发","textPreview":"• Web 是完整业务主端 | • Electron 直接复用构建产物 | • 统一路由、状态与 UI | • 减少桌面端重复开发","textChars":59,"textLines":4,"bbox":[70,306,440,190]}
+{"kind":"shape","id":"sh/id0fu50z","slide":8,"name":"rect-111","bbox":[70,520,440,64]}
+{"kind":"textbox","id":"sh/o7ydoret","slide":8,"name":"text-112","text":"微信小程序：uni-app 独立实现 · 生产构建通过","textPreview":"微信小程序：uni-app 独立实现 · 生产构建通过","textChars":27,"textLines":1,"bbox":[88,538,404,30]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"text-113","text":"原生 Android","textPreview":"原生 Android","textChars":10,"textLines":1,"bbox":[720,166,390,40]}
+{"kind":"textbox","id":"sh/m5gvmhwn","slide":8,"name":"text-114","text":"Kotlin + Jetpack Compose","textPreview":"Kotlin + Jetpack Compose","textChars":24,"textLines":1,"bbox":[720,228,450,46]}
+{"kind":"textbox","id":"sh/n6pwfmd8","slide":8,"name":"text-115","text":"• AppViewModel / StateFlow 状态驱动\n• Retrofit / OkHttp 对接 REST\n• SignalR 接收实时消息\n• Agora RTC 视频会议","textPreview":"• AppViewModel / StateFlow 状态驱动 | • Retrofit / OkHttp 对接 REST | • SignalR 接收实时消息 | • Agora RTC 视频会议","textChars":93,"textLines":4,"bbox":[720,306,450,190]}
+{"kind":"shape","id":"sh/0jydkreh","slide":8,"name":"rect-116","bbox":[720,520,458,64]}
+{"kind":"textbox","id":"sh/1k7edwv2","slide":8,"name":"text-117","text":"DataStore 会话 · Coil 图片 · 61 个 Compose 标记","textPreview":"DataStore 会话 · Coil 图片 · 61 个 Compose 标记","textChars":40,"textLines":1,"bbox":[738,538,422,30]}
+{"kind":"shape","id":"sh/ehgvihwr","slide":8,"name":"rect-118","bbox":[605,334,62,62]}
+{"kind":"textbox","id":"sh/zipwbmdc","slide":8,"name":"text-119","text":"API","textPreview":"API","textChars":3,"textLines":1,"bbox":[611,349,50,28]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"端侧技术按场景分工。Web和Electron共用Vue 3业务界面，减少重复开发；Android采用Kotlin和Jetpack Compose，适合相机、麦克风和RTC场景；小程序使用uni-app，提高移动入口的交付效率。不同端最终都调用同一套API。"}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"三条后端能力线支撑全部业务","textShapes":14}
+{"kind":"textbox","id":"sh/lsn2h4fa","slide":9,"name":"text-120","text":"三条后端能力线支撑全部业务","textPreview":"三条后端能力线支撑全部业务","textChars":13,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"name":"text-121","text":"依据：项目最终代码与 2026-07-19 实际验证","textPreview":"依据：项目最终代码与 2026-07-19 实际验证","textChars":26,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/0b65obm9","slide":9,"name":"text-122","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"textbox","id":"sh/nex4jq5k","slide":9,"name":"text-123","text":"16 controllers","textPreview":"16 controllers","textChars":14,"textLines":1,"bbox":[42,132,240,36]}
+{"kind":"textbox","id":"sh/mdonql4z","slide":9,"name":"text-124","text":"142 HTTP actions","textPreview":"142 HTTP actions","textChars":16,"textLines":1,"bbox":[348,132,250,36]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"name":"text-125","text":"36 DbSets","textPreview":"36 DbSets","textChars":9,"textLines":1,"bbox":[654,132,220,36]}
+{"kind":"textbox","id":"sh/ofq5svm5","slide":9,"name":"text-126","text":"ASP.NET Core 8","textPreview":"ASP.NET Core 8","textChars":14,"textLines":1,"bbox":[960,132,278,36]}
+{"kind":"shape","id":"sh/hsf25oji","slide":9,"name":"rule-127","bbox":[42,198,1196,0.01]}
+{"kind":"textbox","id":"sh/ah8nu54b","slide":9,"name":"text-128","text":"鉴权与治理","textPreview":"鉴权与治理","textChars":5,"textLines":1,"bbox":[42,244,330,42]}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"name":"text-129","text":"• JWT + jti 撤销\n• 角色与权限持久化\n• 客户端会话版本\n• 统一异常与 traceId","textPreview":"• JWT + jti 撤销 | • 角色与权限持久化 | • 客户端会话版本 | • 统一异常与 traceId","textChars":51,"textLines":4,"bbox":[42,318,320,200]}
+{"kind":"shape","id":"sh/ze9gzqh0","slide":9,"name":"rule-130","bbox":[420,226,1,0.01]}
+{"kind":"textbox","id":"sh/2xsjepgb","slide":9,"name":"text-131","text":"实时协作","textPreview":"实时协作","textChars":4,"textLines":1,"bbox":[462,244,330,42]}
+{"kind":"textbox","id":"sh/3y107axw","slide":9,"name":"text-132","text":"• SignalR 用户组 / 会话组\n• 消息与通知推送\n• 好友与会议事件\n• Agora 会议令牌","textPreview":"• SignalR 用户组 / 会话组 | • 消息与通知推送 | • 好友与会议事件 | • Agora 会议令牌","textChars":52,"textLines":4,"bbox":[462,318,320,200]}
+{"kind":"shape","id":"sh/q9gf210j","slide":9,"name":"rule-133","bbox":[840,226,1,0.01]}
+{"kind":"textbox","id":"sh/do3id4fy","slide":9,"name":"text-134","text":"数据与文件","textPreview":"数据与文件","textChars":5,"textLines":1,"bbox":[882,244,330,42]}
+{"kind":"textbox","id":"sh/qlcjipgn","slide":9,"name":"text-135","text":"• EF Core + PostgreSQL\n• 失败自动重试\n• Local / MinIO 可切换\n• 软删除与回收站","textPreview":"• EF Core + PostgreSQL | • 失败自动重试 | • Local / MinIO 可切换 | • 软删除与回收站","textChars":61,"textLines":4,"bbox":[882,318,320,200]}
+{"kind":"shape","id":"sh/bml0buxs","slide":9,"name":"rect-136","bbox":[42,568,1196,60]}
+{"kind":"textbox","id":"sh/0ru1ozyp","slide":9,"name":"text-137","text":"后端不是单纯 CRUD：它同时处理会话安全、实时事件、文件生命周期与部署健康。","textPreview":"后端不是单纯 CRUD：它同时处理会话安全、实时事件、文件生命周期与部署健康。","textChars":39,"textLines":1,"bbox":[66,584,1148,30]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"后端不是只有增删改查。它同时处理JWT鉴权、会话撤销、角色权限、SignalR实时事件、文件存储和健康检查。16个控制器、142个HTTP动作和36个DbSet说明业务能力已经覆盖主要模块。"}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"先落库再推送，保证最终一致","textShapes":20}
+{"kind":"textbox","id":"sh/ru18r2to","slide":10,"name":"text-138","text":"先落库再推送，保证最终一致","textPreview":"先落库再推送，保证最终一致","textChars":13,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"name":"text-139","text":"依据：项目最终代码与 2026-07-19 实际验证","textPreview":"依据：项目最终代码与 2026-07-19 实际验证","textChars":26,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/cbu58j2h","slide":10,"name":"text-140","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"shape","id":"sh/hgrel4fi","slide":10,"name":"rule-141","bbox":[120,312,250,0.01]}
+{"kind":"shape","id":"sh/ud0vqpwr","slide":10,"name":"rule-142","bbox":[390,312,250,0.01]}
+{"kind":"shape","id":"sh/fe9wjuxc","slide":10,"name":"rule-143","bbox":[660,312,250,0.01]}
+{"kind":"shape","id":"sh/sridofel","slide":10,"name":"rule-144","bbox":[930,312,210,0.01]}
+{"kind":"shape","id":"sh/725onyl4","slide":10,"name":"rect-145","bbox":[100,302,20,20]}
+{"kind":"shape","id":"sh/m1cnetkj","slide":10,"name":"rect-146","bbox":[370,302,20,20]}
+{"kind":"shape","id":"sh/s7yt4b21","slide":10,"name":"rect-147","bbox":[640,302,20,20]}
+{"kind":"shape","id":"sh/d87uxg3m","slide":10,"name":"rect-148","bbox":[910,302,20,20]}
+{"kind":"shape","id":"sh/q5gb21kb","slide":10,"name":"rect-149","bbox":[1140,302,20,20]}
+{"kind":"textbox","id":"sh/r6pcv6lw","slide":10,"name":"text-150","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[88,202,70,28]}
+{"kind":"textbox","id":"sh/0bit8b2d","slide":10,"name":"text-151","text":"客户端提交","textPreview":"客户端提交","textChars":5,"textLines":1,"bbox":[58,242,190,36]}
+{"kind":"textbox","id":"sh/1cru1g3y","slide":10,"name":"text-152","text":"REST / Hub","textPreview":"REST / Hub","textChars":10,"textLines":1,"bbox":[58,344,190,30]}
+{"kind":"textbox","id":"sh/e9gb61k7","slide":10,"name":"text-153","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[358,202,70,28]}
+{"kind":"textbox","id":"sh/fapcz6ls","slide":10,"name":"text-154","text":"鉴权与成员校验","textPreview":"鉴权与成员校验","textChars":7,"textLines":1,"bbox":[312,242,230,36]}
+{"kind":"textbox","id":"sh/ozitcv29","slide":10,"name":"text-155","text":"JWT / RBAC","textPreview":"JWT / RBAC","textChars":10,"textLines":1,"bbox":[328,344,190,30]}
+{"kind":"textbox","id":"sh/p0ru503u","slide":10,"name":"text-156","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[628,202,70,28]}
+{"kind":"textbox","id":"sh/xwnupgvy","slide":10,"name":"text-157","text":"数据库提交","textPreview":"数据库提交","textChars":5,"textLines":1,"bbox":[598,242,190,36]}
+{"kind":"textbox","id":"sh/wvetgbud","slide":10,"name":"text-158","text":"EF Core","textPreview":"EF Core","textChars":7,"textLines":1,"bbox":[598,344,190,30]}
+{"kind":"textbox","id":"sh/bu5cnqd8","slide":10,"name":"text-159","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[898,202,70,28]}
+{"kind":"textbox","id":"sh/atwbelcn","slide":10,"name":"text-160","text":"生成通知事件","textPreview":"生成通知事件","textChars":6,"textLines":1,"bbox":[858,242,210,36]}
+{"kind":"textbox","id":"sh/lk7ut0va","slide":10,"name":"text-161","text":"Interceptor","textPreview":"Interceptor","textChars":11,"textLines":1,"bbox":[868,344,190,30]}
+{"kind":"textbox","id":"sh/kjytkvup","slide":10,"name":"text-162","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1128,202,70,28]}
+{"kind":"textbox","id":"sh/jypcrqd4","slide":10,"name":"text-163","text":"分组推送","textPreview":"分组推送","textChars":4,"textLines":1,"bbox":[1088,242,150,36]}
+{"kind":"textbox","id":"sh/yxgbilcj","slide":10,"name":"text-164","text":"SignalR","textPreview":"SignalR","textChars":7,"textLines":1,"bbox":[1088,344,150,30]}
+{"kind":"shape","id":"sh/1o3ahwvq","slide":10,"name":"rect-165","bbox":[42,450,1196,128]}
+{"kind":"textbox","id":"sh/0nut8rul","slide":10,"name":"text-166","text":"为什么这样设计？","textPreview":"为什么这样设计？","textChars":8,"textLines":1,"bbox":[66,478,250,32]}
+{"kind":"textbox","id":"sh/q9srixs3","slide":10,"name":"text-167","text":"数据库写入一旦成功，即使瞬时推送失败，也只记录警告，不把成功业务误报成 HTTP 500；客户端重连后仍可从列表接口取回已存数据。","textPreview":"数据库写入一旦成功，即使瞬时推送失败，也只记录警告，不把成功业务误报成 HTTP 500；客户端重连后仍可从列表接口取回已存数据。","textChars":65,"textLines":1,"bbox":[66,526,1120,50]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"一致性的关键是先落库，再推送。客户端提交后先完成鉴权和成员校验，再由EF Core写入数据库，成功后生成通知事件并通过SignalR分组推送。即使即时推送失败，客户端重连后仍可通过列表接口恢复数据。"}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"安全策略贯穿登录、权限与审计","textShapes":16}
+{"kind":"textbox","id":"sh/87ehgv6d","slide":11,"name":"text-168","text":"安全策略贯穿登录、权限与审计","textPreview":"安全策略贯穿登录、权限与审计","textChars":14,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/xcryxg7y","slide":11,"name":"text-169","text":"依据：项目最终代码与 2026-07-19 实际验证","textPreview":"依据：项目最终代码与 2026-07-19 实际验证","textChars":26,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/wbih4b6d","slide":11,"name":"text-170","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"textbox","id":"sh/n69grmpw","slide":11,"name":"text-171","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[42,150,60,30]}
+{"kind":"textbox","id":"sh/250zy18b","slide":11,"name":"text-172","text":"JWT 鉴权","textPreview":"JWT 鉴权","textChars":6,"textLines":1,"bbox":[42,194,240,40]}
+{"kind":"textbox","id":"sh/98rytw72","slide":11,"name":"text-173","text":"校验 issuer、audience、有效期、签名和 jti；退出登录可撤销当前令牌。","textPreview":"校验 issuer、audience、有效期、签名和 jti；退出登录可撤销当前令牌。","textChars":43,"textLines":1,"bbox":[42,260,250,136]}
+{"kind":"shape","id":"sh/cfedorqx","slide":11,"name":"rule-174","bbox":[318,146,1,0.01]}
+{"kind":"textbox","id":"sh/72t03qp0","slide":11,"name":"text-175","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[346,150,60,30]}
+{"kind":"textbox","id":"sh/61kzalof","slide":11,"name":"text-176","text":"多端会话","textPreview":"多端会话","textChars":4,"textLines":1,"bbox":[346,194,240,40]}
+{"kind":"textbox","id":"sh/ofqtgnyt","slide":11,"name":"text-177","text":"client_type + session_version：同类型终端重新登录会让旧会话失效，不同类型终端可共存。","textPreview":"client_type + session_version：同类型终端重新登录会让旧会话失效，不同类型终端可共存。","textChars":57,"textLines":1,"bbox":[346,260,250,150]}
+{"kind":"shape","id":"sh/kjyxsrq9","slide":11,"name":"rule-178","bbox":[622,146,1,0.01]}
+{"kind":"textbox","id":"sh/mdobedg3","slide":11,"name":"text-179","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[650,150,60,30]}
+{"kind":"textbox","id":"sh/nehs7iho","slide":11,"name":"text-180","text":"角色权限","textPreview":"角色权限","textChars":4,"textLines":1,"bbox":[650,194,240,40]}
+{"kind":"textbox","id":"sh/0b6tc3yx","slide":11,"name":"text-181","text":"角色与 permissions[] 持久化；管理接口按身份授权，业务操作继续校验资源成员关系。","textPreview":"角色与 permissions[] 持久化；管理接口按身份授权，业务操作继续校验资源成员关系。","textChars":47,"textLines":1,"bbox":[650,260,250,150]}
+{"kind":"shape","id":"sh/jutoj2lk","slide":11,"name":"rule-182","bbox":[926,146,1,0.01]}
+{"kind":"textbox","id":"sh/epobatgr","slide":11,"name":"text-183","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[954,150,60,30]}
+{"kind":"textbox","id":"sh/zaxs3yhc","slide":11,"name":"text-184","text":"审计追踪","textPreview":"审计追踪","textChars":4,"textLines":1,"bbox":[954,194,240,40]}
+{"kind":"textbox","id":"sh/cn6t83y1","slide":11,"name":"text-185","text":"操作日志记录关键管理动作；异常响应返回业务码与 traceId，便于定位线上问题。","textPreview":"操作日志记录关键管理动作；异常响应返回业务码与 traceId，便于定位线上问题。","textChars":41,"textLines":1,"bbox":[954,260,250,150]}
+{"kind":"shape","id":"sh/dofa18z6","slide":11,"name":"rect-186","bbox":[42,500,1196,118]}
+{"kind":"textbox","id":"sh/tsnip0ny","slide":11,"name":"text-187","text":"安全不是只看“有没有登录页”，而是把身份、会话、权限、资源归属和追踪统一进后端请求链。","textPreview":"安全不是只看“有没有登录页”，而是把身份、会话、权限、资源归属和追踪统一进后端请求链。","textChars":43,"textLines":1,"bbox":[66,538,1148,48]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"安全策略贯穿整个请求链。JWT确认身份，session_version控制会话撤销，角色和permissions控制资源访问，操作日志和traceId帮助追踪问题。回答老师时可以强调，安全不是只有登录页，而是每个业务接口都要再次校验。"}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"部署链路可复现、可检查、可回滚","textShapes":17}
+{"kind":"textbox","id":"sh/6t0n6hg7","slide":12,"name":"text-188","text":"部署链路可复现、可检查、可回滚","textPreview":"部署链路可复现、可检查、可回滚","textChars":15,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/1gbm9s3a","slide":12,"name":"text-189","text":"依据：项目最终代码与 2026-07-19 实际验证","textPreview":"依据：项目最终代码与 2026-07-19 实际验证","textChars":26,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/0f2lgnmp","slide":12,"name":"text-190","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"shape","id":"sh/ruh4b6lo","slide":12,"name":"rule-191","bbox":[280,304,172,0.01]}
+{"kind":"shape","id":"sh/qtonil4j","slide":12,"name":"rule-192","bbox":[700,262,168,0.01]}
+{"kind":"shape","id":"sh/t0vm1wnq","slide":12,"name":"rule-193","bbox":[700,390,168,0.01]}
+{"kind":"shape","id":"sh/sb2lcnmd","slide":12,"name":"rect-194","bbox":[42,250,238,112]}
+{"kind":"textbox","id":"sh/b6d4f2lc","slide":12,"name":"text-195","text":"Web / App / 小程序","textPreview":"Web / App / 小程序","textChars":15,"textLines":1,"bbox":[64,276,194,32]}
+{"kind":"textbox","id":"sh/a543mx4r","slide":12,"name":"text-196","text":"HTTPS · WebSocket","textPreview":"HTTPS · WebSocket","textChars":17,"textLines":1,"bbox":[64,322,194,24]}
+{"kind":"shape","id":"sh/wvupgz6t","slide":12,"name":"rect-197","bbox":[452,218,248,216]}
+{"kind":"textbox","id":"sh/xw3q94ne","slide":12,"name":"text-198","text":"Nginx","textPreview":"Nginx","textChars":5,"textLines":1,"bbox":[500,248,150,34]}
+{"kind":"shape","id":"sh/69kjmxkz","slide":12,"name":"rule-199","bbox":[494,304,164,0.01]}
+{"kind":"textbox","id":"sh/bulo7u58","slide":12,"name":"text-200","text":"ASP.NET Core API","textPreview":"ASP.NET Core API","textChars":16,"textLines":1,"bbox":[478,334,196,36]}
+{"kind":"textbox","id":"sh/orapcf6h","slide":12,"name":"text-201","text":"Docker Compose","textPreview":"Docker Compose","textChars":14,"textLines":1,"bbox":[478,388,196,26]}
+{"kind":"shape","id":"sh/9sj65kn2","slide":12,"name":"rect-202","bbox":[868,218,370,88]}
+{"kind":"textbox","id":"sh/mps7a5or","slide":12,"name":"text-203","text":"PostgreSQL","textPreview":"PostgreSQL","textChars":10,"textLines":1,"bbox":[894,242,180,34]}
+{"kind":"textbox","id":"sh/nq1o3a5w","slide":12,"name":"text-204","text":"数据 + 自动重试","textPreview":"数据 + 自动重试","textChars":9,"textLines":1,"bbox":[1060,246,150,28]}
+{"kind":"shape","id":"sh/0nap8f6l","slide":12,"name":"rect-205","bbox":[868,346,370,88]}
+{"kind":"textbox","id":"sh/1oj61kn6","slide":12,"name":"text-206","text":"MinIO / Local","textPreview":"MinIO / Local","textChars":13,"textLines":1,"bbox":[894,370,180,34]}
+{"kind":"textbox","id":"sh/hkbm5wzu","slide":12,"name":"text-207","text":"文件存储可切换","textPreview":"文件存储可切换","textChars":7,"textLines":1,"bbox":[1060,374,150,28]}
+{"kind":"shape","id":"sh/gj25cry9","slide":12,"name":"rect-208","bbox":[42,514,1196,98]}
+{"kind":"textbox","id":"sh/fit436ho","slide":12,"name":"text-209","text":"健康检查","textPreview":"健康检查","textChars":4,"textLines":1,"bbox":[66,540,150,30]}
+{"kind":"textbox","id":"sh/uh0na1g3","slide":12,"name":"text-210","text":"/health/live 进程存活","textPreview":"/health/live 进程存活","textChars":17,"textLines":1,"bbox":[244,540,250,30]}
+{"kind":"textbox","id":"sh/tgrm1wzy","slide":12,"name":"text-211","text":"/health 数据库连通","textPreview":"/health 数据库连通","textChars":13,"textLines":1,"bbox":[506,540,250,30]}
+{"kind":"textbox","id":"sh/sfi58ryd","slide":12,"name":"text-212","text":"异常 traceId","textPreview":"异常 traceId","textChars":10,"textLines":1,"bbox":[776,540,180,30]}
+{"kind":"textbox","id":"sh/7u94zmhs","slide":12,"name":"text-213","text":"WebSocket Upgrade","textPreview":"WebSocket Upgrade","textChars":17,"textLines":1,"bbox":[984,540,220,30]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"部署入口由Nginx统一代理HTTPS和WebSocket，ASP.NET Core API通过Docker Compose运行，PostgreSQL存业务数据，文件可在Local与MinIO之间切换。健康检查分别验证进程和数据库连接，便于发现问题和回滚。"}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"实际验证为完成度提供硬证据","textShapes":17}
+{"kind":"textbox","id":"sh/q18f65cr","slide":13,"name":"text-214","text":"实际验证为完成度提供硬证据","textPreview":"实际验证为完成度提供硬证据","textChars":13,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/q50nydsj","slide":13,"name":"text-215","text":"验证日期：2026-07-19；来自 dotnet test / Vite / Gradle / uni-app 构建输出","textPreview":"验证日期：2026-07-19；来自 dotnet test / Vite / Gradle / uni-app 构建输出","textChars":61,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/bq9orito","slide":13,"name":"text-216","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"textbox","id":"sh/o3i5w3ad","slide":13,"name":"text-217","text":"所有数字均来自本次现场执行，不照抄旧版项目文档。","textPreview":"所有数字均来自本次现场执行，不照抄旧版项目文档。","textChars":24,"textLines":1,"bbox":[42,118,900,34]}
+{"kind":"shape","id":"sh/p4r6p8by","slide":13,"name":"rect-218","bbox":[42,190,276,366]}
+{"kind":"shape","id":"sh/21gnuts7","slide":13,"name":"rect-219","bbox":[348,190,276,366]}
+{"kind":"shape","id":"sh/32ponyts","slide":13,"name":"rect-220","bbox":[654,190,276,366]}
+{"kind":"shape","id":"sh/gzy5s3a1","slide":13,"name":"rect-221","bbox":[960,190,278,366]}
+{"kind":"textbox","id":"sh/1076lobm","slide":13,"name":"text-222","text":"41 / 41","textPreview":"41 / 41","textChars":7,"textLines":1,"bbox":[70,250,220,78]}
+{"kind":"textbox","id":"sh/hcfy9k3u","slide":13,"name":"text-223","text":"后端自动化测试","textPreview":"后端自动化测试","textChars":7,"textLines":1,"bbox":[70,352,220,34]}
+{"kind":"textbox","id":"sh/gb6x0zm9","slide":13,"name":"text-224","text":"0 失败 · 0 跳过\nRelease 构建","textPreview":"0 失败 · 0 跳过 | Release 构建","textChars":22,"textLines":2,"bbox":[70,414,220,80]}
+{"kind":"textbox","id":"sh/vaxg7ulo","slide":13,"name":"text-225","text":"635","textPreview":"635","textChars":3,"textLines":1,"bbox":[376,250,220,78]}
+{"kind":"textbox","id":"sh/u9ofyp43","slide":13,"name":"text-226","text":"Web modules","textPreview":"Web modules","textChars":11,"textLines":1,"bbox":[376,352,220,34]}
+{"kind":"textbox","id":"sh/t8fy5k3i","slide":13,"name":"text-227","text":"Vite 生产构建通过\n路由级代码拆分","textPreview":"Vite 生产构建通过 | 路由级代码拆分","textChars":19,"textLines":2,"bbox":[376,414,220,80]}
+{"kind":"textbox","id":"sh/876xwfmx","slide":13,"name":"text-228","text":"2 / 2","textPreview":"2 / 2","textChars":5,"textLines":1,"bbox":[682,250,220,78]}
+{"kind":"textbox","id":"sh/7mdg3als","slide":13,"name":"text-229","text":"端侧目标构建","textPreview":"端侧目标构建","textChars":6,"textLines":1,"bbox":[682,352,220,34]}
+{"kind":"textbox","id":"sh/6l4fu547","slide":13,"name":"text-230","text":"Android assembleDebug\n微信小程序通过","textPreview":"Android assembleDebug | 微信小程序通过","textChars":29,"textLines":2,"bbox":[682,414,220,80]}
+{"kind":"textbox","id":"sh/lkvy103m","slide":13,"name":"text-231","text":"142","textPreview":"142","textChars":3,"textLines":1,"bbox":[988,250,220,78]}
+{"kind":"textbox","id":"sh/kjmxsfm1","slide":13,"name":"text-232","text":"HTTP actions","textPreview":"HTTP actions","textChars":12,"textLines":1,"bbox":[988,352,220,34]}
+{"kind":"textbox","id":"sh/cnqh8fux","slide":13,"name":"text-233","text":"16 控制器\n36 个 DbSet","textPreview":"16 控制器 | 36 个 DbSet","textChars":17,"textLines":2,"bbox":[988,414,220,80]}
+{"kind":"textbox","id":"sh/xozyhkbi","slide":13,"name":"text-234","text":"已知边界：Android 单元测试任务存在测试类加载失败；Web Messages 构建块约 1.64 MB。","textPreview":"已知边界：Android 单元测试任务存在测试类加载失败；Web Messages 构建块约 1.64 MB。","textChars":55,"textLines":1,"bbox":[42,590,1160,36]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":"这页是完成度证据。后端自动化测试41项全部通过，Web生产构建通过，Android assembleDebug和微信小程序构建通过。数字来自本次实际执行。我们也保留了已知边界，没有把构建通过说成所有质量问题都解决。"}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"4 开发 + 2 运维形成并行闭环","textShapes":21}
+{"kind":"textbox","id":"sh/cz6h4fq1","slide":14,"name":"text-235","text":"4 开发 + 2 运维形成并行闭环","textPreview":"4 开发 + 2 运维形成并行闭环","textChars":17,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/xc7eds76","slide":14,"name":"text-236","text":"团队角色依据：项目初稿；成果描述依据：最终代码与交付物","textPreview":"团队角色依据：项目初稿；成果描述依据：最终代码与交付物","textChars":27,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/wbydknq1","slide":14,"name":"text-237","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"shape","id":"sh/jepwf2pc","slide":14,"name":"rect-238","bbox":[42,126,1196,88]}
+{"kind":"textbox","id":"sh/idgvmx8r","slide":14,"name":"text-239","text":"组长 / 后端负责人","textPreview":"组长 / 后端负责人","textChars":10,"textLines":1,"bbox":[66,150,286,34]}
+{"kind":"textbox","id":"sh/5grehs7i","slide":14,"name":"text-240","text":"拆任务 · 定接口 · 控进度 · Review · 联调兜底 · 汇报闭环","textPreview":"拆任务 · 定接口 · 控进度 · Review · 联调兜底 · 汇报闭环","textChars":38,"textLines":1,"bbox":[370,150,830,34]}
+{"kind":"shape","id":"sh/6dsbe1sf","slide":14,"name":"rule-241","bbox":[42,250,1196,0.01]}
+{"kind":"textbox","id":"sh/zi5c3y98","slide":14,"name":"text-242","text":"汪炜康","textPreview":"汪炜康","textChars":3,"textLines":1,"bbox":[42,282,110,30]}
+{"kind":"textbox","id":"sh/ehwvat8n","slide":14,"name":"text-243","text":"前端负责人","textPreview":"前端负责人","textChars":5,"textLines":1,"bbox":[42,322,220,36]}
+{"kind":"textbox","id":"sh/c3e1gjyd","slide":14,"name":"text-244","text":"框架、登录权限、主布局、管理后台","textPreview":"框架、登录权限、主布局、管理后台","textChars":16,"textLines":1,"bbox":[42,378,220,78]}
+{"kind":"shape","id":"sh/e1sbi1sb","slide":14,"name":"rule-245","bbox":[288,270,1,0.01]}
+{"kind":"textbox","id":"sh/a1wze9g7","slide":14,"name":"text-246","text":"黄美琪","textPreview":"黄美琪","textChars":3,"textLines":1,"bbox":[316,282,110,30]}
+{"kind":"textbox","id":"sh/b2507exs","slide":14,"name":"text-247","text":"前端业务","textPreview":"前端业务","textChars":4,"textLines":1,"bbox":[316,322,220,36]}
+{"kind":"textbox","id":"sh/kre1k3y9","slide":14,"name":"text-248","text":"IM、文档、云盘、日历、审批页面","textPreview":"IM、文档、云盘、日历、审批页面","textChars":16,"textLines":1,"bbox":[316,378,220,78]}
+{"kind":"shape","id":"sh/3ulwfat8","slide":14,"name":"rule-249","bbox":[562,270,1,0.01]}
+{"kind":"textbox","id":"sh/y5wjitgj","slide":14,"name":"text-250","text":"吴松青","textPreview":"吴松青","textChars":3,"textLines":1,"bbox":[590,282,110,30]}
+{"kind":"textbox","id":"sh/z650byxo","slide":14,"name":"text-251","text":"后端业务","textPreview":"后端业务","textChars":4,"textLines":1,"bbox":[590,322,220,36]}
+{"kind":"textbox","id":"sh/0buh8zy5","slide":14,"name":"text-252","text":"业务接口、数据模型、SignalR 逻辑","textPreview":"业务接口、数据模型、SignalR 逻辑","textChars":20,"textLines":1,"bbox":[590,378,220,78]}
+{"kind":"shape","id":"sh/by5wjat4","slide":14,"name":"rule-253","bbox":[836,270,1,0.01]}
+{"kind":"textbox","id":"sh/hsvy50re","slide":14,"name":"text-254","text":"成员 E","textPreview":"成员 E","textChars":4,"textLines":1,"bbox":[864,282,110,30]}
+{"kind":"textbox","id":"sh/grmxwvqt","slide":14,"name":"text-255","text":"部署与数据","textPreview":"部署与数据","textChars":5,"textLines":1,"bbox":[864,322,150,36]}
+{"kind":"textbox","id":"sh/fqdg3q98","slide":14,"name":"text-256","text":"Docker、数据库、Nginx、演示环境","textPreview":"Docker、数据库、Nginx、演示环境","textChars":21,"textLines":1,"bbox":[864,378,150,90]}
+{"kind":"shape","id":"sh/4j6p8n69","slide":14,"name":"rule-257","bbox":[1040,270,1,0.01]}
+{"kind":"textbox","id":"sh/pwvy90rq","slide":14,"name":"text-258","text":"成员 F","textPreview":"成员 F","textChars":4,"textLines":1,"bbox":[1068,282,110,30]}
+{"kind":"textbox","id":"sh/4vmh0vq5","slide":14,"name":"text-259","text":"测试与文档","textPreview":"测试与文档","textChars":5,"textLines":1,"bbox":[1068,322,150,36]}
+{"kind":"textbox","id":"sh/3udg7q9k","slide":14,"name":"text-260","text":"用例、Bug、截图、验收材料","textPreview":"用例、Bug、截图、验收材料","textChars":14,"textLines":1,"bbox":[1068,378,150,90]}
+{"kind":"shape","id":"sh/2t4fyl8z","slide":14,"name":"rect-261","bbox":[42,526,1196,94]}
+{"kind":"textbox","id":"sh/d0fydk7m","slide":14,"name":"text-262","text":"组长的核心成果不是“写得最多”，而是让接口、人员、环境与验收在同一节奏上收敛。","textPreview":"组长的核心成果不是“写得最多”，而是让接口、人员、环境与验收在同一节奏上收敛。","textChars":39,"textLines":1,"bbox":[66,558,1148,42]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":"团队采用4开发加2运维的并行方式。我作为组长和后端负责人，主要负责范围取舍、任务拆分、接口规范、关键后端能力、代码Review、跨端联调和最终汇报。组长价值是让六个人的产出按同一接口和验收节奏收敛。"}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"主动暴露边界，下一步才更可信","textShapes":13}
+{"kind":"textbox","id":"sh/0z29cbyh","slide":15,"name":"text-263","text":"主动暴露边界，下一步才更可信","textPreview":"主动暴露边界，下一步才更可信","textChars":14,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/547mhg3m","slide":15,"name":"text-264","text":"依据：项目最终代码与 2026-07-19 实际验证","textPreview":"依据：项目最终代码与 2026-07-19 实际验证","textChars":26,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/k3y5ov21","slide":15,"name":"text-265","text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"textbox","id":"sh/76p4jqls","slide":15,"name":"text-266","text":"当前边界","textPreview":"当前边界","textChars":4,"textLines":1,"bbox":[42,134,520,36]}
+{"kind":"textbox","id":"sh/65gnqlk7","slide":15,"name":"text-267","text":"下一阶段","textPreview":"下一阶段","textChars":4,"textLines":1,"bbox":[678,134,520,36]}
+{"kind":"shape","id":"sh/ho3idwfy","slide":15,"name":"rule-268","bbox":[42,188,1196,0.01]}
+{"kind":"textbox","id":"sh/s7y5sv2x","slide":15,"name":"text-269","text":"Messages 构建块约 1.64 MB","textPreview":"Messages 构建块约 1.64 MB","textChars":21,"textLines":1,"bbox":[42,226,520,36]}
+{"kind":"textbox","id":"sh/na5476l8","slide":15,"name":"text-270","text":"按 Agora / 消息 / 编辑器继续懒加载与拆包","textPreview":"按 Agora / 消息 / 编辑器继续懒加载与拆包","textChars":26,"textLines":1,"bbox":[678,226,520,36]}
+{"kind":"shape","id":"sh/7uhgnidw","slide":15,"name":"rule-271","bbox":[42,286,1196,0.01]}
+{"kind":"textbox","id":"sh/wrm9kvep","slide":15,"name":"text-272","text":"文档支持编辑、评论与版本，但非多光标共编","textPreview":"文档支持编辑、评论与版本，但非多光标共编","textChars":20,"textLines":1,"bbox":[42,322,520,54]}
+{"kind":"textbox","id":"sh/hsvat0fa","slide":15,"name":"text-273","text":"接入 Yjs / CRDT，增加在线成员与冲突合并","textPreview":"接入 Yjs / CRDT，增加在线成员与冲突合并","textChars":25,"textLines":1,"bbox":[678,322,520,54]}
+{"kind":"shape","id":"sh/yp8fqdwf","slide":15,"name":"rule-274","bbox":[42,392,1196,0.01]}
+{"kind":"textbox","id":"sh/vqdsrqx4","slide":15,"name":"text-275","text":"Android Debug 构建通过；单元测试任务类加载失败","textPreview":"Android Debug 构建通过；单元测试任务类加载失败","textChars":30,"textLines":1,"bbox":[42,428,520,54]}
+{"kind":"textbox","id":"sh/4vm9ovel","slide":15,"name":"text-276","text":"修复测试执行链，补 Compose UI Test 与 Android CI","textPreview":"修复测试执行链，补 Compose UI Test 与 Android CI","textChars":38,"textLines":1,"bbox":[678,428,520,54]}
+{"kind":"shape","id":"sh/lszylsvq","slide":15,"name":"rule-277","bbox":[42,498,1196,0.01]}
+{"kind":"textbox","id":"sh/it4rm5wv","slide":15,"name":"text-278","text":"演示依赖实时后端与 WebSocket 代理","textPreview":"演示依赖实时后端与 WebSocket 代理","textChars":22,"textLines":1,"bbox":[42,534,520,48]}
+{"kind":"textbox","id":"sh/judsvqxg","slide":15,"name":"text-279","text":"补监控、断线重连指标、离线队列与压测","textPreview":"补监控、断线重连指标、离线队列与压测","textChars":18,"textLines":1,"bbox":[678,534,520,48]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":"我们主动说明当前边界。Messages构建块仍偏大，文档还不是CRDT多人光标共编，Android测试执行链还需要完善，演示依赖实时后端。下一阶段会依次处理拆包、Yjs协同、Android CI和监控压测。"}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"桌面端与小程序延续同一套协作业务","textShapes":7}
+{"kind":"textbox","id":"sh/1ojy10ne","slide":16,"name":"text-94","text":"桌面端与小程序延续同一套协作业务","textPreview":"桌面端与小程序延续同一套协作业务","textChars":16,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/8z2h8bq1","slide":16,"name":"text-95","text":"截图：本次实际运行；依据：Electron 复用 Web，uni-app H5 / 小程序同源","textPreview":"截图：本次实际运行；依据：Electron 复用 Web，uni-app H5 / 小程序同源","textChars":47,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/9kby1g7m","slide":16,"name":"text-96","text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"shape","id":"sh/ytkf2h8j","slide":16,"name":"rect-97","bbox":[42,130,568,354]}
+{"kind":"shape","id":"sh/zutgvm94","slide":16,"name":"rect-98","bbox":[628,130,610,354]}
+{"kind":"textbox","id":"sh/kv2h4rqp","slide":16,"name":"text-99","text":"Electron 桌面端","textPreview":"Electron 桌面端","textChars":12,"textLines":1,"bbox":[42,512,180,32]}
+{"kind":"textbox","id":"sh/lwbyxwra","slide":16,"name":"text-100","text":"Electron 复用 Vue 3 界面，可打包桌面应用；登录、日历、文档与 Web 保持一致。","textPreview":"Electron 复用 Vue 3 界面，可打包桌面应用；登录、日历、文档与 Web 保持一致。","textChars":48,"textLines":1,"bbox":[42,554,554,70]}
+{"kind":"textbox","id":"sh/ip4zel83","slide":16,"name":"text-101","text":"微信小程序","textPreview":"微信小程序","textChars":5,"textLines":1,"bbox":[628,512,220,32]}
+{"kind":"textbox","id":"sh/3qdg7qpo","slide":16,"name":"text-102","text":"uni-app 独立实现；真实账号登录后可进入消息与工作台，共享同一套后端数据。","textPreview":"uni-app 独立实现；真实账号登录后可进入消息与工作台，共享同一套后端数据。","textChars":40,"textLines":1,"bbox":[628,554,594,70]}
+{"kind":"image","id":"im/7mtsba9g","slide":16,"name":"图片 20","geometry":"roundRect","bbox":[58.8,140,534.4,334]}
+{"kind":"image","id":"im/kji90fa5","slide":16,"name":"图片 21","geometry":"roundRect","bbox":[665.8,140,534.4,334]}
+{"kind":"image","id":"im/5kra9kra","slide":16,"name":"","bbox":[58.8,140,534.4,334]}
+{"kind":"image","id":"im/ix0ry5sz","slide":16,"name":"","bbox":[665.8,140,534.4,334]}
+{"kind":"notes","id":"nt/gny5sjyp","slide":16,"text":"桌面端复用Web界面，所以登录、日历和文档体验可以保持一致；小程序使用uni-app独立实现，但账号和业务数据仍来自统一后端。左图和右图都是本次实际运行，不是静态设计稿。"}
+{"kind":"slide","id":"sl/14bup87q","slide":17,"title":"小程序继续覆盖通讯录与审批流程","textShapes":7}
+{"kind":"textbox","id":"sh/29grm1of","slide":17,"name":"text-94","text":"小程序继续覆盖通讯录与审批流程","textPreview":"小程序继续覆盖通讯录与审批流程","textChars":15,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/1c7e50ni","slide":17,"name":"text-95","text":"截图：本次实际运行；依据：uni-app H5 / 小程序同源页面","textPreview":"截图：本次实际运行；依据：uni-app H5 / 小程序同源页面","textChars":33,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/gbedwfmx","slide":17,"name":"text-96","text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"shape","id":"sh/rm5czq50","slide":17,"name":"rect-97","bbox":[42,130,568,354]}
+{"kind":"shape","id":"sh/6lwvql4v","slide":17,"name":"rect-98","bbox":[628,130,610,354]}
+{"kind":"textbox","id":"sh/t8ne10n6","slide":17,"name":"text-99","text":"移动通讯录","textPreview":"移动通讯录","textChars":5,"textLines":1,"bbox":[42,512,180,32]}
+{"kind":"textbox","id":"sh/snedsvml","slide":17,"name":"text-100","text":"按部门查看成员，支持好友关系和用户发现；数据与 Web 通讯录一致。","textPreview":"按部门查看成员，支持好友关系和用户发现；数据与 Web 通讯录一致。","textChars":34,"textLines":1,"bbox":[42,554,554,70]}
+{"kind":"textbox","id":"sh/jilcvq54","slide":17,"name":"text-101","text":"移动审批","textPreview":"移动审批","textChars":4,"textLines":1,"bbox":[628,512,220,32]}
+{"kind":"textbox","id":"sh/ihcvml4j","slide":17,"name":"text-102","text":"查看申请状态并提交新申请，审批实例由统一后端接口处理。","textPreview":"查看申请状态并提交新申请，审批实例由统一后端接口处理。","textChars":27,"textLines":1,"bbox":[628,554,594,70]}
+{"kind":"image","id":"im/oz2hcvit","slide":17,"name":"","geometry":"roundRect","alt":"uni-app小程序同源通讯录真实运行截图","bbox":[58.8,140,534.4,334]}
+{"kind":"image","id":"im/b2d07qh4","slide":17,"name":"","geometry":"roundRect","alt":"uni-app小程序同源审批真实运行截图","bbox":[665.8,140,534.4,334]}
+{"kind":"notes","id":"nt/14bup87q","slide":17,"text":"移动入口不仅能看消息。左侧通讯录按部门和好友关系展示成员；右侧审批能够查看申请状态并提交新申请。它们与Web端共享账号、组织和审批实例，所以同一用户换端后仍能继续处理业务。"}
+{"kind":"slide","id":"sl/y5wne50z","slide":18,"title":"结论","textShapes":12}
+{"kind":"textbox","id":"sh/7mpknmp0","slide":18,"name":"text-280","text":"结论","textPreview":"结论","textChars":2,"textLines":1,"bbox":[42,42,180,36]}
+{"kind":"textbox","id":"sh/wrelszu9","slide":18,"name":"text-281","text":"我们交付的是\n可运行的协作系统","textPreview":"我们交付的是 | 可运行的协作系统","textChars":15,"textLines":2,"bbox":[42,154,1040,184]}
+{"kind":"textbox","id":"sh/hsn2l4bu","slide":18,"name":"text-282","text":"多端入口","textPreview":"多端入口","textChars":4,"textLines":1,"bbox":[42,430,180,34]}
+{"kind":"textbox","id":"sh/itw3upcf","slide":18,"name":"text-283","text":"统一数据","textPreview":"统一数据","textChars":4,"textLines":1,"bbox":[318,430,180,34]}
+{"kind":"textbox","id":"sh/je5knut0","slide":18,"name":"text-284","text":"工程验证","textPreview":"工程验证","textChars":4,"textLines":1,"bbox":[594,430,180,34]}
+{"kind":"textbox","id":"sh/4felwzu5","slide":18,"name":"text-285","text":"清晰边界","textPreview":"清晰边界","textChars":4,"textLines":1,"bbox":[870,430,180,34]}
+{"kind":"textbox","id":"sh/5gnmp4bq","slide":18,"name":"text-286","text":"Web / 桌面 / App / 小程序","textPreview":"Web / 桌面 / App / 小程序","textChars":20,"textLines":1,"bbox":[42,474,240,54]}
+{"kind":"textbox","id":"sh/6hw3y9sb","slide":18,"name":"text-287","text":"账号、组织、消息与文件","textPreview":"账号、组织、消息与文件","textChars":11,"textLines":1,"bbox":[318,474,240,54]}
+{"kind":"textbox","id":"sh/rip4retw","slide":18,"name":"text-288","text":"构建、测试、部署与健康检查","textPreview":"构建、测试、部署与健康检查","textChars":13,"textLines":1,"bbox":[594,474,240,54]}
+{"kind":"textbox","id":"sh/fapkr6pw","slide":18,"name":"text-289","text":"性能、Android 测试与共编路线","textPreview":"性能、Android 测试与共编路线","textChars":18,"textLines":1,"bbox":[870,474,300,54]}
+{"kind":"shape","id":"sh/upg3i18r","slide":18,"name":"rect-290","bbox":[42,584,1196,70]}
+{"kind":"textbox","id":"sh/1cr2tg72","slide":18,"name":"text-291","text":"建议现场演示：登录 → 发群消息 → 新建文档 → 发起审批 → 查看管理后台","textPreview":"建议现场演示：登录 → 发群消息 → 新建文档 → 发起审批 → 查看管理后台","textChars":39,"textLines":1,"bbox":[66,604,1148,34]}
+{"kind":"textbox","id":"sh/gbylkbqh","slide":18,"name":"text-292","text":"Q&A","textPreview":"Q&A","textChars":3,"textLines":1,"bbox":[1160,42,78,28]}
+{"kind":"notes","id":"nt/y5wne50z","slide":18,"text":"最后总结：我们交付的是一套可运行的协作系统。它有多端入口、统一数据、可验证的构建与测试，也明确说明了尚未完成的能力。现场演示建议按登录、发群消息、新建文档、发起审批、查看后台的顺序完成。"}
+{"kind":"slide","id":"sl/nid43ytk","slide":19,"title":"答辩问题：技术选择与整体架构","textShapes":11}
+{"kind":"textbox","id":"sh/qpgjex8f","slide":19,"name":"text-293","text":"答辩问题：技术选择与整体架构","textPreview":"答辩问题：技术选择与整体架构","textChars":14,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/9gb6xgbi","slide":19,"name":"text-294","text":"附录：建议回答请结合现场演示简洁复述","textPreview":"附录：建议回答请结合现场演示简洁复述","textChars":18,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/8v2pobax","slide":19,"name":"text-295","text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"textbox","id":"sh/vitozqt8","slide":19,"name":"text-296","text":"Q1 为什么选 Vue 3 + ASP.NET Core？","textPreview":"Q1 为什么选 Vue 3 + ASP.NET Core？","textChars":29,"textLines":1,"bbox":[42,130,540,38]}
+{"kind":"textbox","id":"sh/ahk7qls3","slide":19,"name":"text-297","text":"Vue 3 适合组件化多页面工作台；ASP.NET Core 8 在鉴权、EF Core、SignalR 与部署方面形成完整技术链，且与团队能力匹配。选择标准是可交付与可维护，而不是追求最潮技术。","textPreview":"Vue 3 适合组件化多页面工作台；ASP.NET Core 8 在鉴权、EF Core、SignalR 与部署方面形成完整技术链，且与团队能力匹配。选择标准是可交付与可维护，而不是追求最潮技术。","textChars":98,"textLines":1,"bbox":[42,180,540,96]}
+{"kind":"textbox","id":"sh/xkbq10be","slide":19,"name":"text-298","text":"Q2 为什么没有拆成微服务？","textPreview":"Q2 为什么没有拆成微服务？","textChars":14,"textLines":1,"bbox":[678,130,540,38]}
+{"kind":"textbox","id":"sh/wj2psvat","slide":19,"name":"text-299","text":"当前是实训规模，模块化单体能降低部署与联调成本。我们已按 Controller、Service、Domain、Data 分层；当团队和流量增长后，再按 IM、文档、文件拆服务更合适。","textPreview":"当前是实训规模，模块化单体能降低部署与联调成本。我们已按 Controller、Service、Domain、Data 分层；当团队和流量增长后，再按 IM、文档、文件拆服务更合适。","textChars":91,"textLines":1,"bbox":[678,180,540,96]}
+{"kind":"textbox","id":"sh/jmd83atk","slide":19,"name":"text-300","text":"Q3 四端如何保证数据一致？","textPreview":"Q3 四端如何保证数据一致？","textChars":14,"textLines":1,"bbox":[42,386,540,38]}
+{"kind":"textbox","id":"sh/il47u5sz","slide":19,"name":"text-301","text":"四端不各自保存业务真相，而是共享 REST API、JWT 身份和 PostgreSQL 数据；SignalR 负责实时提示，列表接口负责恢复与最终一致。","textPreview":"四端不各自保存业务真相，而是共享 REST API、JWT 身份和 PostgreSQL 数据；SignalR 负责实时提示，列表接口负责恢复与最终一致。","textChars":77,"textLines":1,"bbox":[42,436,540,96]}
+{"kind":"textbox","id":"sh/cri1gnql","slide":19,"name":"text-302","text":"Q4 为什么 Android 采用原生 Compose？","textPreview":"Q4 为什么 Android 采用原生 Compose？","textChars":28,"textLines":1,"bbox":[678,386,540,38]}
+{"kind":"textbox","id":"sh/dsri9sr6","slide":19,"name":"text-303","text":"原生方案更适合相机、麦克风、生命周期和 RTC 场景。Compose 用状态驱动 UI，StateFlow 统一状态，SignalR 与 Agora 分别承担实时消息和音视频；小程序仍用 uni-app 提高交付效率。","textPreview":"原生方案更适合相机、麦克风、生命周期和 RTC 场景。Compose 用状态驱动 UI，StateFlow 统一状态，SignalR 与 Agora 分别承担实时消息和音视频；小程序仍用 uni-app 提高交付效率。","textChars":109,"textLines":1,"bbox":[678,436,540,96]}
+{"kind":"notes","id":"nt/nid43ytk","slide":19,"text":"如果老师问技术选择，先回答团队和场景匹配，再补充可维护性；如果问为什么不拆微服务，回答当前规模下模块化单体降低部署与联调成本，同时已经按Controller、Service、Domain和Data分层，为后续拆分保留边界。"}
+{"kind":"slide","id":"sl/zyxsni5k","slide":20,"title":"答辩问题：安全、一致性与测试","textShapes":11}
+{"kind":"textbox","id":"sh/rid4nuhs","slide":20,"name":"text-304","text":"答辩问题：安全、一致性与测试","textPreview":"答辩问题：安全、一致性与测试","textChars":14,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/qpwjmh8n","slide":20,"name":"text-305","text":"附录：回答先讲机制，再给代码或测试证据","textPreview":"附录：回答先讲机制，再给代码或测试证据","textChars":19,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/rq50vmp8","slide":20,"name":"text-306","text":"20","textPreview":"20","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"textbox","id":"sh/4nu1krqh","slide":20,"name":"text-307","text":"Q5 JWT 泄露或退出后怎么办？","textPreview":"Q5 JWT 泄露或退出后怎么办？","textChars":17,"textLines":1,"bbox":[42,130,540,38]}
+{"kind":"textbox","id":"sh/po3itc72","slide":20,"name":"text-308","text":"Token 带 jti，后端维护撤销表；每次认证还校验客户端会话版本。退出可撤销当前令牌，同类型客户端重新登录可让旧会话失效。","textPreview":"Token 带 jti，后端维护撤销表；每次认证还校验客户端会话版本。退出可撤销当前令牌，同类型客户端重新登录可让旧会话失效。","textChars":63,"textLines":1,"bbox":[42,180,540,96]}
+{"kind":"textbox","id":"sh/2lczih8r","slide":20,"name":"text-309","text":"Q6 推送失败会不会丢数据？","textPreview":"Q6 推送失败会不会丢数据？","textChars":14,"textLines":1,"bbox":[678,130,540,38]}
+{"kind":"textbox","id":"sh/3ml0rmpw","slide":20,"name":"text-310","text":"业务数据先提交数据库，再发送 SignalR。推送失败只记录警告，不把成功写入误报成失败；客户端重连后可通过列表接口恢复。","textPreview":"业务数据先提交数据库，再发送 SignalR。推送失败只记录警告，不把成功写入误报成失败；客户端重连后可通过列表接口恢复。","textChars":61,"textLines":1,"bbox":[678,180,540,96]}
+{"kind":"textbox","id":"sh/gjuhg7ql","slide":20,"name":"text-311","text":"Q7 如何证明项目不是只能演示？","textPreview":"Q7 如何证明项目不是只能演示？","textChars":16,"textLines":1,"bbox":[42,386,540,38]}
+{"kind":"textbox","id":"sh/hk3ipcr6","slide":20,"name":"text-312","text":"本次实际执行后端 41/41 测试、Web 生产构建、Android assembleDebug 和微信小程序构建，核心交付目标通过；Android 单元测试类加载问题也被如实记录为质量边界。","textPreview":"本次实际执行后端 41/41 测试、Web 生产构建、Android assembleDebug 和微信小程序构建，核心交付目标通过；Android 单元测试类加载问题也被如实记录为质量边界。","textChars":96,"textLines":1,"bbox":[42,436,540,96]}
+{"kind":"textbox","id":"sh/dkfmp4zy","slide":20,"name":"text-313","text":"Q8 文件存储为什么做两套？","textPreview":"Q8 文件存储为什么做两套？","textChars":14,"textLines":1,"bbox":[678,386,540,38]}
+{"kind":"textbox","id":"sh/cj65wzyd","slide":20,"name":"text-314","text":"本地存储用于开发演示，MinIO 用于对象存储；二者共用 IFileStorageService，可按配置切换，业务接口无需改动。","textPreview":"本地存储用于开发演示，MinIO 用于对象存储；二者共用 IFileStorageService，可按配置切换，业务接口无需改动。","textChars":65,"textLines":1,"bbox":[678,436,540,96]}
+{"kind":"notes","id":"nt/zyxsni5k","slide":20,"text":"如果老师问安全和一致性，先讲数据先落库、再推送；再讲JWT、session_version、RBAC和审计。推送失败不会丢业务数据，客户端重连后可以通过REST列表恢复。测试方面要同时说通过项和已知边界，避免过度承诺。"}
+{"kind":"slide","id":"sl/m1wvqtk3","slide":21,"title":"答辩问题：组长贡献与项目边界","textShapes":11}
+{"kind":"textbox","id":"sh/ixsf2d87","slide":21,"name":"text-315","text":"答辩问题：组长贡献与项目边界","textPreview":"答辩问题：组长贡献与项目边界","textChars":14,"textLines":1,"bbox":[42,34,1196,62]}
+{"kind":"textbox","id":"sh/1gbmxs7a","slide":21,"name":"text-316","text":"附录：组长回答要强调决策、协调与闭环证据","textPreview":"附录：组长回答要强调决策、协调与闭环证据","textChars":20,"textLines":1,"bbox":[42,684,900,18]}
+{"kind":"textbox","id":"sh/0f2lon6p","slide":21,"name":"text-317","text":"21","textPreview":"21","textChars":2,"textLines":1,"bbox":[1185,682,54,20]}
+{"kind":"textbox","id":"sh/ra9kryp8","slide":21,"name":"text-318","text":"Q9 你作为组长做了什么？","textPreview":"Q9 你作为组长做了什么？","textChars":13,"textLines":1,"bbox":[42,130,540,38]}
+{"kind":"textbox","id":"sh/qp03yt8n","slide":21,"name":"text-319","text":"我负责范围取舍、任务拆解、接口规范、关键后端能力、代码 Review、跨端联调、风险收敛和最终汇报。我的价值是让六个人的产出能合成一个可验收系统。","textPreview":"我负责范围取舍、任务拆解、接口规范、关键后端能力、代码 Review、跨端联调、风险收敛和最终汇报。我的价值是让六个人的产出能合成一个可验收系统。","textChars":73,"textLines":1,"bbox":[42,180,540,96]}
+{"kind":"textbox","id":"sh/dcb2t87y","slide":21,"name":"text-320","text":"Q10 最大技术难点是什么？","textPreview":"Q10 最大技术难点是什么？","textChars":14,"textLines":1,"bbox":[678,130,540,38]}
+{"kind":"textbox","id":"sh/sb2lk36t","slide":21,"name":"text-321","text":"多端实时状态最难：既要实时，又不能让瞬时网络失败破坏业务成功语义。最终采用先落库、后推送、重连再拉取的策略。","textPreview":"多端实时状态最难：既要实时，又不能让瞬时网络失败破坏业务成功语义。最终采用先落库、后推送、重连再拉取的策略。","textChars":54,"textLines":1,"bbox":[678,180,540,96]}
+{"kind":"textbox","id":"sh/b6d432pc","slide":21,"name":"text-322","text":"Q11 哪些功能还不完整？","textPreview":"Q11 哪些功能还不完整？","textChars":13,"textLines":1,"bbox":[42,386,540,38]}
+{"kind":"textbox","id":"sh/al43uxor","slide":21,"name":"text-323","text":"文档尚未实现 CRDT 多光标共编；Messages 包体偏大；Android 单元测试任务仍有类加载问题。Debug APK 与小程序构建已通过，以上边界都有明确改进路径。","textPreview":"文档尚未实现 CRDT 多光标共编；Messages 包体偏大；Android 单元测试任务仍有类加载问题。Debug APK 与小程序构建已通过，以上边界都有明确改进路径。","textChars":87,"textLines":1,"bbox":[42,436,540,96]}
+{"kind":"textbox","id":"sh/4jax4nqd","slide":21,"name":"text-324","text":"Q12 如果再给一周怎么安排？","textPreview":"Q12 如果再给一周怎么安排？","textChars":15,"textLines":1,"bbox":[678,386,540,38]}
+{"kind":"textbox","id":"sh/5kjydsri","slide":21,"name":"text-325","text":"先修复 Android 测试执行链并接入 CI，同时拆分消息与会议包体；再接 Yjs 文档协同；最后补可观测性、离线队列与并发压测，用指标验证改进。","textPreview":"先修复 Android 测试执行链并接入 CI，同时拆分消息与会议包体；再接 Yjs 文档协同；最后补可观测性、离线队列与并发压测，用指标验证改进。","textChars":74,"textLines":1,"bbox":[678,436,540,96]}
+{"kind":"notes","id":"nt/m1wvqtk3","slide":21,"text":"如果老师问组长贡献，回答范围取舍、任务拆分、接口规范、跨端联调、风险验收和最终汇报。最大难点是多端实时状态既要及时又不能因网络失败破坏数据一致性，因此采用先落库、后推送、可重连恢复的策略。"}

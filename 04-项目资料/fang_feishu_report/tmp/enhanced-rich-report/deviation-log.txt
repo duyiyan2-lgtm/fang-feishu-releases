@@ -1,0 +1,7 @@
+Intentional deviations from the 19-slide source deck:
+
+1. Output slide 7 duplicates source slide 6 and replaces its inherited text/image slots with Web knowledge-base and user-management evidence.
+2. Output slide 17 duplicates source slide 6 and replaces its inherited text/image slots with uni-app contacts and approval evidence.
+3. Page-marker text is incremented on inherited slides shifted by the two insertions.
+4. Concise presenter notes are added to all slides so the group leader can speak from Presenter View without placing talk-track text on audience-facing slides.
+5. No other inherited visual content, typography, spacing, palette, or user edit is intentionally changed.

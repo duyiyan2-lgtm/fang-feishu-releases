@@ -1,0 +1,20 @@
+Communication job: By the end, the project instructor should see that Group 7 has a runnable multi-terminal collaboration system, because the deck now includes actual desktop and mini-program same-source mobile runtime evidence in addition to the existing Web evidence.
+
+Source deck structure:
+- 18 source slides, 16:9, 1280x720.
+- White background, #3370FF accent, #101318 primary text, #687386 secondary text.
+- Microsoft YaHei is used for visible Chinese copy; Calibri/Calibri Light remain in the Office theme.
+- Source slide 6 is the reusable two-screen evidence layout: title, two inherited image slots, two labels, two explanations, provenance footer and page number.
+- Source slide 15 is a conclusion/Q&A transition without a numeric page marker.
+- Source slides 16-18 are appendix Q&A pages with numeric page markers.
+
+Insertion contract:
+- Preserve all 18 source slides and their user edits.
+- Duplicate source slide 6 as new output slide 15, before the conclusion slide.
+- Replace only the two inherited image elements and rewrite the inherited title/labels/body/footer/page-number elements.
+- Renumber only the inherited page markers on the three shifted appendix slides.
+- Do not add parallel shapes, text boxes, images, tables, charts, or placeholders.
+
+Placeholder audit:
+- The imported layouts and master contain no inherited visual elements.
+- Source inspection shows no empty structural placeholders; final XML will be checked again after export.

@@ -1,0 +1,2471 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/08utg4",
+    "id": "08utg4",
+    "slide": 8,
+    "layoutId": "c868fb6d-cb98-49db-ab90-1361df3b41fa",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "d3368dbe-2a50-47e2-8acb-b5632eb4003b",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "c868fb6d-cb98-49db-ab90-1361df3b41fa",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "d3368dbe-2a50-47e2-8acb-b5632eb4003b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "d3368dbe-2a50-47e2-8acb-b5632eb4003b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8zqpsr6p",
+      "id": "1",
+      "name": "text-120",
+      "bbox": [
+        42,
+        34,
+        1196,
+        62
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0"
+      },
+      "geometry": "rect",
+      "text": "三条后端能力线支撑全部业务",
+      "textPreview": "三条后端能力线支撑全部业务",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "Microsoft YaHei",
+        "color": "#101318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "三条后端能力线支撑全部业务"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "三条后端能力线支撑全部业务",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 48,
+            "typeface": "Microsoft YaHei",
+            "color": "#101318",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "三条后端能力线支撑全部业务",
+              "anchor": 1,
+              "fontSize": 48,
+              "typeface": "Microsoft YaHei",
+              "color": "#101318",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "none",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7yhojmp4",
+      "id": "2",
+      "name": "text-121",
+      "bbox": [
+        42,
+        684,
+        900,
+        18
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1"
+      },
+      "geometry": "rect",
+      "text": "依据：项目最终代码与 2026-07-19 实际验证",
+      "textPreview": "依据：项目最终代码与 2026-07-19 实际验证",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "依据：项目最终代码与 2026-07-19 实际验证"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "依据：项目最终代码与 2026-07-19 实际验证",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 13,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "依据：项目最终代码与 2026-07-19 实际验证",
+              "anchor": 1,
+              "fontSize": 13,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6x87qhoj",
+      "id": "3",
+      "name": "text-122",
+      "bbox": [
+        1185,
+        682,
+        54,
+        20
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2"
+      },
+      "geometry": "rect",
+      "text": "08",
+      "textPreview": "08",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "08"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "08",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 14,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "right",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "08",
+              "anchor": 1,
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "right",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lwz6hc7e",
+      "id": "4",
+      "name": "text-123",
+      "bbox": [
+        42,
+        132,
+        240,
+        36
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3"
+      },
+      "geometry": "rect",
+      "text": "16 controllers",
+      "textPreview": "16 controllers",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#3370FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "16 controllers"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "16 controllers",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "16 controllers",
+              "anchor": 1,
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kvqpo76t",
+      "id": "5",
+      "name": "text-124",
+      "bbox": [
+        348,
+        132,
+        250,
+        36
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.4"
+      },
+      "geometry": "rect",
+      "text": "142 HTTP actions",
+      "textPreview": "142 HTTP actions",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#3370FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "142 HTTP actions"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "142 HTTP actions",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "142 HTTP actions",
+              "anchor": 1,
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/juhof2p8",
+      "id": "6",
+      "name": "text-125",
+      "bbox": [
+        654,
+        132,
+        220,
+        36
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.5"
+      },
+      "geometry": "rect",
+      "text": "36 DbSets",
+      "textPreview": "36 DbSets",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#3370FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "36 DbSets"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "36 DbSets",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "36 DbSets",
+              "anchor": 1,
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yto7mx8n",
+      "id": "7",
+      "name": "text-126",
+      "bbox": [
+        960,
+        132,
+        278,
+        36
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.6"
+      },
+      "geometry": "rect",
+      "text": "ASP.NET Core 8",
+      "textPreview": "ASP.NET Core 8",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#3370FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ASP.NET Core 8"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ASP.NET Core 8",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ASP.NET Core 8",
+              "anchor": 1,
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psjqtw7i",
+      "id": "8",
+      "name": "rule-127",
+      "bbox": [
+        42,
+        198,
+        1196,
+        0.01
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.7"
+      },
+      "geometry": "straightConnector1",
+      "lineColor": "#C8CDD5",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4rap0b6x",
+      "id": "9",
+      "name": "text-128",
+      "bbox": [
+        42,
+        244,
+        330,
+        42
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.8"
+      },
+      "geometry": "rect",
+      "text": "鉴权与治理",
+      "textPreview": "鉴权与治理",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 32,
+        "typeface": "Microsoft YaHei",
+        "color": "#101318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "鉴权与治理"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "鉴权与治理",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 32,
+            "typeface": "Microsoft YaHei",
+            "color": "#101318",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "鉴权与治理",
+              "anchor": 1,
+              "fontSize": 32,
+              "typeface": "Microsoft YaHei",
+              "color": "#101318",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpkfu1kz",
+      "id": "10",
+      "name": "text-129",
+      "bbox": [
+        42,
+        318,
+        320,
+        200
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.9"
+      },
+      "geometry": "rect",
+      "text": "• JWT + jti 撤销\n• 角色与权限持久化\n• 客户端会话版本\n• 统一异常与 traceId",
+      "textPreview": "• JWT + jti 撤销 | • 角色与权限持久化 | • 客户端会话版本 | • 统一异常与 traceId",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• JWT + jti 撤销"
+          },
+          {
+            "index": 2,
+            "text": "• 角色与权限持久化"
+          },
+          {
+            "index": 3,
+            "text": "• 客户端会话版本"
+          },
+          {
+            "index": 4,
+            "text": "• 统一异常与 traceId"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• JWT + jti 撤销\n• 角色与权限持久化\n• 客户端会话版本\n• 统一异常与 traceId",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• JWT + jti 撤销\n• 角色与权限持久化\n• 客户端会话版本\n• 统一异常与 traceId",
+              "anchor": 1,
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rqtg3mlk",
+      "id": "11",
+      "name": "rule-130",
+      "bbox": [
+        420,
+        226,
+        1,
+        0.01
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.10"
+      },
+      "geometry": "straightConnector1",
+      "lineColor": "#C8CDD5",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cb2xwr25",
+      "id": "12",
+      "name": "text-131",
+      "bbox": [
+        462,
+        244,
+        330,
+        42
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.11"
+      },
+      "geometry": "rect",
+      "text": "实时协作",
+      "textPreview": "实时协作",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 32,
+        "typeface": "Microsoft YaHei",
+        "color": "#101318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "实时协作"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "实时协作",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 32,
+            "typeface": "Microsoft YaHei",
+            "color": "#101318",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "实时协作",
+              "anchor": 1,
+              "fontSize": 32,
+              "typeface": "Microsoft YaHei",
+              "color": "#101318",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcby5w3q",
+      "id": "13",
+      "name": "text-132",
+      "bbox": [
+        462,
+        318,
+        320,
+        200
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.12"
+      },
+      "geometry": "rect",
+      "text": "• SignalR 用户组 / 会话组\n• 消息与通知推送\n• 好友与会议事件\n• Agora 会议令牌",
+      "textPreview": "• SignalR 用户组 / 会话组 | • 消息与通知推送 | • 好友与会议事件 | • Agora 会议令牌",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• SignalR 用户组 / 会话组"
+          },
+          {
+            "index": 2,
+            "text": "• 消息与通知推送"
+          },
+          {
+            "index": 3,
+            "text": "• 好友与会议事件"
+          },
+          {
+            "index": 4,
+            "text": "• Agora 会议令牌"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• SignalR 用户组 / 会话组\n• 消息与通知推送\n• 好友与会议事件\n• Agora 会议令牌",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• SignalR 用户组 / 会话组\n• 消息与通知推送\n• 好友与会议事件\n• Agora 会议令牌",
+              "anchor": 1,
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2l0fqhk3",
+      "id": "14",
+      "name": "rule-133",
+      "bbox": [
+        840,
+        226,
+        1,
+        0.01
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.13"
+      },
+      "geometry": "straightConnector1",
+      "lineColor": "#C8CDD5",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3m9gzmlo",
+      "id": "15",
+      "name": "text-134",
+      "bbox": [
+        882,
+        244,
+        330,
+        42
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.14"
+      },
+      "geometry": "rect",
+      "text": "数据与文件",
+      "textPreview": "数据与文件",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 32,
+        "typeface": "Microsoft YaHei",
+        "color": "#101318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "数据与文件"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "数据与文件",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 32,
+            "typeface": "Microsoft YaHei",
+            "color": "#101318",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "数据与文件",
+              "anchor": 1,
+              "fontSize": 32,
+              "typeface": "Microsoft YaHei",
+              "color": "#101318",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4nixsr29",
+      "id": "16",
+      "name": "text-135",
+      "bbox": [
+        882,
+        318,
+        320,
+        200
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.15"
+      },
+      "geometry": "rect",
+      "text": "• EF Core + PostgreSQL\n• 失败自动重试\n• Local / MinIO 可切换\n• 软删除与回收站",
+      "textPreview": "• EF Core + PostgreSQL | • 失败自动重试 | • Local / MinIO 可切换 | • 软删除与回收站",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• EF Core + PostgreSQL"
+          },
+          {
+            "index": 2,
+            "text": "• 失败自动重试"
+          },
+          {
+            "index": 3,
+            "text": "• Local / MinIO 可切换"
+          },
+          {
+            "index": 4,
+            "text": "• 软删除与回收站"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• EF Core + PostgreSQL\n• 失败自动重试\n• Local / MinIO 可切换\n• 软删除与回收站",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• EF Core + PostgreSQL\n• 失败自动重试\n• Local / MinIO 可切换\n• 软删除与回收站",
+              "anchor": 1,
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pory1w3e",
+      "id": "17",
+      "name": "rect-136",
+      "bbox": [
+        42,
+        568,
+        1196,
+        60
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.16"
+      },
+      "geometry": "rect",
+      "fillColor": "#F1F3F5",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mh4f2lk7",
+      "id": "18",
+      "name": "text-137",
+      "bbox": [
+        66,
+        584,
+        1148,
+        30
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.17"
+      },
+      "geometry": "rect",
+      "text": "后端不是单纯 CRUD：它同时处理会话安全、实时事件、文件生命周期与部署健康。",
+      "textPreview": "后端不是单纯 CRUD：它同时处理会话安全、实时事件、文件生命周期与部署健康。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#101318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "后端不是单纯 CRUD：它同时处理会话安全、实时事件、文件生命周期与部署健康。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "后端不是单纯 CRUD：它同时处理会话安全、实时事件、文件生命周期与部署健康。",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#101318",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "后端不是单纯 CRUD：它同时处理会话安全、实时事件、文件生命周期与部署健康。",
+              "anchor": 1,
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#101318",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "baseUnit": 1,
+      "root": {
+        "path": "0",
+        "kind": "layers",
+        "name": "backend-capability-lines",
+        "requestedSize": {
+          "width": {
+            "mode": "fill",
+            "value": 1
+          },
+          "height": {
+            "mode": "fill",
+            "value": 1
+          }
+        },
+        "intrinsicSize": {
+          "width": 1239,
+          "height": 702
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "text",
+            "name": "text-120",
+            "position": {
+              "left": 42,
+              "top": 34
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1196
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 62
+              }
+            },
+            "intrinsicSize": {
+              "width": 1196,
+              "height": 62
+            },
+            "frame": {
+              "left": 42,
+              "top": 34,
+              "width": 1196,
+              "height": 62
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 34,
+              "width": 1196,
+              "height": 62
+            },
+            "children": [],
+            "text": "三条后端能力线支撑全部业务",
+            "transform": "none",
+            "element": {
+              "aid": "sh/8zqpsr6p",
+              "id": "1",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.1",
+            "kind": "text",
+            "name": "text-121",
+            "position": {
+              "left": 42,
+              "top": 684
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 900
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 18
+              }
+            },
+            "intrinsicSize": {
+              "width": 900,
+              "height": 18
+            },
+            "frame": {
+              "left": 42,
+              "top": 684,
+              "width": 900,
+              "height": 18
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 684,
+              "width": 900,
+              "height": 18
+            },
+            "children": [],
+            "text": "依据：项目最终代码与 2026-07-19 实际验证",
+            "transform": "none",
+            "element": {
+              "aid": "sh/7yhojmp4",
+              "id": "2",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.2",
+            "kind": "text",
+            "name": "text-122",
+            "position": {
+              "left": 1185,
+              "top": 682
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 54
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 20
+              }
+            },
+            "intrinsicSize": {
+              "width": 54,
+              "height": 20
+            },
+            "frame": {
+              "left": 1185,
+              "top": 682,
+              "width": 54,
+              "height": 20
+            },
+            "snappedFrame": {
+              "left": 1185,
+              "top": 682,
+              "width": 54,
+              "height": 20
+            },
+            "children": [],
+            "text": "08",
+            "transform": "none",
+            "element": {
+              "aid": "sh/6x87qhoj",
+              "id": "3",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.3",
+            "kind": "text",
+            "name": "text-123",
+            "position": {
+              "left": 42,
+              "top": 132
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 240
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 36
+              }
+            },
+            "intrinsicSize": {
+              "width": 240,
+              "height": 36
+            },
+            "frame": {
+              "left": 42,
+              "top": 132,
+              "width": 240,
+              "height": 36
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 132,
+              "width": 240,
+              "height": 36
+            },
+            "children": [],
+            "text": "16 controllers",
+            "transform": "none",
+            "element": {
+              "aid": "sh/lwz6hc7e",
+              "id": "4",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.4",
+            "kind": "text",
+            "name": "text-124",
+            "position": {
+              "left": 348,
+              "top": 132
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 250
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 36
+              }
+            },
+            "intrinsicSize": {
+              "width": 250,
+              "height": 36
+            },
+            "frame": {
+              "left": 348,
+              "top": 132,
+              "width": 250,
+              "height": 36
+            },
+            "snappedFrame": {
+              "left": 348,
+              "top": 132,
+              "width": 250,
+              "height": 36
+            },
+            "children": [],
+            "text": "142 HTTP actions",
+            "transform": "none",
+            "element": {
+              "aid": "sh/kvqpo76t",
+              "id": "5",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.5",
+            "kind": "text",
+            "name": "text-125",
+            "position": {
+              "left": 654,
+              "top": 132
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 220
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 36
+              }
+            },
+            "intrinsicSize": {
+              "width": 220,
+              "height": 36
+            },
+            "frame": {
+              "left": 654,
+              "top": 132,
+              "width": 220,
+              "height": 36
+            },
+            "snappedFrame": {
+              "left": 654,
+              "top": 132,
+              "width": 220,
+              "height": 36
+            },
+            "children": [],
+            "text": "36 DbSets",
+            "transform": "none",
+            "element": {
+              "aid": "sh/juhof2p8",
+              "id": "6",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.6",
+            "kind": "text",
+            "name": "text-126",
+            "position": {
+              "left": 960,
+              "top": 132
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 278
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 36
+              }
+            },
+            "intrinsicSize": {
+              "width": 278,
+              "height": 36
+            },
+            "frame": {
+              "left": 960,
+              "top": 132,
+              "width": 278,
+              "height": 36
+            },
+            "snappedFrame": {
+              "left": 960,
+              "top": 132,
+              "width": 278,
+              "height": 36
+            },
+            "children": [],
+            "text": "ASP.NET Core 8",
+            "transform": "none",
+            "element": {
+              "aid": "sh/yto7mx8n",
+              "id": "7",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.7",
+            "kind": "shape",
+            "name": "rule-127",
+            "position": {
+              "left": 42,
+              "top": 198
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1196
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 0.01
+              }
+            },
+            "intrinsicSize": {
+              "width": 1196,
+              "height": 0.01
+            },
+            "frame": {
+              "left": 42,
+              "top": 198,
+              "width": 1196,
+              "height": 0.01
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 198,
+              "width": 1196,
+              "height": 0.01
+            },
+            "children": [],
+            "geometry": "straightConnector1",
+            "element": {
+              "aid": "sh/psjqtw7i",
+              "id": "8",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.8",
+            "kind": "text",
+            "name": "text-128",
+            "position": {
+              "left": 42,
+              "top": 244
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 330
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 42
+              }
+            },
+            "intrinsicSize": {
+              "width": 330,
+              "height": 42
+            },
+            "frame": {
+              "left": 42,
+              "top": 244,
+              "width": 330,
+              "height": 42
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 244,
+              "width": 330,
+              "height": 42
+            },
+            "children": [],
+            "text": "鉴权与治理",
+            "transform": "none",
+            "element": {
+              "aid": "sh/4rap0b6x",
+              "id": "9",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.9",
+            "kind": "text",
+            "name": "text-129",
+            "position": {
+              "left": 42,
+              "top": 318
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 320
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 200
+              }
+            },
+            "intrinsicSize": {
+              "width": 320,
+              "height": 200
+            },
+            "frame": {
+              "left": 42,
+              "top": 318,
+              "width": 320,
+              "height": 200
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 318,
+              "width": 320,
+              "height": 200
+            },
+            "children": [],
+            "text": "• JWT + jti 撤销\n• 角色与权限持久化\n• 客户端会话版本\n• 统一异常与 traceId",
+            "transform": "none",
+            "element": {
+              "aid": "sh/qpkfu1kz",
+              "id": "10",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.10",
+            "kind": "shape",
+            "name": "rule-130",
+            "position": {
+              "left": 420,
+              "top": 226
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 0.01
+              }
+            },
+            "intrinsicSize": {
+              "width": 1,
+              "height": 0.01
+            },
+            "frame": {
+              "left": 420,
+              "top": 226,
+              "width": 1,
+              "height": 0.01
+            },
+            "snappedFrame": {
+              "left": 420,
+              "top": 226,
+              "width": 1,
+              "height": 0.01
+            },
+            "children": [],
+            "geometry": "straightConnector1",
+            "element": {
+              "aid": "sh/rqtg3mlk",
+              "id": "11",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.11",
+            "kind": "text",
+            "name": "text-131",
+            "position": {
+              "left": 462,
+              "top": 244
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 330
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 42
+              }
+            },
+            "intrinsicSize": {
+              "width": 330,
+              "height": 42
+            },
+            "frame": {
+              "left": 462,
+              "top": 244,
+              "width": 330,
+              "height": 42
+            },
+            "snappedFrame": {
+              "left": 462,
+              "top": 244,
+              "width": 330,
+              "height": 42
+            },
+            "children": [],
+            "text": "实时协作",
+            "transform": "none",
+            "element": {
+              "aid": "sh/cb2xwr25",
+              "id": "12",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.12",
+            "kind": "text",
+            "name": "text-132",
+            "position": {
+              "left": 462,
+              "top": 318
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 320
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 200
+              }
+            },
+            "intrinsicSize": {
+              "width": 320,
+              "height": 200
+            },
+            "frame": {
+              "left": 462,
+              "top": 318,
+              "width": 320,
+              "height": 200
+            },
+            "snappedFrame": {
+              "left": 462,
+              "top": 318,
+              "width": 320,
+              "height": 200
+            },
+            "children": [],
+            "text": "• SignalR 用户组 / 会话组\n• 消息与通知推送\n• 好友与会议事件\n• Agora 会议令牌",
+            "transform": "none",
+            "element": {
+              "aid": "sh/dcby5w3q",
+              "id": "13",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.13",
+            "kind": "shape",
+            "name": "rule-133",
+            "position": {
+              "left": 840,
+              "top": 226
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 0.01
+              }
+            },
+            "intrinsicSize": {
+              "width": 1,
+              "height": 0.01
+            },
+            "frame": {
+              "left": 840,
+              "top": 226,
+              "width": 1,
+              "height": 0.01
+            },
+            "snappedFrame": {
+              "left": 840,
+              "top": 226,
+              "width": 1,
+              "height": 0.01
+            },
+            "children": [],
+            "geometry": "straightConnector1",
+            "element": {
+              "aid": "sh/2l0fqhk3",
+              "id": "14",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.14",
+            "kind": "text",
+            "name": "text-134",
+            "position": {
+              "left": 882,
+              "top": 244
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 330
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 42
+              }
+            },
+            "intrinsicSize": {
+              "width": 330,
+              "height": 42
+            },
+            "frame": {
+              "left": 882,
+              "top": 244,
+              "width": 330,
+              "height": 42
+            },
+            "snappedFrame": {
+              "left": 882,
+              "top": 244,
+              "width": 330,
+              "height": 42
+            },
+            "children": [],
+            "text": "数据与文件",
+            "transform": "none",
+            "element": {
+              "aid": "sh/3m9gzmlo",
+              "id": "15",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.15",
+            "kind": "text",
+            "name": "text-135",
+            "position": {
+              "left": 882,
+              "top": 318
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 320
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 200
+              }
+            },
+            "intrinsicSize": {
+              "width": 320,
+              "height": 200
+            },
+            "frame": {
+              "left": 882,
+              "top": 318,
+              "width": 320,
+              "height": 200
+            },
+            "snappedFrame": {
+              "left": 882,
+              "top": 318,
+              "width": 320,
+              "height": 200
+            },
+            "children": [],
+            "text": "• EF Core + PostgreSQL\n• 失败自动重试\n• Local / MinIO 可切换\n• 软删除与回收站",
+            "transform": "none",
+            "element": {
+              "aid": "sh/4nixsr29",
+              "id": "16",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.16",
+            "kind": "shape",
+            "name": "rect-136",
+            "position": {
+              "left": 42,
+              "top": 568
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1196
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 60
+              }
+            },
+            "intrinsicSize": {
+              "width": 1196,
+              "height": 60
+            },
+            "frame": {
+              "left": 42,
+              "top": 568,
+              "width": 1196,
+              "height": 60
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 568,
+              "width": 1196,
+              "height": 60
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/pory1w3e",
+              "id": "17",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.17",
+            "kind": "text",
+            "name": "text-137",
+            "position": {
+              "left": 66,
+              "top": 584
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1148
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 30
+              }
+            },
+            "intrinsicSize": {
+              "width": 1148,
+              "height": 30
+            },
+            "frame": {
+              "left": 66,
+              "top": 584,
+              "width": 1148,
+              "height": 30
+            },
+            "snappedFrame": {
+              "left": 66,
+              "top": 584,
+              "width": 1148,
+              "height": 30
+            },
+            "children": [],
+            "text": "后端不是单纯 CRUD：它同时处理会话安全、实时事件、文件生命周期与部署健康。",
+            "transform": "none",
+            "element": {
+              "aid": "sh/mh4f2lk7",
+              "id": "18",
+              "kind": "shape"
+            }
+          }
+        ],
+        "padding": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "alignItems": "stretch",
+        "justifyItems": "stretch",
+        "contentFrame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 42,
+              "top": 34,
+              "width": 1196,
+              "height": 62
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 42,
+              "top": 684,
+              "width": 900,
+              "height": 18
+            }
+          },
+          {
+            "path": "0.2",
+            "frame": {
+              "left": 1185,
+              "top": 682,
+              "width": 54,
+              "height": 20
+            }
+          },
+          {
+            "path": "0.3",
+            "frame": {
+              "left": 42,
+              "top": 132,
+              "width": 240,
+              "height": 36
+            }
+          },
+          {
+            "path": "0.4",
+            "frame": {
+              "left": 348,
+              "top": 132,
+              "width": 250,
+              "height": 36
+            }
+          },
+          {
+            "path": "0.5",
+            "frame": {
+              "left": 654,
+              "top": 132,
+              "width": 220,
+              "height": 36
+            }
+          },
+          {
+            "path": "0.6",
+            "frame": {
+              "left": 960,
+              "top": 132,
+              "width": 278,
+              "height": 36
+            }
+          },
+          {
+            "path": "0.7",
+            "frame": {
+              "left": 42,
+              "top": 198,
+              "width": 1196,
+              "height": 0.01
+            }
+          },
+          {
+            "path": "0.8",
+            "frame": {
+              "left": 42,
+              "top": 244,
+              "width": 330,
+              "height": 42
+            }
+          },
+          {
+            "path": "0.9",
+            "frame": {
+              "left": 42,
+              "top": 318,
+              "width": 320,
+              "height": 200
+            }
+          },
+          {
+            "path": "0.10",
+            "frame": {
+              "left": 420,
+              "top": 226,
+              "width": 1,
+              "height": 0.01
+            }
+          },
+          {
+            "path": "0.11",
+            "frame": {
+              "left": 462,
+              "top": 244,
+              "width": 330,
+              "height": 42
+            }
+          },
+          {
+            "path": "0.12",
+            "frame": {
+              "left": 462,
+              "top": 318,
+              "width": 320,
+              "height": 200
+            }
+          },
+          {
+            "path": "0.13",
+            "frame": {
+              "left": 840,
+              "top": 226,
+              "width": 1,
+              "height": 0.01
+            }
+          },
+          {
+            "path": "0.14",
+            "frame": {
+              "left": 882,
+              "top": 244,
+              "width": 330,
+              "height": 42
+            }
+          },
+          {
+            "path": "0.15",
+            "frame": {
+              "left": 882,
+              "top": 318,
+              "width": 320,
+              "height": 200
+            }
+          },
+          {
+            "path": "0.16",
+            "frame": {
+              "left": 42,
+              "top": 568,
+              "width": 1196,
+              "height": 60
+            }
+          },
+          {
+            "path": "0.17",
+            "frame": {
+              "left": 66,
+              "top": 584,
+              "width": 1148,
+              "height": 30
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

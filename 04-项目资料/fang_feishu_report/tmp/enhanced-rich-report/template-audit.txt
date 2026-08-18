@@ -1,0 +1,21 @@
+Source deck: 仿飞书协同办公平台-第7组项目汇报-多端效果图版.pptx
+Source size: 19 slides, 1280 x 720.
+Communication job: by the end, the project teacher should understand that the group delivered a runnable multi-terminal collaboration platform with shared backend data, because the deck connects architecture, real runtime evidence, engineering verification, team ownership, and explicit boundaries.
+
+Visual system:
+- White canvas, Microsoft YaHei body/title typography, black primary copy, gray secondary copy, Feishu-blue #3370FF accents.
+- Large takeaway titles at the upper left; small evidence/footer text at lower left; page marker at lower right.
+- Reusable evidence layout: source slide 6, with two equal screenshot frames and two concise explanation blocks.
+- Existing section order is preserved: results -> architecture -> scenarios -> evidence -> technology -> engineering -> team -> boundaries -> endpoint evidence -> conclusion -> Q&A.
+
+Insertion contract:
+- Add one Web evidence slide after source slide 6 by duplicating source slide 6.
+- Add one mobile evidence slide after source slide 15 by duplicating source slide 6.
+- Preserve all inherited typography, frames, spacing, background, footers, and page markers.
+- Replace inherited screenshot objects rather than covering retained objects.
+- Renumber inherited page-marker text on slides shifted by insertions.
+- Add speaker notes for presenter support; notes do not alter the audience-facing visual system.
+
+Placeholder audit:
+- Source slide XML contains no unresolved structural placeholders requiring visible prompt handling.
+- Footer and page-number objects are ordinary inherited textboxes and are kept or explicitly rewritten.

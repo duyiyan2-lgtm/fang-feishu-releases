@@ -1,0 +1,14 @@
+Runtime screenshot provenance:
+- Web knowledge base: C:/Users/duyiyan/Documents/Codex/2026-07-19/wbe-2/work/presentations/fang_feishu_report/tmp/assets/web-wiki.png
+- Web user management: C:/Users/duyiyan/Documents/Codex/2026-07-19/wbe-2/work/presentations/fang_feishu_report/tmp/assets/web-admin.png
+- Mini-program same-source contacts page: C:/Users/duyiyan/Documents/Codex/2026-07-19/wbe-2/work/presentations/fang_feishu_report/tmp/user-modified-multiclient/assets/mini-contacts.png
+- Mini-program same-source approvals page: C:/Users/duyiyan/Documents/Codex/2026-07-19/wbe-2/work/presentations/fang_feishu_report/tmp/user-modified-multiclient/assets/mini-approvals.png
+
+All four screenshots were captured from the local project runtime with real backend data. The mobile images are uni-app H5 pages produced from the same source tree used for the WeChat mini-program build; labels and footers keep this provenance explicit.
+
+Visible content additions:
+1. Web governance and knowledge slide: connects the knowledge-space entry to the user/department/role/audit management boundary.
+2. Mobile data and workflow slide: demonstrates that contacts and approvals remain available from the uni-app mobile entry.
+
+Presenter-support addition:
+- Speaker notes are added to all output slides, with a short opening sentence, evidence point, and transition/answer cue.

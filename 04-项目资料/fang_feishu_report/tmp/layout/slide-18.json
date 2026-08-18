@@ -1,0 +1,1742 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/qsytev",
+    "id": "qsytev",
+    "slide": 18,
+    "layoutId": "c868fb6d-cb98-49db-ab90-1361df3b41fa",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "d3368dbe-2a50-47e2-8acb-b5632eb4003b",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "c868fb6d-cb98-49db-ab90-1361df3b41fa",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "d3368dbe-2a50-47e2-8acb-b5632eb4003b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "d3368dbe-2a50-47e2-8acb-b5632eb4003b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g7apkjeh",
+      "id": "1",
+      "name": "text-315",
+      "bbox": [
+        42,
+        34,
+        1196,
+        62
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0"
+      },
+      "geometry": "rect",
+      "text": "答辩问题：组长贡献与项目边界",
+      "textPreview": "答辩问题：组长贡献与项目边界",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "Microsoft YaHei",
+        "color": "#101318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "答辩问题：组长贡献与项目边界"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "答辩问题：组长贡献与项目边界",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 48,
+            "typeface": "Microsoft YaHei",
+            "color": "#101318",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "答辩问题：组长贡献与项目边界",
+              "anchor": 1,
+              "fontSize": 48,
+              "typeface": "Microsoft YaHei",
+              "color": "#101318",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "none",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f61oredw",
+      "id": "2",
+      "name": "text-316",
+      "bbox": [
+        42,
+        684,
+        900,
+        18
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1"
+      },
+      "geometry": "rect",
+      "text": "附录：组长回答要强调决策、协调与闭环证据",
+      "textPreview": "附录：组长回答要强调决策、协调与闭环证据",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "附录：组长回答要强调决策、协调与闭环证据"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "附录：组长回答要强调决策、协调与闭环证据",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 13,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "附录：组长回答要强调决策、协调与闭环证据",
+              "anchor": 1,
+              "fontSize": 13,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e587i9wb",
+      "id": "3",
+      "name": "text-317",
+      "bbox": [
+        1185,
+        682,
+        54,
+        20
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2"
+      },
+      "geometry": "rect",
+      "text": "18",
+      "textPreview": "18",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "18"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "18",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 14,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "right",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "18",
+              "anchor": 1,
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "right",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t4z6povq",
+      "id": "4",
+      "name": "text-318",
+      "bbox": [
+        42,
+        130,
+        540,
+        38
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3"
+      },
+      "geometry": "rect",
+      "text": "Q9 你作为组长做了什么？",
+      "textPreview": "Q9 你作为组长做了什么？",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "Microsoft YaHei",
+        "color": "#3370FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Q9 你作为组长做了什么？"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Q9 你作为组长做了什么？",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 25,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Q9 你作为组长做了什么？",
+              "anchor": 1,
+              "fontSize": 25,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sjqpgje5",
+      "id": "5",
+      "name": "text-319",
+      "bbox": [
+        42,
+        180,
+        540,
+        96
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.4"
+      },
+      "geometry": "rect",
+      "text": "我负责范围取舍、任务拆解、接口规范、关键后端能力、代码 Review、跨端联调、风险收敛和最终汇报。我的价值是让六个人的产出能合成一个可验收系统。",
+      "textPreview": "我负责范围取舍、任务拆解、接口规范、关键后端能力、代码 Review、跨端联调、风险收敛和最终汇报。我的价值是让六个人的产出能合成一个可验收系统。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "我负责范围取舍、任务拆解、接口规范、关键后端能力、代码"
+          },
+          {
+            "index": 2,
+            "text": " "
+          },
+          {
+            "index": 3,
+            "text": "Review、跨端联调、风险收敛和最终汇报。我的价值是让六"
+          },
+          {
+            "index": 4,
+            "text": "个人的产出能合成一个可验收系统。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "我负责范围取舍、任务拆解、接口规范、关键后端能力、代码 Review、跨端联调、风险收敛和最终汇报。我的价值是让六个人的产出能合成一个可验收系统。",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "我负责范围取舍、任务拆解、接口规范、关键后端能力、代码 Review、跨端联调、风险收敛和最终汇报。我的价值是让六个人的产出能合成一个可验收系统。",
+              "anchor": 1,
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rihoned0",
+      "id": "6",
+      "name": "text-320",
+      "bbox": [
+        678,
+        130,
+        540,
+        38
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.5"
+      },
+      "geometry": "rect",
+      "text": "Q10 最大技术难点是什么？",
+      "textPreview": "Q10 最大技术难点是什么？",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "Microsoft YaHei",
+        "color": "#3370FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Q10 最大技术难点是什么？"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Q10 最大技术难点是什么？",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 25,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Q10 最大技术难点是什么？",
+              "anchor": 1,
+              "fontSize": 25,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6h87e9wf",
+      "id": "7",
+      "name": "text-321",
+      "bbox": [
+        678,
+        180,
+        540,
+        96
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.6"
+      },
+      "geometry": "rect",
+      "text": "多端实时状态最难：既要实时，又不能让瞬时网络失败破坏业务成功语义。最终采用先落库、后推送、重连再拉取的策略。",
+      "textPreview": "多端实时状态最难：既要实时，又不能让瞬时网络失败破坏业务成功语义。最终采用先落库、后推送、重连再拉取的策略。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "多端实时状态最难：既要实时，又不能让瞬时网络失败破坏业"
+          },
+          {
+            "index": 2,
+            "text": "务成功语义。最终采用先落库、后推送、重连再拉取的策略。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "多端实时状态最难：既要实时，又不能让瞬时网络失败破坏业务成功语义。最终采用先落库、后推送、重连再拉取的策略。",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "多端实时状态最难：既要实时，又不能让瞬时网络失败破坏业务成功语义。最终采用先落库、后推送、重连再拉取的策略。",
+              "anchor": 1,
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gz6l4vu",
+      "id": "8",
+      "name": "text-322",
+      "bbox": [
+        42,
+        386,
+        540,
+        38
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.7"
+      },
+      "geometry": "rect",
+      "text": "Q11 哪些功能还不完整？",
+      "textPreview": "Q11 哪些功能还不完整？",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "Microsoft YaHei",
+        "color": "#3370FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Q11 哪些功能还不完整？"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Q11 哪些功能还不完整？",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 25,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Q11 哪些功能还不完整？",
+              "anchor": 1,
+              "fontSize": 25,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4fqpcze9",
+      "id": "9",
+      "name": "text-323",
+      "bbox": [
+        42,
+        436,
+        540,
+        96
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.8"
+      },
+      "geometry": "rect",
+      "text": "文档尚未实现 CRDT 多光标共编；Messages 包体偏大；Android 单元测试任务仍有类加载问题。Debug APK 与小程序构建已通过，以上边界都有明确改进路径。",
+      "textPreview": "文档尚未实现 CRDT 多光标共编；Messages 包体偏大；Android 单元测试任务仍有类加载问题。Debug APK 与小程序构建已通过，以上边界都有明确改进路径。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "文档尚未实现 CRDT 多光标共编；Messages"
+          },
+          {
+            "index": 2,
+            "text": "包体偏大；Android 单元测试任务仍有类加载问题。Debug"
+          },
+          {
+            "index": 3,
+            "text": "APK 与小程序构建已通过，以上边界都有明确改进路径。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "文档尚未实现 CRDT 多光标共编；Messages 包体偏大；Android 单元测试任务仍有类加载问题。Debug APK 与小程序构建已通过，以上边界都有明确改进路径。",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "文档尚未实现 CRDT 多光标共编；Messages 包体偏大；Android 单元测试任务仍有类加载问题。Debug APK 与小程序构建已通过，以上边界都有明确改进路径。",
+              "anchor": 1,
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6tw36lkj",
+      "id": "10",
+      "name": "text-324",
+      "bbox": [
+        678,
+        386,
+        540,
+        38
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.9"
+      },
+      "geometry": "rect",
+      "text": "Q12 如果再给一周怎么安排？",
+      "textPreview": "Q12 如果再给一周怎么安排？",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "Microsoft YaHei",
+        "color": "#3370FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Q12 如果再给一周怎么安排？"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Q12 如果再给一周怎么安排？",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 25,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Q12 如果再给一周怎么安排？",
+              "anchor": 1,
+              "fontSize": 25,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ru5kzq14",
+      "id": "11",
+      "name": "text-325",
+      "bbox": [
+        678,
+        436,
+        540,
+        96
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.10"
+      },
+      "geometry": "rect",
+      "text": "先修复 Android 测试执行链并接入 CI，同时拆分消息与会议包体；再接 Yjs 文档协同；最后补可观测性、离线队列与并发压测，用指标验证改进。",
+      "textPreview": "先修复 Android 测试执行链并接入 CI，同时拆分消息与会议包体；再接 Yjs 文档协同；最后补可观测性、离线队列与并发压测，用指标验证改进。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "先修复 Android 测试执行链并接入"
+          },
+          {
+            "index": 2,
+            "text": "CI，同时拆分消息与会议包体；再接 Yjs"
+          },
+          {
+            "index": 3,
+            "text": "文档协同；最后补可观测性、离线队列与并发压测，用指标验"
+          },
+          {
+            "index": 4,
+            "text": "证改进。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "先修复 Android 测试执行链并接入 CI，同时拆分消息与会议包体；再接 Yjs 文档协同；最后补可观测性、离线队列与并发压测，用指标验证改进。",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "先修复 Android 测试执行链并接入 CI，同时拆分消息与会议包体；再接 Yjs 文档协同；最后补可观测性、离线队列与并发压测，用指标验证改进。",
+              "anchor": 1,
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "baseUnit": 1,
+      "root": {
+        "path": "0",
+        "kind": "layers",
+        "name": "qa-leader-boundaries",
+        "requestedSize": {
+          "width": {
+            "mode": "fill",
+            "value": 1
+          },
+          "height": {
+            "mode": "fill",
+            "value": 1
+          }
+        },
+        "intrinsicSize": {
+          "width": 1239,
+          "height": 702
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "text",
+            "name": "text-315",
+            "position": {
+              "left": 42,
+              "top": 34
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1196
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 62
+              }
+            },
+            "intrinsicSize": {
+              "width": 1196,
+              "height": 62
+            },
+            "frame": {
+              "left": 42,
+              "top": 34,
+              "width": 1196,
+              "height": 62
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 34,
+              "width": 1196,
+              "height": 62
+            },
+            "children": [],
+            "text": "答辩问题：组长贡献与项目边界",
+            "transform": "none",
+            "element": {
+              "aid": "sh/g7apkjeh",
+              "id": "1",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.1",
+            "kind": "text",
+            "name": "text-316",
+            "position": {
+              "left": 42,
+              "top": 684
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 900
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 18
+              }
+            },
+            "intrinsicSize": {
+              "width": 900,
+              "height": 18
+            },
+            "frame": {
+              "left": 42,
+              "top": 684,
+              "width": 900,
+              "height": 18
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 684,
+              "width": 900,
+              "height": 18
+            },
+            "children": [],
+            "text": "附录：组长回答要强调决策、协调与闭环证据",
+            "transform": "none",
+            "element": {
+              "aid": "sh/f61oredw",
+              "id": "2",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.2",
+            "kind": "text",
+            "name": "text-317",
+            "position": {
+              "left": 1185,
+              "top": 682
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 54
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 20
+              }
+            },
+            "intrinsicSize": {
+              "width": 54,
+              "height": 20
+            },
+            "frame": {
+              "left": 1185,
+              "top": 682,
+              "width": 54,
+              "height": 20
+            },
+            "snappedFrame": {
+              "left": 1185,
+              "top": 682,
+              "width": 54,
+              "height": 20
+            },
+            "children": [],
+            "text": "18",
+            "transform": "none",
+            "element": {
+              "aid": "sh/e587i9wb",
+              "id": "3",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.3",
+            "kind": "text",
+            "name": "text-318",
+            "position": {
+              "left": 42,
+              "top": 130
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 540
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 38
+              }
+            },
+            "intrinsicSize": {
+              "width": 540,
+              "height": 38
+            },
+            "frame": {
+              "left": 42,
+              "top": 130,
+              "width": 540,
+              "height": 38
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 130,
+              "width": 540,
+              "height": 38
+            },
+            "children": [],
+            "text": "Q9 你作为组长做了什么？",
+            "transform": "none",
+            "element": {
+              "aid": "sh/t4z6povq",
+              "id": "4",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.4",
+            "kind": "text",
+            "name": "text-319",
+            "position": {
+              "left": 42,
+              "top": 180
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 540
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 96
+              }
+            },
+            "intrinsicSize": {
+              "width": 540,
+              "height": 96
+            },
+            "frame": {
+              "left": 42,
+              "top": 180,
+              "width": 540,
+              "height": 96
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 180,
+              "width": 540,
+              "height": 96
+            },
+            "children": [],
+            "text": "我负责范围取舍、任务拆解、接口规范、关键后端能力、代码 Review、跨端联调、风险收敛和最终汇报。我的价值是让六个人的产出能合成一个可验收系统。",
+            "transform": "none",
+            "element": {
+              "aid": "sh/sjqpgje5",
+              "id": "5",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.5",
+            "kind": "text",
+            "name": "text-320",
+            "position": {
+              "left": 678,
+              "top": 130
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 540
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 38
+              }
+            },
+            "intrinsicSize": {
+              "width": 540,
+              "height": 38
+            },
+            "frame": {
+              "left": 678,
+              "top": 130,
+              "width": 540,
+              "height": 38
+            },
+            "snappedFrame": {
+              "left": 678,
+              "top": 130,
+              "width": 540,
+              "height": 38
+            },
+            "children": [],
+            "text": "Q10 最大技术难点是什么？",
+            "transform": "none",
+            "element": {
+              "aid": "sh/rihoned0",
+              "id": "6",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.6",
+            "kind": "text",
+            "name": "text-321",
+            "position": {
+              "left": 678,
+              "top": 180
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 540
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 96
+              }
+            },
+            "intrinsicSize": {
+              "width": 540,
+              "height": 96
+            },
+            "frame": {
+              "left": 678,
+              "top": 180,
+              "width": 540,
+              "height": 96
+            },
+            "snappedFrame": {
+              "left": 678,
+              "top": 180,
+              "width": 540,
+              "height": 96
+            },
+            "children": [],
+            "text": "多端实时状态最难：既要实时，又不能让瞬时网络失败破坏业务成功语义。最终采用先落库、后推送、重连再拉取的策略。",
+            "transform": "none",
+            "element": {
+              "aid": "sh/6h87e9wf",
+              "id": "7",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.7",
+            "kind": "text",
+            "name": "text-322",
+            "position": {
+              "left": 42,
+              "top": 386
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 540
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 38
+              }
+            },
+            "intrinsicSize": {
+              "width": 540,
+              "height": 38
+            },
+            "frame": {
+              "left": 42,
+              "top": 386,
+              "width": 540,
+              "height": 38
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 386,
+              "width": 540,
+              "height": 38
+            },
+            "children": [],
+            "text": "Q11 哪些功能还不完整？",
+            "transform": "none",
+            "element": {
+              "aid": "sh/5gz6l4vu",
+              "id": "8",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.8",
+            "kind": "text",
+            "name": "text-323",
+            "position": {
+              "left": 42,
+              "top": 436
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 540
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 96
+              }
+            },
+            "intrinsicSize": {
+              "width": 540,
+              "height": 96
+            },
+            "frame": {
+              "left": 42,
+              "top": 436,
+              "width": 540,
+              "height": 96
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 436,
+              "width": 540,
+              "height": 96
+            },
+            "children": [],
+            "text": "文档尚未实现 CRDT 多光标共编；Messages 包体偏大；Android 单元测试任务仍有类加载问题。Debug APK 与小程序构建已通过，以上边界都有明确改进路径。",
+            "transform": "none",
+            "element": {
+              "aid": "sh/4fqpcze9",
+              "id": "9",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.9",
+            "kind": "text",
+            "name": "text-324",
+            "position": {
+              "left": 678,
+              "top": 386
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 540
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 38
+              }
+            },
+            "intrinsicSize": {
+              "width": 540,
+              "height": 38
+            },
+            "frame": {
+              "left": 678,
+              "top": 386,
+              "width": 540,
+              "height": 38
+            },
+            "snappedFrame": {
+              "left": 678,
+              "top": 386,
+              "width": 540,
+              "height": 38
+            },
+            "children": [],
+            "text": "Q12 如果再给一周怎么安排？",
+            "transform": "none",
+            "element": {
+              "aid": "sh/6tw36lkj",
+              "id": "10",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.10",
+            "kind": "text",
+            "name": "text-325",
+            "position": {
+              "left": 678,
+              "top": 436
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 540
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 96
+              }
+            },
+            "intrinsicSize": {
+              "width": 540,
+              "height": 96
+            },
+            "frame": {
+              "left": 678,
+              "top": 436,
+              "width": 540,
+              "height": 96
+            },
+            "snappedFrame": {
+              "left": 678,
+              "top": 436,
+              "width": 540,
+              "height": 96
+            },
+            "children": [],
+            "text": "先修复 Android 测试执行链并接入 CI，同时拆分消息与会议包体；再接 Yjs 文档协同；最后补可观测性、离线队列与并发压测，用指标验证改进。",
+            "transform": "none",
+            "element": {
+              "aid": "sh/ru5kzq14",
+              "id": "11",
+              "kind": "shape"
+            }
+          }
+        ],
+        "padding": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "alignItems": "stretch",
+        "justifyItems": "stretch",
+        "contentFrame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 42,
+              "top": 34,
+              "width": 1196,
+              "height": 62
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 42,
+              "top": 684,
+              "width": 900,
+              "height": 18
+            }
+          },
+          {
+            "path": "0.2",
+            "frame": {
+              "left": 1185,
+              "top": 682,
+              "width": 54,
+              "height": 20
+            }
+          },
+          {
+            "path": "0.3",
+            "frame": {
+              "left": 42,
+              "top": 130,
+              "width": 540,
+              "height": 38
+            }
+          },
+          {
+            "path": "0.4",
+            "frame": {
+              "left": 42,
+              "top": 180,
+              "width": 540,
+              "height": 96
+            }
+          },
+          {
+            "path": "0.5",
+            "frame": {
+              "left": 678,
+              "top": 130,
+              "width": 540,
+              "height": 38
+            }
+          },
+          {
+            "path": "0.6",
+            "frame": {
+              "left": 678,
+              "top": 180,
+              "width": 540,
+              "height": 96
+            }
+          },
+          {
+            "path": "0.7",
+            "frame": {
+              "left": 42,
+              "top": 386,
+              "width": 540,
+              "height": 38
+            }
+          },
+          {
+            "path": "0.8",
+            "frame": {
+              "left": 42,
+              "top": 436,
+              "width": 540,
+              "height": 96
+            }
+          },
+          {
+            "path": "0.9",
+            "frame": {
+              "left": 678,
+              "top": 386,
+              "width": 540,
+              "height": 38
+            }
+          },
+          {
+            "path": "0.10",
+            "frame": {
+              "left": 678,
+              "top": 436,
+              "width": 540,
+              "height": 96
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

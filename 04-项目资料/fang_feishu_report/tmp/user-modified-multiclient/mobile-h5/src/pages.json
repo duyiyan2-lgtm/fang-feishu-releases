@@ -1,0 +1,190 @@
+{
+  "pages": [
+    {
+      "path": "pages/login/index",
+      "style": {
+        "navigationBarTitleText": "登录",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/home/index",
+      "style": {
+        "navigationBarTitleText": "工作台"
+      }
+    },
+    {
+      "path": "pages/contacts/index",
+      "style": {
+        "navigationBarTitleText": "通讯录",
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/im/index",
+      "style": {
+        "navigationBarTitleText": "消息",
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/im/chat",
+      "style": {
+        "navigationBarTitleText": "聊天"
+      }
+    },
+    {
+      "path": "pages/im/group-manage",
+      "style": {
+        "navigationBarTitleText": "群管理"
+      }
+    },
+    {
+      "path": "pages/documents/index",
+      "style": {
+        "navigationBarTitleText": "云文档"
+      }
+    },
+    {
+      "path": "pages/documents/edit",
+      "style": {
+        "navigationBarTitleText": "编辑文档"
+      }
+    },
+    {
+      "path": "pages/drive/index",
+      "style": {
+        "navigationBarTitleText": "云盘",
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/calendar/index",
+      "style": {
+        "navigationBarTitleText": "日历"
+      }
+    },
+    {
+      "path": "pages/approvals/index",
+      "style": {
+        "navigationBarTitleText": "审批"
+      }
+    },
+    {
+      "path": "pages/notifications/index",
+      "style": {
+        "navigationBarTitleText": "通知中心"
+      }
+    },
+    {
+      "path": "pages/admin/index",
+      "style": {
+        "navigationBarTitleText": "管理后台"
+      }
+    },
+    {
+      "path": "pages/admin/users",
+      "style": {
+        "navigationBarTitleText": "用户管理"
+      }
+    },
+    {
+      "path": "pages/admin/departments",
+      "style": {
+        "navigationBarTitleText": "部门管理"
+      }
+    },
+    {
+      "path": "pages/admin/roles",
+      "style": {
+        "navigationBarTitleText": "角色管理"
+      }
+    },
+    {
+      "path": "pages/admin/logs",
+      "style": {
+        "navigationBarTitleText": "操作日志"
+      }
+    },
+    {
+      "path": "pages/home/profile",
+      "style": {
+        "navigationBarTitleText": "个人资料"
+      }
+    },
+    {
+      "path": "pages/tasks/index",
+      "style": {
+        "navigationBarTitleText": "任务管理"
+      }
+    },
+    {
+      "path": "pages/meetings/index",
+      "style": {
+        "navigationBarTitleText": "视频会议"
+      }
+    },
+    {
+      "path": "pages/wiki/index",
+      "style": {
+        "navigationBarTitleText": "知识库"
+      }
+    },
+    {
+      "path": "pages/wiki/space",
+      "style": {
+        "navigationBarTitleText": "知识库空间"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "仿飞书协同办公",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F6F8FC"
+  },
+  "tabBar": {
+    "color": "#7B8494",
+    "selectedColor": "#1F6FFF",
+    "borderStyle": "white",
+    "backgroundColor": "#FFFFFF",
+    "fontSize": "12px",
+    "height": "56px",
+    "list": [
+      {
+        "pagePath": "pages/im/index",
+        "iconPath": "static/tab/feishu-message.png",
+        "selectedIconPath": "static/tab/feishu-message-active.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/documents/index",
+        "iconPath": "static/tab/feishu-docs.png",
+        "selectedIconPath": "static/tab/feishu-docs-active.png",
+        "text": "云文档"
+      },
+      {
+        "pagePath": "pages/home/index",
+        "iconPath": "static/tab/feishu-workbench.png",
+        "selectedIconPath": "static/tab/feishu-workbench-active.png",
+        "text": "工作台"
+      },
+      {
+        "pagePath": "pages/contacts/index",
+        "iconPath": "static/tab/feishu-contacts.png",
+        "selectedIconPath": "static/tab/feishu-contacts-active.png",
+        "text": "通讯录"
+      }
+    ]
+  },
+	"condition" : { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [
+			{
+				"name": "", //模式名称
+				"path": "", //启动页面，必选
+				"query": "" //启动参数，在页面的onLoad函数里面得到
+			}
+		]
+	}
+}

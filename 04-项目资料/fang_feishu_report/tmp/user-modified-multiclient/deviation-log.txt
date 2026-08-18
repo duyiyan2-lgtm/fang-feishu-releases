@@ -1,0 +1,6 @@
+Intentional deviations from the source deck:
+
+1. Output slide 15 duplicates source slide 6 and changes its inherited content slots to show multi-terminal runtime evidence. Reason: the user requested additional endpoint images in the manually revised deck.
+2. Output slides 17-19 rewrite only their inherited page-number text from 16/17/18 to 17/18/19. Reason: the new evidence slide is inserted before the conclusion and appendix.
+3. The two slide-15 screenshots are added directly over the inherited image frames, at the exact inherited coordinates. Reason: duplicated source slides share underlying media parts; a direct source replacement would also change preserved source slide 6. The visible result remains a frame-faithful image replacement while the user's original slide 6 is protected.
+4. No other source-slide content, layout, typography, or user modification is intentionally changed.

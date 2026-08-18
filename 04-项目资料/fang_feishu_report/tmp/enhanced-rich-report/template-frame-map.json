@@ -1,0 +1,58 @@
+{
+  "outputSlides": [
+    { "outputSlide": 1, "sourceSlide": 1, "narrativeRole": "cover", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 2, "sourceSlide": 2, "narrativeRole": "delivery result", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 3, "sourceSlide": 3, "narrativeRole": "overall architecture", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 4, "sourceSlide": 4, "narrativeRole": "business scenarios", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 5, "sourceSlide": 5, "narrativeRole": "preserve-only source slide 5", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 6, "sourceSlide": 6, "narrativeRole": "preserve-only source slide 6", "reuseMode": "duplicate-slide", "editTargets": [] },
+    {
+      "outputSlide": 7,
+      "sourceSlide": 6,
+      "narrativeRole": "Web governance and knowledge evidence",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "sourceElementId": "sh/v2tcn650", "action": "rewrite", "reason": "new evidence title" },
+        { "sourceElementId": "sh/yhg7epsj", "action": "rewrite", "reason": "runtime screenshot provenance" },
+        { "sourceElementId": "sh/zi98nu94", "action": "rewrite", "reason": "new page number" },
+        { "sourceElementId": "sh/ml07i9sv", "action": "rewrite", "reason": "knowledge label" },
+        { "sourceElementId": "sh/7m98ru9g", "action": "rewrite", "reason": "knowledge explanation" },
+        { "sourceElementId": "sh/oryp8fah", "action": "rewrite", "reason": "governance label" },
+        { "sourceElementId": "sh/pc76hkr2", "action": "rewrite", "reason": "governance explanation" },
+        { "sourceElementId": "im/t03ulobq", "action": "replace", "reason": "actual Web knowledge-base screenshot" },
+        { "sourceElementId": "im/y9sbm9c3", "action": "replace", "reason": "actual Web user-management screenshot" }
+      ]
+    },
+    { "outputSlide": 8, "sourceSlide": 7, "narrativeRole": "endpoint technology", "reuseMode": "duplicate-slide", "editTargets": [{ "sourceElementId": "sh/dcbud0ra", "action": "rewrite", "reason": "renumber after insertion" }] },
+    { "outputSlide": 9, "sourceSlide": 8, "narrativeRole": "backend capabilities", "reuseMode": "duplicate-slide", "editTargets": [{ "sourceElementId": "sh/g72x4zyd", "action": "rewrite", "reason": "renumber after insertion" }] },
+    { "outputSlide": 10, "sourceSlide": 9, "narrativeRole": "consistency path", "reuseMode": "duplicate-slide", "editTargets": [{ "sourceElementId": "sh/0b65obm9", "action": "rewrite", "reason": "renumber after insertion" }] },
+    { "outputSlide": 11, "sourceSlide": 10, "narrativeRole": "security", "reuseMode": "duplicate-slide", "editTargets": [{ "sourceElementId": "sh/cbu58j2h", "action": "rewrite", "reason": "renumber after insertion" }] },
+    { "outputSlide": 12, "sourceSlide": 11, "narrativeRole": "deployment", "reuseMode": "duplicate-slide", "editTargets": [{ "sourceElementId": "sh/wbih4b6d", "action": "rewrite", "reason": "renumber after insertion" }] },
+    { "outputSlide": 13, "sourceSlide": 12, "narrativeRole": "verification evidence", "reuseMode": "duplicate-slide", "editTargets": [{ "sourceElementId": "sh/0f2lgnmp", "action": "rewrite", "reason": "renumber after insertion" }] },
+    { "outputSlide": 14, "sourceSlide": 13, "narrativeRole": "team responsibilities", "reuseMode": "duplicate-slide", "editTargets": [{ "sourceElementId": "sh/bq9orito", "action": "rewrite", "reason": "renumber after insertion" }] },
+    { "outputSlide": 15, "sourceSlide": 14, "narrativeRole": "boundaries and next step", "reuseMode": "duplicate-slide", "editTargets": [{ "sourceElementId": "sh/wbydknq1", "action": "rewrite", "reason": "renumber after insertion" }] },
+    { "outputSlide": 16, "sourceSlide": 15, "narrativeRole": "desktop and mini-program evidence", "reuseMode": "duplicate-slide", "editTargets": [{ "sourceElementId": "sh/k3y5ov21", "action": "rewrite", "reason": "renumber after insertion" }] },
+    {
+      "outputSlide": 17,
+      "sourceSlide": 6,
+      "narrativeRole": "mobile data and workflow evidence",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "sourceElementId": "sh/v2tcn650", "action": "rewrite", "reason": "new evidence title" },
+        { "sourceElementId": "sh/yhg7epsj", "action": "rewrite", "reason": "runtime screenshot provenance" },
+        { "sourceElementId": "sh/zi98nu94", "action": "rewrite", "reason": "new page number" },
+        { "sourceElementId": "sh/ml07i9sv", "action": "rewrite", "reason": "contacts label" },
+        { "sourceElementId": "sh/7m98ru9g", "action": "rewrite", "reason": "contacts explanation" },
+        { "sourceElementId": "sh/oryp8fah", "action": "rewrite", "reason": "approval label" },
+        { "sourceElementId": "sh/pc76hkr2", "action": "rewrite", "reason": "approval explanation" },
+        { "sourceElementId": "im/t03ulobq", "action": "replace", "reason": "actual uni-app contacts screenshot" },
+        { "sourceElementId": "im/y9sbm9c3", "action": "replace", "reason": "actual uni-app approval screenshot" }
+      ]
+    },
+    { "outputSlide": 18, "sourceSlide": 16, "narrativeRole": "conclusion", "reuseMode": "duplicate-slide", "editTargets": [] },
+    { "outputSlide": 19, "sourceSlide": 17, "narrativeRole": "Q&A architecture", "reuseMode": "duplicate-slide", "editTargets": [{ "sourceElementId": "sh/gbedwfmx", "action": "rewrite", "reason": "renumber after second insertion" }] },
+    { "outputSlide": 20, "sourceSlide": 18, "narrativeRole": "Q&A safety and testing", "reuseMode": "duplicate-slide", "editTargets": [{ "sourceElementId": "sh/hsn2l4bu", "action": "rewrite", "reason": "renumber after second insertion" }] },
+    { "outputSlide": 21, "sourceSlide": 19, "narrativeRole": "Q&A leadership and boundaries", "reuseMode": "duplicate-slide", "editTargets": [{ "sourceElementId": "sh/8v2pobax", "action": "rewrite", "reason": "renumber after second insertion" }] }
+  ],
+  "omittedSourceSlides": []
+}

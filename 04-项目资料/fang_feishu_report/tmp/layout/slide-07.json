@@ -1,0 +1,2244 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/dn0rvt",
+    "id": "dn0rvt",
+    "slide": 7,
+    "layoutId": "c868fb6d-cb98-49db-ab90-1361df3b41fa",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "d3368dbe-2a50-47e2-8acb-b5632eb4003b",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "c868fb6d-cb98-49db-ab90-1361df3b41fa",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "d3368dbe-2a50-47e2-8acb-b5632eb4003b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "d3368dbe-2a50-47e2-8acb-b5632eb4003b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/onu5cnyp",
+      "id": "1",
+      "name": "text-103",
+      "bbox": [
+        42,
+        34,
+        1196,
+        62
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0"
+      },
+      "geometry": "rect",
+      "text": "端侧技术按场景分工，共享同一套 API",
+      "textPreview": "端侧技术按场景分工，共享同一套 API",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "Microsoft YaHei",
+        "color": "#101318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "端侧技术按场景分工，共享同一套 API"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "端侧技术按场景分工，共享同一套 API",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 48,
+            "typeface": "Microsoft YaHei",
+            "color": "#101318",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "端侧技术按场景分工，共享同一套 API",
+              "anchor": 1,
+              "fontSize": 48,
+              "typeface": "Microsoft YaHei",
+              "color": "#101318",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "none",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ml43ixk",
+      "id": "2",
+      "name": "text-104",
+      "bbox": [
+        42,
+        684,
+        900,
+        18
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1"
+      },
+      "geometry": "rect",
+      "text": "依据：项目最终代码与 2026-07-19 实际验证",
+      "textPreview": "依据：项目最终代码与 2026-07-19 实际验证",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "依据：项目最终代码与 2026-07-19 实际验证"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "依据：项目最终代码与 2026-07-19 实际验证",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 13,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "依据：项目最终代码与 2026-07-19 实际验证",
+              "anchor": 1,
+              "fontSize": 13,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lcnadgz",
+      "id": "3",
+      "name": "text-105",
+      "bbox": [
+        1185,
+        682,
+        54,
+        20
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2"
+      },
+      "geometry": "rect",
+      "text": "07",
+      "textPreview": "07",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "07"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "07",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 14,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "right",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "07",
+              "anchor": 1,
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "right",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1k3m18fe",
+      "id": "4",
+      "name": "rect-106",
+      "bbox": [
+        42,
+        138,
+        546,
+        472
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3"
+      },
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#C8CDD5",
+      "lineWidth": 1
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gju583yt",
+      "id": "5",
+      "name": "rect-107",
+      "bbox": [
+        692,
+        138,
+        546,
+        472
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.4"
+      },
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#C8CDD5",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fi14zyx8",
+      "id": "6",
+      "name": "text-108",
+      "bbox": [
+        70,
+        166,
+        300,
+        40
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.5"
+      },
+      "geometry": "rect",
+      "text": "Web + Desktop",
+      "textPreview": "Web + Desktop",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#101318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Web + Desktop"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Web + Desktop",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 30,
+            "typeface": "Microsoft YaHei",
+            "color": "#101318",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Web + Desktop",
+              "anchor": 1,
+              "fontSize": 30,
+              "typeface": "Microsoft YaHei",
+              "color": "#101318",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ehs36tgn",
+      "id": "7",
+      "name": "text-109",
+      "bbox": [
+        70,
+        228,
+        360,
+        46
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.6"
+      },
+      "geometry": "rect",
+      "text": "Vue 3 + Electron",
+      "textPreview": "Vue 3 + Electron",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 36,
+        "typeface": "Microsoft YaHei",
+        "color": "#3370FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Vue 3 + Electron"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Vue 3 + Electron",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 36,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Vue 3 + Electron",
+              "anchor": 1,
+              "fontSize": 36,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgjmxof2",
+      "id": "8",
+      "name": "text-110",
+      "bbox": [
+        70,
+        306,
+        440,
+        190
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.7"
+      },
+      "geometry": "rect",
+      "text": "• Web 是完整业务主端\n• Electron 直接复用构建产物\n• 统一路由、状态与 UI\n• 减少桌面端重复开发",
+      "textPreview": "• Web 是完整业务主端 | • Electron 直接复用构建产物 | • 统一路由、状态与 UI | • 减少桌面端重复开发",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 23,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• Web 是完整业务主端"
+          },
+          {
+            "index": 2,
+            "text": "• Electron 直接复用构建产物"
+          },
+          {
+            "index": 3,
+            "text": "• 统一路由、状态与 UI"
+          },
+          {
+            "index": 4,
+            "text": "• 减少桌面端重复开发"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• Web 是完整业务主端\n• Electron 直接复用构建产物\n• 统一路由、状态与 UI\n• 减少桌面端重复开发",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 23,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• Web 是完整业务主端\n• Electron 直接复用构建产物\n• 统一路由、状态与 UI\n• 减少桌面端重复开发",
+              "anchor": 1,
+              "fontSize": 23,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sval43yx",
+      "id": "9",
+      "name": "rect-111",
+      "bbox": [
+        70,
+        520,
+        440,
+        64
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.8"
+      },
+      "geometry": "rect",
+      "fillColor": "#EAF1FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/694365kj",
+      "id": "10",
+      "name": "text-112",
+      "bbox": [
+        88,
+        538,
+        404,
+        30
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.9"
+      },
+      "geometry": "rect",
+      "text": "微信小程序：uni-app 独立实现 · 生产构建通过",
+      "textPreview": "微信小程序：uni-app 独立实现 · 生产构建通过",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#3370FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "微信小程序：uni-app 独立实现 · 生产构建通过"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "微信小程序：uni-app 独立实现 · 生产构建通过",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "微信小程序：uni-app 独立实现 · 生产构建通过",
+              "anchor": 1,
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ad4fal4",
+      "id": "11",
+      "name": "text-113",
+      "bbox": [
+        720,
+        166,
+        390,
+        40
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.10"
+      },
+      "geometry": "rect",
+      "text": "原生 Android",
+      "textPreview": "原生 Android",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#101318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "原生 Android"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "原生 Android",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 30,
+            "typeface": "Microsoft YaHei",
+            "color": "#101318",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "原生 Android",
+              "anchor": 1,
+              "fontSize": 30,
+              "typeface": "Microsoft YaHei",
+              "color": "#101318",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sb6l8f2p",
+      "id": "12",
+      "name": "text-114",
+      "bbox": [
+        720,
+        228,
+        450,
+        46
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.11"
+      },
+      "geometry": "rect",
+      "text": "Kotlin + Jetpack Compose",
+      "textPreview": "Kotlin + Jetpack Compose",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 32,
+        "typeface": "Microsoft YaHei",
+        "color": "#3370FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Kotlin + Jetpack Compose"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Kotlin + Jetpack Compose",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 32,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Kotlin + Jetpack Compose",
+              "anchor": 1,
+              "fontSize": 32,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tcfmhk3u",
+      "id": "13",
+      "name": "text-115",
+      "bbox": [
+        720,
+        306,
+        450,
+        190
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.12"
+      },
+      "geometry": "rect",
+      "text": "• AppViewModel / StateFlow 状态驱动\n• Retrofit / OkHttp 对接 REST\n• SignalR 接收实时消息\n• Agora RTC 视频会议",
+      "textPreview": "• AppViewModel / StateFlow 状态驱动 | • Retrofit / OkHttp 对接 REST | • SignalR 接收实时消息 | • Agora RTC 视频会议",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#687386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• AppViewModel / StateFlow 状态驱动"
+          },
+          {
+            "index": 2,
+            "text": "• Retrofit / OkHttp 对接 REST"
+          },
+          {
+            "index": 3,
+            "text": "• SignalR 接收实时消息"
+          },
+          {
+            "index": 4,
+            "text": "• Agora RTC 视频会议"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• AppViewModel / StateFlow 状态驱动\n• Retrofit / OkHttp 对接 REST\n• SignalR 接收实时消息\n• Agora RTC 视频会议",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#687386",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• AppViewModel / StateFlow 状态驱动\n• Retrofit / OkHttp 对接 REST\n• SignalR 接收实时消息\n• Agora RTC 视频会议",
+              "anchor": 1,
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#687386",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/il4325k7",
+      "id": "14",
+      "name": "rect-116",
+      "bbox": [
+        720,
+        520,
+        458,
+        64
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.13"
+      },
+      "geometry": "rect",
+      "fillColor": "#EAF1FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jmd4bals",
+      "id": "15",
+      "name": "text-117",
+      "bbox": [
+        738,
+        538,
+        422,
+        30
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.14"
+      },
+      "geometry": "rect",
+      "text": "DataStore 会话 · Coil 图片 · 61 个 Compose 标记",
+      "textPreview": "DataStore 会话 · Coil 图片 · 61 个 Compose 标记",
+      "resolvedFontSize": 18.03,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "color": "#3370FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.9,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DataStore 会话 · Coil 图片 · 61 个 Compose 标记"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DataStore 会话 · Coil 图片 · 61 个 Compose 标记",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#3370FF",
+            "bold": true,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DataStore 会话 · Coil 图片 · 61 个 Compose 标记",
+              "anchor": 1,
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#3370FF",
+              "bold": true,
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k7ml4f2d",
+      "id": "16",
+      "name": "rect-118",
+      "bbox": [
+        605,
+        334,
+        62,
+        62
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.15"
+      },
+      "geometry": "ellipse",
+      "fillColor": "#3370FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58vmd03y",
+      "id": "17",
+      "name": "text-119",
+      "bbox": [
+        611,
+        349,
+        50,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.16"
+      },
+      "geometry": "rect",
+      "text": "API",
+      "textPreview": "API",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "API"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "API",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "API",
+              "anchor": 1,
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "baseUnit": 1,
+      "root": {
+        "path": "0",
+        "kind": "layers",
+        "name": "client-reuse-comparison",
+        "requestedSize": {
+          "width": {
+            "mode": "fill",
+            "value": 1
+          },
+          "height": {
+            "mode": "fill",
+            "value": 1
+          }
+        },
+        "intrinsicSize": {
+          "width": 1239,
+          "height": 702
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "text",
+            "name": "text-103",
+            "position": {
+              "left": 42,
+              "top": 34
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1196
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 62
+              }
+            },
+            "intrinsicSize": {
+              "width": 1196,
+              "height": 62
+            },
+            "frame": {
+              "left": 42,
+              "top": 34,
+              "width": 1196,
+              "height": 62
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 34,
+              "width": 1196,
+              "height": 62
+            },
+            "children": [],
+            "text": "端侧技术按场景分工，共享同一套 API",
+            "transform": "none",
+            "element": {
+              "aid": "sh/onu5cnyp",
+              "id": "1",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.1",
+            "kind": "text",
+            "name": "text-104",
+            "position": {
+              "left": 42,
+              "top": 684
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 900
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 18
+              }
+            },
+            "intrinsicSize": {
+              "width": 900,
+              "height": 18
+            },
+            "frame": {
+              "left": 42,
+              "top": 684,
+              "width": 900,
+              "height": 18
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 684,
+              "width": 900,
+              "height": 18
+            },
+            "children": [],
+            "text": "依据：项目最终代码与 2026-07-19 实际验证",
+            "transform": "none",
+            "element": {
+              "aid": "sh/3ml43ixk",
+              "id": "2",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.2",
+            "kind": "text",
+            "name": "text-105",
+            "position": {
+              "left": 1185,
+              "top": 682
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 54
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 20
+              }
+            },
+            "intrinsicSize": {
+              "width": 54,
+              "height": 20
+            },
+            "frame": {
+              "left": 1185,
+              "top": 682,
+              "width": 54,
+              "height": 20
+            },
+            "snappedFrame": {
+              "left": 1185,
+              "top": 682,
+              "width": 54,
+              "height": 20
+            },
+            "children": [],
+            "text": "07",
+            "transform": "none",
+            "element": {
+              "aid": "sh/2lcnadgz",
+              "id": "3",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.3",
+            "kind": "shape",
+            "name": "rect-106",
+            "position": {
+              "left": 42,
+              "top": 138
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 546
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 472
+              }
+            },
+            "intrinsicSize": {
+              "width": 546,
+              "height": 472
+            },
+            "frame": {
+              "left": 42,
+              "top": 138,
+              "width": 546,
+              "height": 472
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 138,
+              "width": 546,
+              "height": 472
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/1k3m18fe",
+              "id": "4",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.4",
+            "kind": "shape",
+            "name": "rect-107",
+            "position": {
+              "left": 692,
+              "top": 138
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 546
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 472
+              }
+            },
+            "intrinsicSize": {
+              "width": 546,
+              "height": 472
+            },
+            "frame": {
+              "left": 692,
+              "top": 138,
+              "width": 546,
+              "height": 472
+            },
+            "snappedFrame": {
+              "left": 692,
+              "top": 138,
+              "width": 546,
+              "height": 472
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/gju583yt",
+              "id": "5",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.5",
+            "kind": "text",
+            "name": "text-108",
+            "position": {
+              "left": 70,
+              "top": 166
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 300
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 40
+              }
+            },
+            "intrinsicSize": {
+              "width": 300,
+              "height": 40
+            },
+            "frame": {
+              "left": 70,
+              "top": 166,
+              "width": 300,
+              "height": 40
+            },
+            "snappedFrame": {
+              "left": 70,
+              "top": 166,
+              "width": 300,
+              "height": 40
+            },
+            "children": [],
+            "text": "Web + Desktop",
+            "transform": "none",
+            "element": {
+              "aid": "sh/fi14zyx8",
+              "id": "6",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.6",
+            "kind": "text",
+            "name": "text-109",
+            "position": {
+              "left": 70,
+              "top": 228
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 360
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 46
+              }
+            },
+            "intrinsicSize": {
+              "width": 360,
+              "height": 46
+            },
+            "frame": {
+              "left": 70,
+              "top": 228,
+              "width": 360,
+              "height": 46
+            },
+            "snappedFrame": {
+              "left": 70,
+              "top": 228,
+              "width": 360,
+              "height": 46
+            },
+            "children": [],
+            "text": "Vue 3 + Electron",
+            "transform": "none",
+            "element": {
+              "aid": "sh/ehs36tgn",
+              "id": "7",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.7",
+            "kind": "text",
+            "name": "text-110",
+            "position": {
+              "left": 70,
+              "top": 306
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 440
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 190
+              }
+            },
+            "intrinsicSize": {
+              "width": 440,
+              "height": 190
+            },
+            "frame": {
+              "left": 70,
+              "top": 306,
+              "width": 440,
+              "height": 190
+            },
+            "snappedFrame": {
+              "left": 70,
+              "top": 306,
+              "width": 440,
+              "height": 190
+            },
+            "children": [],
+            "text": "• Web 是完整业务主端\n• Electron 直接复用构建产物\n• 统一路由、状态与 UI\n• 减少桌面端重复开发",
+            "transform": "none",
+            "element": {
+              "aid": "sh/tgjmxof2",
+              "id": "8",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.8",
+            "kind": "shape",
+            "name": "rect-111",
+            "position": {
+              "left": 70,
+              "top": 520
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 440
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 64
+              }
+            },
+            "intrinsicSize": {
+              "width": 440,
+              "height": 64
+            },
+            "frame": {
+              "left": 70,
+              "top": 520,
+              "width": 440,
+              "height": 64
+            },
+            "snappedFrame": {
+              "left": 70,
+              "top": 520,
+              "width": 440,
+              "height": 64
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/sval43yx",
+              "id": "9",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.9",
+            "kind": "text",
+            "name": "text-112",
+            "position": {
+              "left": 88,
+              "top": 538
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 404
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 30
+              }
+            },
+            "intrinsicSize": {
+              "width": 404,
+              "height": 30
+            },
+            "frame": {
+              "left": 88,
+              "top": 538,
+              "width": 404,
+              "height": 30
+            },
+            "snappedFrame": {
+              "left": 88,
+              "top": 538,
+              "width": 404,
+              "height": 30
+            },
+            "children": [],
+            "text": "微信小程序：uni-app 独立实现 · 生产构建通过",
+            "transform": "none",
+            "element": {
+              "aid": "sh/694365kj",
+              "id": "10",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.10",
+            "kind": "text",
+            "name": "text-113",
+            "position": {
+              "left": 720,
+              "top": 166
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 390
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 40
+              }
+            },
+            "intrinsicSize": {
+              "width": 390,
+              "height": 40
+            },
+            "frame": {
+              "left": 720,
+              "top": 166,
+              "width": 390,
+              "height": 40
+            },
+            "snappedFrame": {
+              "left": 720,
+              "top": 166,
+              "width": 390,
+              "height": 40
+            },
+            "children": [],
+            "text": "原生 Android",
+            "transform": "none",
+            "element": {
+              "aid": "sh/7ad4fal4",
+              "id": "11",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.11",
+            "kind": "text",
+            "name": "text-114",
+            "position": {
+              "left": 720,
+              "top": 228
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 450
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 46
+              }
+            },
+            "intrinsicSize": {
+              "width": 450,
+              "height": 46
+            },
+            "frame": {
+              "left": 720,
+              "top": 228,
+              "width": 450,
+              "height": 46
+            },
+            "snappedFrame": {
+              "left": 720,
+              "top": 228,
+              "width": 450,
+              "height": 46
+            },
+            "children": [],
+            "text": "Kotlin + Jetpack Compose",
+            "transform": "none",
+            "element": {
+              "aid": "sh/sb6l8f2p",
+              "id": "12",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.12",
+            "kind": "text",
+            "name": "text-115",
+            "position": {
+              "left": 720,
+              "top": 306
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 450
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 190
+              }
+            },
+            "intrinsicSize": {
+              "width": 450,
+              "height": 190
+            },
+            "frame": {
+              "left": 720,
+              "top": 306,
+              "width": 450,
+              "height": 190
+            },
+            "snappedFrame": {
+              "left": 720,
+              "top": 306,
+              "width": 450,
+              "height": 190
+            },
+            "children": [],
+            "text": "• AppViewModel / StateFlow 状态驱动\n• Retrofit / OkHttp 对接 REST\n• SignalR 接收实时消息\n• Agora RTC 视频会议",
+            "transform": "none",
+            "element": {
+              "aid": "sh/tcfmhk3u",
+              "id": "13",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.13",
+            "kind": "shape",
+            "name": "rect-116",
+            "position": {
+              "left": 720,
+              "top": 520
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 458
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 64
+              }
+            },
+            "intrinsicSize": {
+              "width": 458,
+              "height": 64
+            },
+            "frame": {
+              "left": 720,
+              "top": 520,
+              "width": 458,
+              "height": 64
+            },
+            "snappedFrame": {
+              "left": 720,
+              "top": 520,
+              "width": 458,
+              "height": 64
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/il4325k7",
+              "id": "14",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.14",
+            "kind": "text",
+            "name": "text-117",
+            "position": {
+              "left": 738,
+              "top": 538
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 422
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 30
+              }
+            },
+            "intrinsicSize": {
+              "width": 422,
+              "height": 30
+            },
+            "frame": {
+              "left": 738,
+              "top": 538,
+              "width": 422,
+              "height": 30
+            },
+            "snappedFrame": {
+              "left": 738,
+              "top": 538,
+              "width": 422,
+              "height": 30
+            },
+            "children": [],
+            "text": "DataStore 会话 · Coil 图片 · 61 个 Compose 标记",
+            "transform": "none",
+            "element": {
+              "aid": "sh/jmd4bals",
+              "id": "15",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.15",
+            "kind": "shape",
+            "name": "rect-118",
+            "position": {
+              "left": 605,
+              "top": 334
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 62
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 62
+              }
+            },
+            "intrinsicSize": {
+              "width": 62,
+              "height": 62
+            },
+            "frame": {
+              "left": 605,
+              "top": 334,
+              "width": 62,
+              "height": 62
+            },
+            "snappedFrame": {
+              "left": 605,
+              "top": 334,
+              "width": 62,
+              "height": 62
+            },
+            "children": [],
+            "geometry": "ellipse",
+            "element": {
+              "aid": "sh/k7ml4f2d",
+              "id": "16",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.16",
+            "kind": "text",
+            "name": "text-119",
+            "position": {
+              "left": 611,
+              "top": 349
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 50
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 28
+              }
+            },
+            "intrinsicSize": {
+              "width": 50,
+              "height": 28
+            },
+            "frame": {
+              "left": 611,
+              "top": 349,
+              "width": 50,
+              "height": 28
+            },
+            "snappedFrame": {
+              "left": 611,
+              "top": 349,
+              "width": 50,
+              "height": 28
+            },
+            "children": [],
+            "text": "API",
+            "transform": "none",
+            "element": {
+              "aid": "sh/58vmd03y",
+              "id": "17",
+              "kind": "shape"
+            }
+          }
+        ],
+        "padding": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "alignItems": "stretch",
+        "justifyItems": "stretch",
+        "contentFrame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 42,
+              "top": 34,
+              "width": 1196,
+              "height": 62
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 42,
+              "top": 684,
+              "width": 900,
+              "height": 18
+            }
+          },
+          {
+            "path": "0.2",
+            "frame": {
+              "left": 1185,
+              "top": 682,
+              "width": 54,
+              "height": 20
+            }
+          },
+          {
+            "path": "0.3",
+            "frame": {
+              "left": 42,
+              "top": 138,
+              "width": 546,
+              "height": 472
+            }
+          },
+          {
+            "path": "0.4",
+            "frame": {
+              "left": 692,
+              "top": 138,
+              "width": 546,
+              "height": 472
+            }
+          },
+          {
+            "path": "0.5",
+            "frame": {
+              "left": 70,
+              "top": 166,
+              "width": 300,
+              "height": 40
+            }
+          },
+          {
+            "path": "0.6",
+            "frame": {
+              "left": 70,
+              "top": 228,
+              "width": 360,
+              "height": 46
+            }
+          },
+          {
+            "path": "0.7",
+            "frame": {
+              "left": 70,
+              "top": 306,
+              "width": 440,
+              "height": 190
+            }
+          },
+          {
+            "path": "0.8",
+            "frame": {
+              "left": 70,
+              "top": 520,
+              "width": 440,
+              "height": 64
+            }
+          },
+          {
+            "path": "0.9",
+            "frame": {
+              "left": 88,
+              "top": 538,
+              "width": 404,
+              "height": 30
+            }
+          },
+          {
+            "path": "0.10",
+            "frame": {
+              "left": 720,
+              "top": 166,
+              "width": 390,
+              "height": 40
+            }
+          },
+          {
+            "path": "0.11",
+            "frame": {
+              "left": 720,
+              "top": 228,
+              "width": 450,
+              "height": 46
+            }
+          },
+          {
+            "path": "0.12",
+            "frame": {
+              "left": 720,
+              "top": 306,
+              "width": 450,
+              "height": 190
+            }
+          },
+          {
+            "path": "0.13",
+            "frame": {
+              "left": 720,
+              "top": 520,
+              "width": 458,
+              "height": 64
+            }
+          },
+          {
+            "path": "0.14",
+            "frame": {
+              "left": 738,
+              "top": 538,
+              "width": 422,
+              "height": 30
+            }
+          },
+          {
+            "path": "0.15",
+            "frame": {
+              "left": 605,
+              "top": 334,
+              "width": 62,
+              "height": 62
+            }
+          },
+          {
+            "path": "0.16",
+            "frame": {
+              "left": 611,
+              "top": 349,
+              "width": 50,
+              "height": 28
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

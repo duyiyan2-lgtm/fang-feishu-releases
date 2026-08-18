@@ -1,0 +1,19 @@
+项目来源：
+- Web / 桌面 / 后端 / 小程序：C:\Users\duyiyan\Desktop\文件\111
+- 原生 Android：C:\Users\duyiyan\Desktop\文件\fang-feishu-core-cleanV1.1\android-app
+
+内容优先级：以 2026-07-18 最终代码、构建结果与实际页面为准；初稿仅用于团队角色和最初范围。
+
+核心证据：
+1. Web：Vue 3 + Vite + Pinia + Vue Router + Tailwind + Tiptap + SignalR + Agora；src/router/index.js 中 24 个 path 声明。
+2. 桌面端：Electron 31 + electron-builder，复用 Web 构建产物，package.json 版本 0.4.0。
+3. 原生 Android：Kotlin + Jetpack Compose + MVVM/StateFlow + Retrofit/OkHttp + SignalR + Agora RTC + DataStore + Coil；16 个 Kotlin 文件、约 4,368 行源码、61 个 @Composable 标记、52 个 Retrofit REST 路由；assembleDebug 通过并生成 60,200,750 字节 Debug APK。
+4. 微信小程序：uni-app Vue 3 独立实现，pages.json 中 22 个页面，生产构建通过；与其他终端共享后端身份、组织和业务 API。
+5. 后端：ASP.NET Core net8.0；16 个控制器、142 个 Http* action；AppDbContext 中 36 个 DbSet。
+6. 实时：SignalR /hubs/im；用户组与会话组；通知、好友、会议事件；数据库写入成功后尽力推送，推送失败不回滚已提交业务。
+7. 安全：JWT issuer/audience/lifetime/signing key，jti 撤销，client_type + client_session_version，同类型客户端会话版本校验，角色权限与操作日志。
+8. 存储与部署：PostgreSQL + EF Core；本地/MinIO 可切换文件存储；Docker Compose、Nginx WebSocket Upgrade；/health/live 与 /health。
+9. 实际验证（2026-07-19）：后端测试 41/41 通过；Web 生产构建通过、635 modules transformed；Android assembleDebug 通过；微信小程序构建通过。
+10. 已知边界：Web Messages 构建块约 1.64 MB；文档尚非 Yjs/CRDT 多光标实时共编；Android testDebugUnitTest 当前存在测试类加载失败，需要修复测试执行链并补 Compose UI Test / Android CI。
+
+实际页面截图由本地 Web 前端连接真实后端测试账号 admin/123456 获取，仅用于本项目汇报。
